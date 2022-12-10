@@ -9,8 +9,10 @@ Full (Include resources + esp):
     1. [**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
 * Von Django
     1. [**Rogue's Gallery**](https://www.nexusmods.com/morrowind/mods/49874) by Von Djangos  
-* RandomPal (granted by mod permissions)
+* RandomPal (granted directly)
     1. [**Netch adamantium armour integrated**](https://www.nexusmods.com/morrowind/mods/49641) by RandomPal and Cythus  
+    2. [**Vanilla Friendly Wearables Expansion**](https://www.nexusmods.com/morrowind/mods/48683?tab=files) by RandomPal  
+    3. [**Dunmer Nobles Overhaul compatibility patch for Vanilla and Westly's Heads**](https://www.nexusmods.com/morrowind/mods/48313) by RandomPal  
 
 Partial (Can use esp but need to link resources)
 * 
@@ -34,11 +36,11 @@ Unknown
 * Kafeid
 * Endoran
 * Netch Adamantium
-* Von Django
 * Fancy barenziah
 * Witcher stuff (Triss outfit for Elone?)
 * Morag Tong stuff
 * R-zero hats (if not in OAAB)
 * RandomPal (VFW/Netch Adamantium)
-    1. [**Vanilla Friendly Wearables Expansion**](https://www.nexusmods.com/morrowind/mods/48683?tab=files) by RandomPal  
-    2. [**Dunmer Nobles Overhaul compatibility patch for Vanilla and Westly's Heads**](https://www.nexusmods.com/morrowind/mods/48313) by RandomPal  
+
+* Markond
+[**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282?tab=description) by Markond  

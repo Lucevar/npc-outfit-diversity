@@ -6,6 +6,9 @@
 **Ahetotis Furotis**  
 * Rogues Gallery - Head from TD  
 
+**Alam Merys**  
+* Netch Adamantium  
+
 **Almsi Oren**  
 * Rogues Gallery - Head from TD  
 
@@ -38,90 +41,6 @@
 
 
 ## B
-**Bels Uvenim**  
-* Ceremonial adamantium armor (blue variant)
-**Bronosa Nedalor**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-
-## D
-**Direr Andrano**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Dram Bero**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Dredase Arvel**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-
-## F
-**Fedura Sethan**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Forven Berano**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Foves Arenim**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-
-## L
-**Llaros Uvayn**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Lleris Rathryon**  
-* Ceremonial adamantium armor (blue variant)
-
-## N
-**Nevena Ules**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Nileno Dorvayn**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-
-## O
-**Odral Helvi**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Ondres Nerano**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Orvas Dren**  
-* Ceremonial adamantium armor (red variant)
-
-## R
-**Ravoso Aryon**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Rovone Arvel**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-
-## S
-**Sedrane Arvel**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-**Sodres Nerethi**  
-* Ceremonial adamantium armor (red variant)
-
-## T
-**Talare Arvel**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-
-## U
-**Urene Arvel**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-
-## V
-**Velanda Omani**  
-* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
-
-
 **Badama Andarys** 
 * Rogues Gallery - Head from TD  
 
@@ -136,6 +55,9 @@
 
 **Belas Othren** 
 * Rogues Gallery - Head from TD  
+
+**Bels Uvenim**  
+* Ceremonial adamantium armor (blue variant)
 
 **Benar Neleth** 
 * Rogues Gallery - Head from TD  
@@ -173,9 +95,13 @@
 **Breynis Faryon** 
 * Rogues Gallery - Head from TD  
 
+**Bronosa Nedalor**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
 **Brothes Oran** 
 * Rogues Gallery - Head from TD  
 
+## C
 **Caccian Hers** 
 * Rogues Gallery - Head from TD  
 
@@ -191,6 +117,7 @@
 **Crottus Cedus** 
 * Rogues Gallery - Head from TD  
 
+## D
 **Daldur Sarys** 
 * Rogues Gallery - Head from TD  
 
@@ -212,6 +139,9 @@
 **Daynila Andrano** 
 * Rogues Gallery - Head from TD  
 
+**Direr Andrano**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
 **Dothasi Mothryon** 
 * Rogues Gallery - Head from TD  
 
@@ -224,6 +154,9 @@
 **Dovrosi Varyon** 
 * Rogues Gallery - Head from TD  
 
+**Dram Bero**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
 **Drandryn Omoran** 
 * Rogues Gallery - Head from TD  
 
@@ -235,6 +168,9 @@
 
 **Dravil Omavel** 
 * Rogues Gallery - Head from TD  
+
+**Dredase Arvel**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
 **Dredyni Salvani** 
 * Rogues Gallery - Head from TD  
@@ -254,6 +190,7 @@
 **Dunius Valodius** 
 * Rogues Gallery - Head from TD  
 
+## E
 **Elenwen** 
 * Rogues Gallery - Head from TD  
 
@@ -272,11 +209,15 @@
 **Evilu Indrano** 
 * Rogues Gallery - Head from TD  
 
+## F
 **Falion** 
 * Rogues Gallery - Head from TD  
 
 **Fanuse Farano** 
 * Rogues Gallery - Head from TD  
+
+**Fedura Sethan**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
 **Felara Thimalvel** 
 * Rogues Gallery - Head from TD  
@@ -302,9 +243,16 @@
 **Folyni Dran** 
 * Rogues Gallery - Head from TD  
 
+**Forven Berano**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+  
+**Foves Arenim**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
 **Fovus Faravel** 
 * Rogues Gallery - Head from TD  
 
+## G
 **Gadasu Serothan** 
 * Rogues Gallery - Head from TD  
 
@@ -335,12 +283,14 @@
 **Gwen** 
 * Rogues Gallery - Head from TD  
 
+## I
 **Idronea Sadri** 
 * Rogues Gallery - Head from TD  
 
 **Idula Moren** 
 * Rogues Gallery - Head from TD  
 
+## J
 **Jaline** 
 * Rogues Gallery - Head from TD  
 
@@ -350,6 +300,7 @@
 **Kanet** 
 * Rogues Gallery - Head from TD  
 
+## L
 **Lanald** 
 * Rogues Gallery - Head from TD  
 
@@ -368,11 +319,18 @@
 **Llanas Drilvi** 
 * Rogues Gallery - Head from TD  
 
+**Llaros Uvayn**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
 **Llavam Adas** 
 * Rogues Gallery - Head from TD  
 
 **Lleris Rathryon** 
 * Rogues Gallery - Head from TD  
+* Ceremonial adamantium armor (blue variant)  
+
+**Llivas Othravel**  
+* Netch Adamantium  
 
 **Llondresa Reloth** 
 * Rogues Gallery - Head from TD  
@@ -386,6 +344,7 @@
 **Lurius Lalelius** 
 * Rogues Gallery - Head from TD  
 
+## M
 **Madaynu Aravel** 
 * Rogues Gallery - Head from TD  
 
@@ -410,8 +369,15 @@
 **Mulvisie Othril** 
 * Rogues Gallery - Head from TD  
 
+## N
 **Nalur Indrano** 
 * Rogues Gallery - Head from TD  
+
+**Nevena Ules**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+  
+**Nileno Dorvayn**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
 **Nistacey** 
 * Rogues Gallery - Head from TD  
@@ -425,6 +391,20 @@
 **Novrynea Falen** 
 * Rogues Gallery - Head from TD  
 
+## O
+**Odral Helvi**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+  
+**Oisig**  
+* Netch Adamantium  
+
+**Ondres Nerano**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+  
+**Orvas Dren**  
+* Ceremonial adamantium armor (red variant)
+
+## P
 **Penald** 
 * Rogues Gallery - Head from TD  
 
@@ -434,11 +414,16 @@
 **Pritia Plalocius** 
 * Rogues Gallery - Head from TD  
 
+## R
 **Ralos Othrenim** 
 * Rogues Gallery - Head from TD  
+* Netch Adamantium  
 
 **Ravos Relarys** 
 * Rogues Gallery - Head from TD  
+
+**Ravoso Aryon**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
 **Rilas Arethan** 
 * Rogues Gallery - Head from TD  
@@ -446,14 +431,21 @@
 **Rirns Uveran** 
 * Rogues Gallery - Head from TD  
 
+**Rovone Arvel**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
 **Ruvene Ulven** 
 * Rogues Gallery - Head from TD  
 
+## S
 **Sarvur Sadri** 
 * Rogues Gallery - Head from TD  
 
 **Savure Uvalor** 
 * Rogues Gallery - Head from TD  
+
+**Sedrane Arvel**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
 **Seliulus Laenius** 
 * Rogues Gallery - Head from TD  
@@ -467,8 +459,16 @@
 **Sifknir** 
 * Rogues Gallery - Head from TD  
 
+**Sodres Nerethi**  
+* Ceremonial adamantium armor (red variant)  
+
 **Sulesa** 
 * Rogues Gallery - Head from TD  
+
+
+## T
+**Talare Arvel**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
 **Tandasea Salas** 
 * Rogues Gallery - Head from TD  
@@ -517,13 +517,18 @@
 
 **Tuvenie Varam** 
 * Rogues Gallery - Head from TD  
-
+  
+## U
 **Ulves Marvel** 
 * Rogues Gallery - Head from TD  
+
+**Urene Arvel**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
 **Uvisea Benethran** 
 * Rogues Gallery - Head from TD  
 
+## V
 **Vadeni Rethan** 
 * Rogues Gallery - Head from TD  
 
@@ -542,8 +547,12 @@
 **Vaves Virith** 
 * Rogues Gallery - Head from TD  
 
+**Velanda Omani**  
+* Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
 **Vianis Tiragrius** 
 * Rogues Gallery - Head from TD  
 
+## Y
 **Yatur gro-Shak** 
 * Rogues Gallery - Head from TD  

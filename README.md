@@ -13,10 +13,13 @@ In some cases, where the armor/gold values from the original mods are egregiousl
 * OAAB Data
 * Tamriel Data
 * Better Bodies
+* MGE XE-MWSE
+* [**Onion - Layered Accessories**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox  
 
 ## Mods Included:
 * [**Ceremonial Adamantium Armor V2.11**](https://www.nexusmods.com/morrowind/mods/46629) by RuffinVangarr  
-
+* [**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
+* [**Rogue's Gallery**](https://www.nexusmods.com/morrowind/mods/49874) by Von Djangos  
 
 ## Recommended mods
 * [**Dunmer Nobles Overhaul compatibility patch for Vanilla and Westly's Heads**](https://www.nexusmods.com/morrowind/mods/48313) by RandomPal  
