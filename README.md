@@ -8,7 +8,7 @@ Distributes community assets to various NPCs. My personal alternative to Vanilla
 
 ## Mods Included:
 * [**Ceremonial Adamantium Armor V2.11**](https://www.nexusmods.com/morrowind/mods/46629) by RuffinVangarr  
-- Deleted Ulain
-- Both variants are now available
-- Added to Wares
-- Gave to NPCs
+  1. Deleted Ulain
+  2. Both variants are now available
+  3. Added to Wares
+  4. Gave to NPCs
