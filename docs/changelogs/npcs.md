@@ -9,6 +9,9 @@
 **Alam Merys**  
 * Netch Adamantium  
 
+**aldaril**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Almsi Oren**  
 * Rogues Gallery - Head from TD  
 
@@ -24,6 +27,9 @@
 **Alvos Sadri** 
 * Rogues Gallery - Head from TD  
 
+**apelles matius**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Arelvam Sadrano** 
 * Rogues Gallery - Head from TD  
 
@@ -35,10 +41,19 @@
 
 **Arvela Falas**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
-  
+
+**Asciene Rane**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
 **Audania Afronia** 
 * Rogues Gallery - Head from TD  
 
+**Augurius Sialius**
+* Removed in NOD: Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Aumsi**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes   
 
 ## B
 **Badama Andarys** 
@@ -71,11 +86,23 @@
 **Birama Andaram** 
 * Rogues Gallery - Head from TD  
 
+**Birard Adrognese**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Bjadmund**  
+* Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+  
+**bogdub gra-gurakh**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Boler Bandas** 
 * Rogues Gallery - Head from TD  
 
 **Bolvus Ieneth** 
 * Rogues Gallery - Head from TD  
+
+**Bolyn Elval**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor  
 
 **Boryn Varen** 
 * Rogues Gallery - Head from TD  
@@ -95,6 +122,9 @@
 **Breynis Faryon** 
 * Rogues Gallery - Head from TD  
 
+**Briring**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Bronosa Nedalor**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
@@ -105,21 +135,34 @@
 **Caccian Hers** 
 * Rogues Gallery - Head from TD  
 
+**Cavortius Albuttian**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**chargen captain**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Cinda** 
 * Rogues Gallery - Head from TD  
 
 **Clecentor Aerius** 
 * Rogues Gallery - Head from TD  
 
+**clilias pullia**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Cluson** 
 * Rogues Gallery - Head from TD  
 
 **Crottus Cedus** 
 * Rogues Gallery - Head from TD  
+* Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
 
 ## D
 **Daldur Sarys** 
 * Rogues Gallery - Head from TD  
+
+**Dangor**  
+* Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
 
 **Daracy** 
 * Rogues Gallery - Head from TD  
@@ -178,6 +221,12 @@
 **Drendrisa Fareloth** 
 * Rogues Gallery - Head from TD  
 
+**Dreynis Nothro**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor  
+ 
+**Dridas Salvani**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor  
+
 **Dridyn Berethi** 
 * Rogues Gallery - Head from TD  
 
@@ -187,21 +236,58 @@
 **Dudley** 
 * Rogues Gallery - Head from TD  
 
+**Duke's Guard - Duke's Guard**  
+* Removed in NOD: Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Duke's Guard_Council**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+ 
+**Duke's Guard - Duke's Guard_tomb**  
+* Removed in NOD: Community Equipment Integration - RuffinVangarr's Duke's Guard Armor   
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+ 
+**Duke's Guard - Duke's Guard_tomb2**  
+* Removed in NOD: Community Equipment Integration - RuffinVangarr's Duke's Guard Armor   
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**dul gro-dush**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**dumbuk gro-bolak**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Dunius Valodius** 
 * Rogues Gallery - Head from TD  
 
 ## E
+**Eiruki Hearth-Healer**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**Ekkhi**  
+* Removed in NOD: Community Equipment Integration - RuffinVangarr's Nordic Iron Armor 
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Elenwen** 
 * Rogues Gallery - Head from TD  
 
 **Ena** 
 * Rogues Gallery - Head from TD  
 
+**Ennah**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor   
+
 **Enjine** 
 * Rogues Gallery - Head from TD  
 
 **Eponis Vinipter** 
 * Rogues Gallery - Head from TD  
+
+**Ervona Barys**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Esar-Don Dunsamsi**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor  
 
 **Esdrufus Harsinia** 
 * Rogues Gallery - Head from TD  
@@ -212,6 +298,9 @@
 ## F
 **Falion** 
 * Rogues Gallery - Head from TD  
+
+**Fainertil**  
+* Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
 
 **Fanuse Farano** 
 * Rogues Gallery - Head from TD  
@@ -252,6 +341,12 @@
 **Fovus Faravel** 
 * Rogues Gallery - Head from TD  
 
+**Frostien Ephine**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**Furius Acilius**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 ## G
 **Gadasu Serothan** 
 * Rogues Gallery - Head from TD  
@@ -265,14 +360,23 @@
 **Galtis Serethi** 
 * Rogues Gallery - Head from TD  
 
+**Galvene Othrobar**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor  
+
 **Gancolm** 
 * Rogues Gallery - Head from TD  
 
 **Gazalem** 
 * Rogues Gallery - Head from TD  
 
+**general darius**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Gilyn Drobar** 
 * Rogues Gallery - Head from TD  
+
+**Glallian Maraennius**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
 
 **Golar Omoran** 
 * Rogues Gallery - Head from TD  
@@ -283,6 +387,17 @@
 **Gwen** 
 * Rogues Gallery - Head from TD  
 
+## H
+**Haki the Halt**  
+* Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+ 
+**Hingor**  
+* Removed in NOD: Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+ 
+**Hodlismod**  
+* Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
 ## I
 **Idronea Sadri** 
 * Rogues Gallery - Head from TD  
@@ -290,22 +405,66 @@
 **Idula Moren** 
 * Rogues Gallery - Head from TD  
 
+**Ilmyna Romoren**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor  
+
+**imperial archer**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**imperial archer buck**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**imperial guard captain**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**Imperial Guard_buckmoth**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**Imperial Guard_company**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
+**Imperial Guard_ebonhear**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Iulus Truptor**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
 ## J
 **Jaline** 
 * Rogues Gallery - Head from TD  
+* Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**Jelin**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
 
 **Jine** 
 * Rogues Gallery - Head from TD  
 
+**joncis dalomax**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+ 
+## K
 **Kanet** 
 * Rogues Gallery - Head from TD  
 
+**Kaye**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
 ## L
+**Lalatia Varian**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
 **Lanald** 
 * Rogues Gallery - Head from TD  
 
+**largakh gro-bulfim**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Larisus Dergius** 
 * Rogues Gallery - Head from TD  
+
+**larrius varro**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
 
 **Lesley** 
 * Rogues Gallery - Head from TD  
@@ -344,6 +503,9 @@
 **Lurius Lalelius** 
 * Rogues Gallery - Head from TD  
 
+**Luspinian Hertarian**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor  
+
 ## M
 **Madaynu Aravel** 
 * Rogues Gallery - Head from TD  
@@ -357,17 +519,30 @@
 **Maros Gimayn** 
 * Rogues Gallery - Head from TD  
 
+**Matus Mido**  
+* Removed in NOD: Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Mecilvus Gabenagus** 
 * Rogues Gallery - Head from TD  
 
 **Melar Baram** 
 * Rogues Gallery - Head from TD  
 
+**molvirian palenix**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Moria Uulentanus** 
 * Rogues Gallery - Head from TD  
 
+**mug gro-dulob**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Mulvisie Othril** 
 * Rogues Gallery - Head from TD  
+
+**Melur Savil**  
+* Community Equipment Integration - RuffinVangarr's Imperial Studded Leather 
 
 ## N
 **Nalur Indrano** 
@@ -398,8 +573,14 @@
 **Oisig**  
 * Netch Adamantium  
 
+**Olfin gro-Logrob**  
+* Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
 **Ondres Nerano**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
+**optio bologra**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
   
 **Orvas Dren**  
 * Ceremonial adamantium armor (red variant)
@@ -415,6 +596,9 @@
 * Rogues Gallery - Head from TD  
 
 ## R
+**raesa pullia**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Ralos Othrenim** 
 * Rogues Gallery - Head from TD  
 * Netch Adamantium  
@@ -425,6 +609,12 @@
 **Ravoso Aryon**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
+**Reaver - bm_reaver_50**  
+* Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**Relen Hlaalu**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
 **Rilas Arethan** 
 * Rogues Gallery - Head from TD  
 
@@ -434,10 +624,16 @@
 **Rovone Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
+**Rufinus Alleius**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
 **Ruvene Ulven** 
 * Rogues Gallery - Head from TD  
 
 ## S
+**Sader**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Sarvur Sadri** 
 * Rogues Gallery - Head from TD  
 
@@ -456,11 +652,35 @@
 **Sevame Saryon** 
 * Rogues Gallery - Head from TD  
 
+**Shamob gro-Shatub**  
+* Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
+
+**Shardie**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**sharkub gro-khashnar**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Sifknir** 
 * Rogues Gallery - Head from TD  
 
+**Sirollus Saccus**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**snakha gro-marob**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Sodres Nerethi**  
 * Ceremonial adamantium armor (red variant)  
+
+**solea nuccusius**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+ 
+**Sondaale of Shimmerene**  
+* Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
+ 
+**Stenet**  
+* Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
 
 **Sulesa** 
 * Rogues Gallery - Head from TD  
@@ -515,10 +735,19 @@
 **Torosi Othreloth** 
 * Rogues Gallery - Head from TD  
 
+**Tuvene Arethan**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
 **Tuvenie Varam** 
 * Rogues Gallery - Head from TD  
   
 ## U
+**ughash gro-batul**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**ulumpha gra-sharob**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Ulves Marvel** 
 * Rogues Gallery - Head from TD  
 
@@ -538,11 +767,25 @@
 **Valvesu Indaram** 
 * Rogues Gallery - Head from TD  
 
+**vantustius pundus**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Varenu Indaram** 
 * Rogues Gallery - Head from TD  
 
+**varian angius**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Varis Ginith** 
 * Rogues Gallery - Head from TD  
+
+**Varus Vatinius**  
+* Removed in NOD: Community Equipment Integration - RuffinVangarr's Duke's Guard Armor   
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
+**vatollia apo**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
 
 **Vaves Virith** 
 * Rogues Gallery - Head from TD  
@@ -550,8 +793,20 @@
 **Velanda Omani**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
+**Velfred the Outlaw**  
+* Community Equipment Integration - RuffinVangarr's Dreugh Armor   
+   
+**vertilvius cines**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+
 **Vianis Tiragrius** 
 * Rogues Gallery - Head from TD  
+
+**viccia claevius**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
+  
+**Vinnus Laecinnius**  
+* Compatibility Note: Imperial Armour Expanded - Armour changes  
 
 ## Y
 **Yatur gro-Shak** 
