@@ -51,7 +51,14 @@ I largely leave generic guards alone so you can use your guard mods of choice.
 - Unchanged from original.  
 * [**Dim's Khajiit Head and Hair Pack**](https://www.nexusmods.com/morrowind/mods/51977) by DimNussens 
 - TODO: distribute to NPCs
-
+* [**Armored Robes Compilation and NPC changes**](https://www.nexusmods.com/morrowind/mods/44096) by Aoimevelho  
+- Kept mabrigash and ordinator changes
+- Kept 90% of the armored robe distributions
+- Removed a lot of Telvanni & Hlaalu armored robes, replaced legion battlemage robes with OAAB battlemage set
+* [**Buoyant Armigers Armor**](https://www.nexusmods.com/morrowind/mods/43143) by Aoimevelho  
+- Kept all changes.  
+* [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835) by Aoimevelho  
+- Kept all NPC changes. Removed from traders. Kept leveled lists. 
 
 ## Recommended mods
 * [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
@@ -66,3 +73,9 @@ MWSE required. There are 3 vampire bloodlines in the vanilla game and they all l
 * [**Dwarf-style Mage Hat in Morrowind**](https://www.nexusmods.com/morrowind/mods/50523) by Leiawen Aoimevelho FrummYonda  
 * [**OAAB_Data and Community Equipment Integration - War Armor and Sathil Mercenary**](https://www.nexusmods.com/morrowind/mods/50307) by Lucas9  
 You'll need to get [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038) by Ashstaar, and will probably want to get RuffinVangarr's updated versions of the armor [**here (Sathil Mercenary)**](https://www.nexusmods.com/morrowind/mods/48340) and [**here (War Armor)**](https://www.nexusmods.com/morrowind/mods/48770).  
+
+## Incompatible With
+* The original mods
+* Vanilla Friendly Wearables Expansion
+* Wares NPCs modules (other modules of Wares are compatible and recommended)
+* Raym's Absolutely Aleatory Accoutrements

@@ -61,3 +61,4 @@ Simple Cloth Scarf Mod: https://www.nexusmods.com/morrowind/mods/49100
 Danke Armours: 
 quorn resource integration - argonian sets
 anroha glass weapons set
+*Issue of thrust/OAAB

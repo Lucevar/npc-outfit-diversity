@@ -1,20 +1,13 @@
 Core:
-
-* Distribute OAAB hoods as I go
 * Add the rest of Ruffin's mods
-* Add armored robes
-* Add buoyant armigers
-* Add dunmer nobles
 * Add dreamer expansion clothes
-* Add westly patch for dunmer nobles
-* 
-* Check if I need to add any of the variants from RV's Imperial Studded Leather, Nordic Iron
-* Distribute OAAB armors
 * Add Danke's armors
 * Add OAAB/R-zero hats
 * Add fcot
 * Give caravaners and shipmasters appropriate outfits and torches/lanterns
 * Add Khajiit outfit diversity
+* Give all master trainers a lookover
+* Give Bolvyn Venim the ebony armor
 
 OAAB hood armor value patch
 
@@ -47,6 +40,13 @@ Done v1.0
 * Added more cloth helms
 * Added More Argonian Hair & added their changes to the NPC list
 * Added Dim's Khajiit head & hair pack
+* Added armored robes & added to NPC tracker
+* Added dunmer nobles
+* Added westly patch for dunmer nobles
+* Added buoyant armiger armor
+* Distribute OAAB armors
+* Distribute OAAB hoods as I go
+* Check if I need to add any of the variants from RV's Imperial Studded Leather, Nordic Iron
 
 NPCS to update:
 
