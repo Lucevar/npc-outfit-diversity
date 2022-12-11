@@ -24,9 +24,12 @@ Full (Include resources + esp):
     1. [**Dim's Khajiit Head and Hair Pack**](https://www.nexusmods.com/morrowind/mods/51977) by DimNussens  
 * Markond (granted directly)
     1. [**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282?tab=description) by Markond  
+* Danke (granted by mod permissions)
+    1. [**Danke's Armours**](https://www.nexusmods.com/morrowind/mods/45114) by Danke  
 
 Partial (Can use esp but need to link resources)
-* 
+* Ashtaar
+    1. War Armor and Sathil - armors are available as a resource   
 
 Recommend original instead:
 * Fancy Barenziah
@@ -50,3 +53,11 @@ Unknown
 * Morag Tong stuff
 * R-zero hats (if not in OAAB)
 * Hold It
+Black GLass armor: https://mw.modhistory.com/download-21-14166
+Telvanni Warriors: https://www.nexusmods.com/morrowind/mods/43254?
+Iron Variants: https://www.nexusmods.com/morrowind/mods/43260
+Void Gear: http://mw.modhistory.com/download-37-9394
+Simple Cloth Scarf Mod: https://www.nexusmods.com/morrowind/mods/49100
+Danke Armours: 
+quorn resource integration - argonian sets
+anroha glass weapons set

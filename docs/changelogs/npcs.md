@@ -2,9 +2,19 @@
 
 **Adil Norvayn**  
 * Rogues Gallery - Head from TD  
+* NOD: Heavy chitin armor + OAAB scarf
+
+**ah-meesei**  
+* Hair from More Argonian Hair   
+
+**ahaht**  
+* Hair from More Argonian Hair   
 
 **Ahetotis Furotis**  
 * Rogues Gallery - Head from TD  
+
+**akish**  
+* Hair from More Argonian Hair   
 
 **Alam Merys**  
 * Netch Adamantium  
@@ -27,11 +37,26 @@
 **Alvos Sadri** 
 * Rogues Gallery - Head from TD  
 
-**apelles matius**  
+**am-ra**  
+* Hair from More Argonian Hair   
+
+**Anes Vendu**  
+* NOD: Cuirass and bracer from RV's Dwemer Scrap Armor  
+
+**Apelles Matius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
 **Arelvam Sadrano** 
 * Rogues Gallery - Head from TD  
+
+**Arenara**  
+* NOD: Pieces of RV's Dwemer Scrap Armor  
+
+**argonian slave female**  
+* Hair from More Argonian Hair   
+
+**argonian slave male**  
+* Hair from More Argonian Hair   
 
 **Ariulcabor Leontiulonus** 
 * Rogues Gallery - Head from TD  
@@ -42,8 +67,14 @@
 **Arvela Falas**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
+**Arvs Raram**  
+* Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
+
 **Asciene Rane**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
+**asum**  
+* Hair from More Argonian Hair   
 
 **Audania Afronia** 
 * Rogues Gallery - Head from TD  
@@ -62,6 +93,9 @@
 **Balsa Girith** 
 * Rogues Gallery - Head from TD  
 
+**Banalz**  
+* Hair from More Argonian Hair   
+
 **Bazgulub gro-Ulfish** 
 * Rogues Gallery - Head from TD  
 
@@ -72,7 +106,7 @@
 * Rogues Gallery - Head from TD  
 
 **Bels Uvenim**  
-* Ceremonial adamantium armor (blue variant)
+* NOD: Ceremonial adamantium armor (blue variant)
 
 **Benar Neleth** 
 * Rogues Gallery - Head from TD  
@@ -110,11 +144,18 @@
 **Bralsea Seloth** 
 * Rogues Gallery - Head from TD  
 
+**breech-star**  
+* Hair from More Argonian Hair   
+
 **Brelayne Verano** 
 * Rogues Gallery - Head from TD  
 
 **Brelyn Indarys** 
 * Rogues Gallery - Head from TD  
+
+**Brevasu Heran**  
+* NOD: RV's heavy chitin armor  
+* NOD: Hair from TD  
 
 **Breves Omoril** 
 * Rogues Gallery - Head from TD  
@@ -135,11 +176,23 @@
 **Caccian Hers** 
 * Rogues Gallery - Head from TD  
 
+**cattle_arg_f01**  
+* Hair from More Argonian Hair   
+
+**cattle_arg_m01**  
+* Hair from More Argonian Hair   
+
 **Cavortius Albuttian**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
   
 **chargen captain**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**cheesh-meeus**  
+* Hair from More Argonian Hair   
+
+**chulz**  
+* Hair from More Argonian Hair   
 
 **Cinda** 
 * Rogues Gallery - Head from TD  
@@ -164,6 +217,9 @@
 **Dangor**  
 * Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
 
+**dan_ru**  
+* Hair from More Argonian Hair   
+
 **Daracy** 
 * Rogues Gallery - Head from TD  
 
@@ -176,11 +232,17 @@
 **Davis Nelaram** 
 * Rogues Gallery - Head from TD  
 
+**Dathus Selvilo** 
+* Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
+
 **Davur Githendas** 
 * Rogues Gallery - Head from TD  
 
 **Daynila Andrano** 
 * Rogues Gallery - Head from TD  
+
+**Delmon Famori**  
+* NOD: Gave OAAB scarf and RV's heavy chitin boots  
 
 **Direr Andrano**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -211,6 +273,9 @@
 
 **Dravil Omavel** 
 * Rogues Gallery - Head from TD  
+
+**dreaded_water**  
+* Hair from More Argonian Hair   
 
 **Dredase Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -260,6 +325,9 @@
 **Dunius Valodius** 
 * Rogues Gallery - Head from TD  
 
+**Durgat gra-Glurkub**  
+* NOD: Pieces of RV's Dwemer Scrap Armor  
+
 ## E
 **Eiruki Hearth-Healer**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -292,6 +360,9 @@
 **Esdrufus Harsinia** 
 * Rogues Gallery - Head from TD  
 
+**eutei**  
+* Hair from More Argonian Hair   
+
 **Evilu Indrano** 
 * Rogues Gallery - Head from TD  
 
@@ -304,6 +375,9 @@
 
 **Fanuse Farano** 
 * Rogues Gallery - Head from TD  
+
+**Farare Othril**  
+* Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
 
 **Fedura Sethan**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -328,6 +402,9 @@
 
 **Filbeneth** 
 * Rogues Gallery - Head from TD  
+
+**fine_mouth**  
+* Hair from More Argonian Hair   
 
 **Folyni Dran** 
 * Rogues Gallery - Head from TD  
@@ -363,20 +440,45 @@
 **Galvene Othrobar**  
 * Community Equipment Integration - RuffinVangarr's Dreugh Armor  
 
+**gam-kur**  
+* Hair from More Argonian Hair   
+
 **Gancolm** 
 * Rogues Gallery - Head from TD  
 
+**Garisa Llethri**  
+* Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
+
+**Gavesu Arelas**  
+* NOD: RV's Heavy Chitin Armor set
+
 **Gazalem** 
 * Rogues Gallery - Head from TD  
+* NOD: Pauldrons from RV's heavy chitin armor  
+
+**Geel_Lah**  
+* Hair from More Argonian Hair   
 
 **general darius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
+**Giden Nelvilo**  
+* NOD: Gave OAAB Sal-Amur armour set  
+
+**gih-ja**  
+* Hair from More Argonian Hair   
+
 **Gilyn Drobar** 
 * Rogues Gallery - Head from TD  
 
+**gish**  
+* Hair from More Argonian Hair   
+
 **Glallian Maraennius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Glasha gra-Magar**  
+* NOD: Pieces of RV's Dwemer Scrap Armor  
 
 **Golar Omoran** 
 * Rogues Gallery - Head from TD  
@@ -384,12 +486,24 @@
 **Golmerea Othravel** 
 * Rogues Gallery - Head from TD  
 
+**grey_throat**  
+* Hair from More Argonian Hair   
+
 **Gwen** 
 * Rogues Gallery - Head from TD  
 
 ## H
 **Haki the Halt**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**haran**  
+* Hair from More Argonian Hair   
+
+**hathei**  
+* Hair from More Argonian Hair   
+
+**heir-zish**  
+* Hair from More Argonian Hair   
  
 **Hingor**  
 * Removed in NOD: Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
@@ -397,6 +511,9 @@
  
 **Hodlismod**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**hul**  
+* Hair from More Argonian Hair   
 
 ## I
 **Idronea Sadri** 
@@ -407,6 +524,9 @@
 
 **Ilmyna Romoren**  
 * Community Equipment Integration - RuffinVangarr's Dreugh Armor  
+
+**Im_Kilaya**  
+* Hair from More Argonian Hair   
 
 **imperial archer**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -426,6 +546,9 @@
 **Imperial Guard_ebonhear**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
+**itan**  
+* Hair from More Argonian Hair   
+
 **Iulus Truptor**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
 
@@ -433,6 +556,12 @@
 **Jaline** 
 * Rogues Gallery - Head from TD  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**jeed-ei**  
+* Hair from More Argonian Hair   
+
+**jeer-maht**  
+* Hair from More Argonian Hair   
 
 **Jelin**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -444,11 +573,20 @@
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
  
 ## K
+**kal_ma**  
+* Hair from More Argonian Hair   
+
 **Kanet** 
 * Rogues Gallery - Head from TD  
 
 **Kaye**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
+**keel_raniur**  
+* Hair from More Argonian Hair   
+
+**Kjeld**  
+* NOD: Pieces of RV's Dwemer Scrap Armor  
 
 ## L
 **Lalatia Varian**  
@@ -486,7 +624,7 @@
 
 **Lleris Rathryon** 
 * Rogues Gallery - Head from TD  
-* Ceremonial adamantium armor (blue variant)  
+* NOD: Ceremonial adamantium armor (blue variant)  
 
 **Llivas Othravel**  
 * Netch Adamantium  
@@ -526,8 +664,26 @@
 **Mecilvus Gabenagus** 
 * Rogues Gallery - Head from TD  
 
+**meeh-mei**  
+* Hair from More Argonian Hair   
+
+**meen-sa**  
+* Hair from More Argonian Hair   
+
+**meer**  
+* Hair from More Argonian Hair   
+
 **Melar Baram** 
 * Rogues Gallery - Head from TD  
+
+**Melur Savil**  
+* Community Equipment Integration - RuffinVangarr's Imperial Studded Leather 
+
+**milah**  
+* Hair from More Argonian Hair   
+
+**mim-jeen**  
+* Hair from More Argonian Hair   
 
 **molvirian palenix**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -535,24 +691,39 @@
 **Moria Uulentanus** 
 * Rogues Gallery - Head from TD  
 
+**morning_clouds**  
+* Hair from More Argonian Hair   
+
 **mug gro-dulob**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
 **Mulvisie Othril** 
 * Rogues Gallery - Head from TD  
 
-**Melur Savil**  
-* Community Equipment Integration - RuffinVangarr's Imperial Studded Leather 
+**muz-ra**  
+* Hair from More Argonian Hair   
 
 ## N
+**nakuma**  
+* Hair from More Argonian Hair   
+
 **Nalur Indrano** 
 * Rogues Gallery - Head from TD  
+
+**neesha**  
+* Hair from More Argonian Hair   
+
+**Nelix Fly-Breath**  
+* Hair from More Argonian Hair   
 
 **Nevena Ules**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
   
 **Nileno Dorvayn**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
+**nine_toes**  
+* Hair from More Argonian Hair   
 
 **Nistacey** 
 * Rogues Gallery - Head from TD  
@@ -573,8 +744,20 @@
 **Oisig**  
 * Netch Adamantium  
 
+**Okaw**  
+* Hair from More Argonian Hair   
+
+**olank-neeus**  
+* Hair from More Argonian Hair   
+
 **Olfin gro-Logrob**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**olink-nur**  
+* Hair from More Argonian Hair   
+
+**On_Wan**  
+* Hair from More Argonian Hair   
 
 **Ondres Nerano**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -583,9 +766,12 @@
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
   
 **Orvas Dren**  
-* Ceremonial adamantium armor (red variant)
+* NOD: Ceremonial adamantium armor (red variant)
 
 ## P
+**peeradeeh**  
+* Hair from More Argonian Hair   
+
 **Penald** 
 * Rogues Gallery - Head from TD  
 
@@ -611,6 +797,12 @@
 
 **Reaver - bm_reaver_50**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**reeh_jah**  
+* Hair from More Argonian Hair   
+
+**reemukeeus**  
+* Hair from More Argonian Hair   
 
 **Relen Hlaalu**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
@@ -643,8 +835,14 @@
 **Sedrane Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
+**seen-rei**  
+* Hair from More Argonian Hair   
+
 **Seliulus Laenius** 
 * Rogues Gallery - Head from TD  
+
+**servant arg male**  
+* Hair from More Argonian Hair   
 
 **Sethesi Adas** 
 * Rogues Gallery - Head from TD  
@@ -666,12 +864,18 @@
 
 **Sirollus Saccus**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**skeetul**  
+* Hair from More Argonian Hair   
+
+**smart_snake**  
+* Hair from More Argonian Hair   
   
 **snakha gro-marob**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
 **Sodres Nerethi**  
-* Ceremonial adamantium armor (red variant)  
+* NOD: Ceremonial adamantium armor (red variant)  
 
 **solea nuccusius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -682,6 +886,9 @@
 **Stenet**  
 * Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
 
+**stream-murk**  
+* Hair from More Argonian Hair   
+
 **Sulesa** 
 * Rogues Gallery - Head from TD  
 
@@ -689,6 +896,12 @@
 ## T
 **Talare Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
+**Talis Veran**  
+* NOD: Gave OAAB hood, upped his light armor skill to make him wear it
+
+**tanan**  
+* Hair from More Argonian Hair   
 
 **Tandasea Salas** 
 * Rogues Gallery - Head from TD  
@@ -704,6 +917,12 @@
 
 **Tedysa Andarys** 
 * Rogues Gallery - Head from TD  
+
+**tee_lan**  
+* Hair from More Argonian Hair   
+
+**tern-feather**  
+* Hair from More Argonian Hair   
 
 **Tels Girano** 
 * Rogues Gallery - Head from TD  
@@ -732,14 +951,23 @@
 **Tininnus Scinia** 
 * Rogues Gallery - Head from TD  
 
+**tongue_toad**  
+* Hair from More Argonian Hair   
+
 **Torosi Othreloth** 
 * Rogues Gallery - Head from TD  
+
+**travellingnewwoman**  
+* Hair from More Argonian Hair   
 
 **Tuvene Arethan**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
 
 **Tuvenie Varam** 
 * Rogues Gallery - Head from TD  
+
+**twice_bitten**  
+* Hair from More Argonian Hair   
   
 ## U
 **ughash gro-batul**  
@@ -804,9 +1032,31 @@
 
 **viccia claevius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Vilval Relvani**  
+* NOD: Gave some pieces of OAAB native dunmer iron armour 
   
 **Vinnus Laecinnius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**vistha_kai**  
+* Hair from More Argonian Hair   
+
+**Vonden Mano**  
+* Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
+
+## W
+**weer**  
+* Hair from More Argonian Hair   
+
+**wud-neeus**  
+* Hair from More Argonian Hair   
+
+**wuleen-shei**  
+* Hair from More Argonian Hair   
+
+**wusha**  
+* Hair from More Argonian Hair   
 
 ## Y
 **Yatur gro-Shak** 
