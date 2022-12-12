@@ -1,22 +1,21 @@
 Core:
-* Add the rest of Ruffin's mods
 * Add dreamer expansion clothes
-* Add Danke's armors
+* Give Aundae an outfit
 * Add OAAB/R-zero hats
 * Add fcot
 * Give caravaners and shipmasters appropriate outfits and torches/lanterns
 * Add Khajiit outfit diversity
 * Give all master trainers a lookover
-* Give Bolvyn Venim the ebony armor
+* Distribute Dim khajiit faces
 
 OAAB hood armor value patch
 
 Sixth House pack:
-* Add dreamer expansion
 * Add Natinnet's
 
 Later:
 * Add tooltip integration for everything
+* Sacred necromancer - Dunmer ancestors quest addon?
 
 MWSE addon:
 * Goggles
@@ -47,6 +46,12 @@ Done v1.0
 * Distribute OAAB armors
 * Distribute OAAB hoods as I go
 * Check if I need to add any of the variants from RV's Imperial Studded Leather, Nordic Iron
+* Added Danke's armors
+* Gave Bolvyn Venim the ebony armor
+* Added sacred necromancers
+* Added necromancer robes
+* Added daedric telvanni robe
+* Added concept art dunmer helms
 
 NPCS to update:
 
@@ -54,6 +59,4 @@ Senilias Cadiusus: goggles?
 Edwinna: goggles?
 Raxle Berne: some decent light armor
 Giden Nelvilo, witchhunter in Shallit with basic chitin: improve
-Ullaraldalku, drireri berano: give blue scarf, adamantium boots
-Ebernanit, Ienaso Adren: give red scarf
 

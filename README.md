@@ -59,6 +59,19 @@ I largely leave generic guards alone so you can use your guard mods of choice.
 - Kept all changes.  
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835) by Aoimevelho  
 - Kept all NPC changes. Removed from traders. Kept leveled lists. 
+*  [**Danke's Armours**](https://www.nexusmods.com/morrowind/mods/45114) by Danke  
+- Deleted cell changes
+- Gave Qorwynn his own armor. Gave Vedam Dren Seanwen's armor, renamed to Ornate Ebony. Renamed the Milk pauldrons and gave them to Seanwen. Renamed Sala's kit and gave them to him. Gave Baladas his armour. Gave Missun Akin his armour. Gave Theldyn Virith his armour. Gave most of the atronach armour to Luven. Other armours are currently unused but left in in case inspiration strikes.
+* [**The Ebony Warrior**](https://www.nexusmods.com/morrowind/mods/48564) by RuffinVangarr  
+- Gave the ebony armour to Bolvyn Venim. I removed the mini-quest/Sheogorad encounter - install the original mod alongside NOD if you want it back.  
+* [**Daedric Telvanni Robe**](https://www.nexusmods.com/morrowind/mods/49652) by RuffinVangarr  
+- I gave the robe to Gothren. Now he'll no longer look like Trebonius's Dark Elf clone. And he matches nicely with his Dremora bodyguards! 
+* [**Necromancer Robes**](https://www.nexusmods.com/morrowind/mods/51775) by RuffinVangarr  
+- Gave the necromancer robes to NPCs in Vas and Mawia. Gave some buoyant armiger armour to Ulyne Henim while I was there.  
+* [**Concept Art Dunmer Helmets**](https://www.nexusmods.com/morrowind/mods/52043) by RuffinVangarr  
+- Gave Netchiman's Cap to some herders. 
+* [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651) by RuffinVangarr  
+- Minor dialogue tweaks. Added some ancestral mages to Ghostghate Temple. Tweaked some necromancer names.
 
 ## Recommended mods
 * [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
@@ -73,6 +86,8 @@ MWSE required. There are 3 vampire bloodlines in the vanilla game and they all l
 * [**Dwarf-style Mage Hat in Morrowind**](https://www.nexusmods.com/morrowind/mods/50523) by Leiawen Aoimevelho FrummYonda  
 * [**OAAB_Data and Community Equipment Integration - War Armor and Sathil Mercenary**](https://www.nexusmods.com/morrowind/mods/50307) by Lucas9  
 You'll need to get [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038) by Ashstaar, and will probably want to get RuffinVangarr's updated versions of the armor [**here (Sathil Mercenary)**](https://www.nexusmods.com/morrowind/mods/48340) and [**here (War Armor)**](https://www.nexusmods.com/morrowind/mods/48770).  
+* [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990)
+* [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by Von Djangos, with the patch by PoodleSandwich: [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320)  
 
 ## Incompatible With
 * The original mods

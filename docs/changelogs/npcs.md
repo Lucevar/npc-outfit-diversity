@@ -143,8 +143,12 @@
 **Badama Andarys** 
 * Rogues Gallery - Head from TD  
 
+**Baladas Demnevanni**  
+* NOD: Gave Baladas his armour set from Danke's Armours.  
+
 **balen sedrethi**  
 * Armored Robe Compilation - Hlaalu robe 
+* NOD: Khestis Periud helmet from RV Concept Art Dunmer Helmets  
 
 **Balsa Girith** 
 * Rogues Gallery - Head from TD  
@@ -176,6 +180,9 @@
 **berapli ashumallit**  
 * Armored Robe Compilation - Mabrigash robe
 * NOD: Gave chitin gauntlets 
+
+**Berel Sala**  
+* NOD: Gave Berel his armour set from Danke's Armours  
 
 **berela andrano**  
 * Removed in NOD: Armored Robe Compilation - Redoran robe - he's a savant, I went for a less-armored look for him  
@@ -329,6 +336,9 @@
 **daral thireloth**  
 * Armored Robe Compilation - Ordinator robes 
 
+**Daris Adram**  
+* NOD: Gave Arch Necromancer robes from RV's Necromancer Robes
+
 **Daroder Helni** 
 * Rogues Gallery - Head from TD  
 
@@ -341,11 +351,11 @@
 **Darvynea Hleran**  
 * Armored Robe Compilation - Nightblade robe 
 
-**Davis Nelaram** 
-* Rogues Gallery - Head from TD  
-
 **Dathus Selvilo** 
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
+
+**Davis Nelaram** 
+* Rogues Gallery - Head from TD  
 
 **Davur Githendas** 
 * Rogues Gallery - Head from TD  
@@ -356,11 +366,20 @@
 **dead elite ord**  
 * Armored Robe Compilation - Ordinator Robe 
 
+**Debentien Sylbenitte**  
+* NOD: Gave a necromancer robe from RV's Necromancers Robes  
+
 **deldrise andoren**  
 * Dunmer Nobles Overhaul  
 
 **Delmon Famori**  
 * NOD: Gave OAAB scarf and RV's heavy chitin boots  
+
+**Delvam Andarys**  
+* NOD: Gave him necromancer armor from RV Necromancer Robes
+
+**Derelle Ysciele**  
+* NOD: Gave a necromancer robe from RV's Necromancers Robes  
 
 **dilvene venim**  
 * Dunmer Nobles Overhaul  
@@ -435,6 +454,9 @@
 **Dridyn Berethi** 
 * Rogues Gallery - Head from TD  
 
+**Drireri Berano**  
+* NOD: Gave a blue scarf from More Cloth Helms
+
 **Drorayni Tharam** 
 * Rogues Gallery - Head from TD  
 
@@ -483,6 +505,9 @@
 
 **Eiruki Hearth-Healer**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Eindel**  
+* NOD: Redoran helm from RV Concept Art Dunmer Helms, netch adamantium, netch leather pieces
   
 **Ekkhi**  
 * Removed in NOD: Community Equipment Integration - RuffinVangarr's Nordic Iron Armor 
@@ -615,6 +640,9 @@
 **Fervas Reloro** 
 * Rogues Gallery - Head from TD  
 
+**Fevasa Saryon**  
+* NOD: Netchiman's Cap from Concept Art Dunmer Helmets by RuffinVangarr  
+
 **Filbeneth** 
 * Rogues Gallery - Head from TD  
 
@@ -722,6 +750,9 @@
 **Golmerea Othravel** 
 * Rogues Gallery - Head from TD  
 
+**Goris the Maggot King**  
+* NOD: Gave him necromancer armour from RV Necromancer Robes  
+
 **grand inquisitor**  
 * Armored Robe Compilation - Ordinator robe 
 
@@ -773,6 +804,9 @@
 **ienase relnim**  
 * Dunmer Nobles Overhaul  
 
+**Ienaso Adren**  
+* NOD: Gave a black scarf from More Cloth Helms  
+
 **ilet tistar**  
 * Armored Robe Compilation - ordinator robe 
 
@@ -823,6 +857,9 @@
 
 **jeer-maht**  
 * Hair from More Argonian Hair   
+
+**Jeberilie Moniel**  
+* NOD: Gave a necromancer robe from RV's Necromancers Robes  
 
 **Jelin**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -925,6 +962,9 @@
 **Luspinian Hertarian**  
 * Community Equipment Integration - RuffinVangarr's Dreugh Armor  
 
+**Luven**  
+* NOD: Gave him the atronach armor from Danke's Armors, because he and Goris are kinda edgelordy. Ditched the pauldrons though, they were just a bit tooo silly.  
+
 ## M
 **Madaynu Aravel** 
 * Rogues Gallery - Head from TD  
@@ -949,6 +989,9 @@
 
 **Marilia Saram** 
 * Rogues Gallery - Head from TD  
+
+**Margonet**  
+* NOD: Gave a TR head and hair, and a robe from DNO  
 
 **Maros Gimayn** 
 * Rogues Gallery - Head from TD  
@@ -983,6 +1026,9 @@
 **Melur Savil**  
 * Community Equipment Integration - RuffinVangarr's Imperial Studded Leather 
 
+**Melvona Marvayn**  
+* NOD: Khestis Periud helm from RV Concept Art Dunmer Helms  
+
 **melvure rindu**  
 * Armored Robe Compilation - Ordinator robe 
 
@@ -1015,6 +1061,10 @@
 
 **missamsi timmiriran**  
 * Armored Robe Compilation - Mabrigash robe  
+
+**Missun Akin**  
+* NOD: Gave him his armour from Danke's Armours.  
+* TODO: double check how that works with weapon sheathing
 
 **molvirian palenix**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -1120,6 +1170,9 @@
 
 **olink-nur**  
 * Hair from More Argonian Hair   
+
+**Omesu Hlarys**  
+* NOD: Khestis Periud helm from RV Concept Art Dunmer Helmets, some heavy chitin pieces
 
 **On_Wan**  
 * Hair from More Argonian Hair   
@@ -1236,6 +1289,9 @@
 
 **Savure Uvalor** 
 * Rogues Gallery - Head from TD  
+
+**Seanwen**  
+* NOD: Gave him the Milk pauldrons from Danke's Armors. Gave him a TD face. 
 
 **Sedrane Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -1369,6 +1425,9 @@
 **Thalurea Thirvayn** 
 * Rogues Gallery - Head from TD  
 
+**Theldyn Virith**  
+* NOD: Gave him his armour from Danke's Armours
+
 **Thervam Drelas** 
 * Rogues Gallery - Head from TD  
 
@@ -1436,6 +1495,9 @@
 **Ulves Marvel** 
 * Rogues Gallery - Head from TD  
 
+**Ulyne Henim**  
+* NOD: Gave her a slightly younger looking head. Gave her a buoyant armiger cuirass and one heavy chitin pauldron, so she actually looks like a buoyant armiger.
+
 **Urene Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 * Dunmer Nobles Overhaul  
@@ -1462,6 +1524,9 @@
 **Varenu Indaram** 
 * Rogues Gallery - Head from TD  
 
+**Vares Reram**  
+* NOD: Miragad Moljuhn helmet from RV Concept Art Dunmer Helmets
+
 **varian angius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 * Removed in NOD: Armored Robe Compilation - legion battlemage robe
@@ -1484,6 +1549,9 @@
 
 **Vaves Virith** 
 * Rogues Gallery - Head from TD  
+
+**Vedam Dren**  
+* NOD: Gave him Seanwen's armor from Danke's Armors  
 
 **Velanda Omani**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
