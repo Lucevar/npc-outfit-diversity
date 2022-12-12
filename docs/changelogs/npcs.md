@@ -1,5 +1,11 @@
 ## A
 
+**Adanja**  
+* Khajiit Outfit Diversity: TR head, TR shirt  
+
+**Addhirranirr**  
+* NOD: Gave her one of Dim's Khajiit hairstyles and one of westly's vest shirts
+
 **Adil Norvayn**  
 * Rogues Gallery - Head from TD  
 * NOD: Heavy chitin armor + OAAB scarf
@@ -15,6 +21,9 @@
 
 **ah-meesei**  
 * Hair from More Argonian Hair   
+
+**Ahnassi**  
+* Khajiit Outfit Diversity: Cosmopolitan robe by Westly
 
 **ahaht**  
 * Hair from More Argonian Hair   
@@ -140,6 +149,9 @@
 * Dunmer Nobles Overhaul  
 
 ## B
+**Baadargo**  
+* Khajiit outfit diversity: TR head + hair, ruined trousers from Dreamer Expansion
+
 **Badama Andarys** 
 * Rogues Gallery - Head from TD  
 
@@ -321,6 +333,9 @@
 * Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
 
 ## D
+**Dahleena**  
+* Khajiit Outfit Diversity: TR head, ruined top/trousers from Dreamers Expansion  
+
 **Daldur Sarys** 
 * Rogues Gallery - Head from TD  
 
@@ -426,6 +441,36 @@
 **dreaded_water**  
 * Hair from More Argonian Hair   
 
+**Dreamer**  
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer Guard**  
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer Priest**  
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer Worker**
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer_02**  
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer_04**  
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer_05**  
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer_06**  
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer_dead**  
+* Compatibility Note: Dreamers Expansion
+
+**Dreamer_f_01**
+* Compatibility Note: Dreamers Expansion
+
 **Dredase Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 * Dunmer Nobles Overhaul  
@@ -462,6 +507,15 @@
 
 **drores arvel**  
 * Armored Robe Compilation - Ordinator robe 
+
+**Dro'Sakhar**  
+* Khajiit outfit diversity - dirty vest from Dreamers Expansion
+
+**Dro'Zaymar**  
+* Khajiit outfit diversity - Westly's robes of elsweyr  
+
+**Dro'Zhirr**  
+* Khajiit outfit diversity - OAAB cloth scarf, OAAB boiled netch pauldrons  
 
 **Dudley** 
 * Rogues Gallery - Head from TD  
@@ -869,6 +923,12 @@
 
 **joncis dalomax**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Jobasha**  
+* Khajiit outfit diversity - OAAB shirt
+
+**J'Zirr**  
+* Khajiit outfit diversity - TR head, TR shirt  
  
 ## K
 **kal_ma**  
@@ -885,6 +945,9 @@
 
 **keel_raniur**  
 * Hair from More Argonian Hair   
+
+**Kiseena**  
+* Khajiit outfit diversity: blacksmith shirt
 
 **Kjeld**  
 * NOD: Pieces of RV's Dwemer Scrap Armor  
@@ -971,6 +1034,9 @@
 
 **Madsu Dreth** 
 * Rogues Gallery - Head from TD  
+
+**Ma'Jidarr**  
+* Khajiit outfit diversity - dirty vest from Dreamers Expansion
 
 **mamaea ashun-idantus**  
 * Armored Robe Compilation - Mabrigash robe  
@@ -1219,6 +1285,9 @@
 * NOD: Added his armor from Danke's Armours, plus some steel kit to round out his outfit. Also gave him a hair from TD.  
 
 ## R
+**Rabinna**  
+* Khajiit outfit diversity: pants/top from Dreamer Expansion
+
 **raesa pullia**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
@@ -1232,11 +1301,17 @@
 **ranosa gilvayn**  
 * Removed in NOD: Armored Robe Compilation - dirty edit?
 
+**Ra'virr**  
+* Khajiit outfit diversity: TD shirt
+
 **Ravos Relarys** 
 * Rogues Gallery - Head from TD  
 
 **Ravoso Aryon**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
+**Ra'Zhid**  
+* Khajiit outfit diversity: OAAB scarf
 
 **Reaver - bm_reaver_50**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
@@ -1256,6 +1331,9 @@
 
 **Rirns Uveran** 
 * Rogues Gallery - Head from TD  
+
+**Ri'Shajirr**  
+* Khajiit outfit diversity - robes of Elsweyr  
 
 **Rovone Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -1366,6 +1444,9 @@
 * Removed in NOD: Armored Robe Compilation - legion battlemage robe
 * NOD: Gave OAAB battlemage armor 
 
+**Sugar-Lips Habasi**  
+* Khajiit Outfit Diversity: OAAB pauldron  
+
 **Sulesa** 
 * Rogues Gallery - Head from TD  
 
@@ -1428,6 +1509,9 @@
 **Theldyn Virith**  
 * NOD: Gave him his armour from Danke's Armours
 
+**Thengil**  
+* Khajiit outfit diversity: striped elsweyr robe  
+
 **Thervam Drelas** 
 * Rogues Gallery - Head from TD  
 
@@ -1470,6 +1554,9 @@
 **trevyn fedos**  
 * Armored Robe Compilation - Ordinator robe  
 
+**Tsajadhi**  
+* Khajiit outfit diversity: Dreamer Expansion torn robe  
+
 **tunila omavel**  
 * Dunmer Nobles Overhaul  
 
@@ -1498,6 +1585,9 @@
 **Ulyne Henim**  
 * NOD: Gave her a slightly younger looking head. Gave her a buoyant armiger cuirass and one heavy chitin pauldron, so she actually looks like a buoyant armiger.
 
+**Unjara**  
+* Khajiit outfit diversity: ruined trousers from Dreamer Expansion  
+
 **Urene Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 * Dunmer Nobles Overhaul  
@@ -1517,6 +1607,9 @@
 
 **Valvesu Indaram** 
 * Rogues Gallery - Head from TD  
+
+**Vanjirra**  
+* Khajiit outfit diversity: robes of elsweyr, turban, backpack  
 
 **vantustius pundus**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -1588,6 +1681,9 @@
 * Buoyant Armiger Armor Overhaul  
 
 ## W
+**Wadarkhu**  
+* Khajiit Outfit Diversity: Robes of Elsweyr (filigree), wristbands
+
 **weer**  
 * Hair from More Argonian Hair   
 
