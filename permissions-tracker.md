@@ -46,6 +46,8 @@ Dependency
 * OAAB
 * Tamriel Data
 
+* [**MWSE Satchels and Bags**](https://www.nexusmods.com/morrowind/mods/51063) by FrummYonda & Safebox  
+
 Unknown
 * Natinnet
 * Anroha

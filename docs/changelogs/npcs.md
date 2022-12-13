@@ -443,6 +443,10 @@
 **Derelle Ysciele**  
 * NOD: Gave a necromancer robe from RV's Necromancers Robes  
 
+**Dhaunayne Aundae**  
+* NOD: gave a robe from DNO
+* TODO: mwse circlet
+
 **dilami androm**  
 * Removed in NOD: Properly Clothed NPCs - script
 * NOD: gave hood + goggles + lantern + backpack

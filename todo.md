@@ -1,10 +1,22 @@
 Core:
-* Give Aundae an outfit
 * Give all master trainers a lookover
 * Distribute iron/steel helm variants
+* Add Olafs cloaks & hoods, test if cloaks work on npcs
+* Issue of thrust/breton knights?
+* High elves
+* Khajiit runthrough
+* Find argonian armours
+* Take many screenshots - vanilla vs modded
+* Proper credits file
+* Include original readmes
+* Include screenshots of permissions
+* Update permissions tracker
+* Add full compatibility info
+* Add full recs list
 
 Patch:
-OAAB hood armor value patch
+* OAAB hood armor value patch
+* BCOM patch
 
 Sixth House pack:
 * Add Natinnet's
@@ -13,12 +25,18 @@ Later:
 * Add tooltip integration for everything
 * Sacred necromancer - Dunmer ancestors quest addon?
 
-MWSE addon:
+MWSE addons:
+Gear:
 * Goggles
 * Facemasks
-* Satchels
+* Satchels & Bags
 * Circlets
+
+Bosmer:
 * Antlers
+
+Streamer Safety Addon:
+* Give clothes to dancers and naked nords
 
 Done v1.0
 - Added Ceremonial Adamantium Armor
@@ -58,12 +76,10 @@ Done v1.0
 * Give caravaners and shipmasters appropriate outfits and torches/lanterns
 * Distribute Dim khajiit faces
 
-Streamer Addon:
-* Give clothes to dancers and naked nords
-
 NPCS to update:
 
 Senilias Cadiusus: goggles?
+dhaunayne: circlet
 Edwinna: goggles?
 Raxle Berne: some decent light armor
 Giden Nelvilo, witchhunter in Shallit with basic chitin: improve

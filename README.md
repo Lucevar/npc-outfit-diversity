@@ -17,13 +17,31 @@ Differences with vanilla friendly wearables expansion:
 * Fewer new NPCs (not none)
 * Fewer scripts
 
-## Requirements:
-* OAAB Data
-- Distributes many of the armor sets and hoods to NPCs
-* Tamriel Data
+## Requirements for the core mod:
+* [**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042)
+* [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537)
 * Better Bodies
-* MGE XE-MWSE
+
+## Requirements for some addons:
+* [**MGE XE-MWSE**](https://www.nexusmods.com/morrowind/mods/41102)
+- Don't forget to run the mwse-updater!
 * [**Onion - Layered Accessories**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox  
+
+## Features
+* Many NPCs have received outfit upgrades with unique or rare armours: look out for names like Vedam Dren, Bolvyn Venim, Gothren, Orvas Dren, and more
+* Many bandits and Hlaalu nobles now have heads more fitting to them, using resources from TD
+* Noble Dunmer have a much greater variety of exquisite robes to choose from, as well as hair worthy of their status in life - thanks to Dunmer Noble Overhaul
+* Khajiit and Argonians also have much more diverse heads and hairs thanks to More Argonian Heads and Dim's Khajiit Head & Hair pack
+* Slaves now look more beaten-down: many have dirty or torn clothes, or are carrying backbaskets and miners picks
+* Buoyant Armigers are now distinguished by their unique chitin-glass blended armours, while the Ordinators are clothed according to the Orders to which they belong
+* Necromancers now have robes more suited to their dark and dirty work
+* The Tribunal Temple's Order of Ancestral Mages can now be found at *their* work, in temples and tombs, tending to the dead. 
+* Many Breton knights now wield rapiers.
+* NPCs in stormy or ash-ridden environments now often have hoods, hats, or other protective gear.
+* Ashlanders and mabrigashs also get gear upgrades
+* Many other armours and weapons created by modders have been distributed to NPCs
+* Iconic NPCs are mostly left alone. Don't worry, Caius is safe from shirts.
+* Items are also available in levelled lists and, in a few cases, placed in cells.  
 
 ## Mods Included:
 ### NOD - Core
@@ -54,9 +72,9 @@ Differences with vanilla friendly wearables expansion:
 - Removed the barrels of scarves from cells  
 - Distributed to NPCs  
 *  [**More Argonian Hair**](https://www.nexusmods.com/morrowind/mods/43133) by ashiraniir  
-- Unchanged from original.  
+- Unchanged from original, except to distribute to more NPCs
 * [**Dim's Khajiit Head and Hair Pack**](https://www.nexusmods.com/morrowind/mods/51977) by DimNussens 
-- TODO: distribute to NPCs
+- Distributed to a number of NPCs
 * [**Armored Robes Compilation and NPC changes**](https://www.nexusmods.com/morrowind/mods/44096) by Aoimevelho  
 - Kept mabrigash and ordinator changes
 - Kept 90% of the armored robe distributions
@@ -84,7 +102,9 @@ Differences with vanilla friendly wearables expansion:
 * [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Aoimhevelho  
 - Uses only the clothes/objects, for better compatibility. Install the original and run it alongside NOD for the full experience.
 * [**Khajiit Outfit Diversity**](https://www.nexusmods.com/morrowind/mods/47224/) by Lucevar 
-- Unchanged from original  
+- Unchanged from original, except additions  
+* [**Properly Clothed NPCs**](https://www.nexusmods.com/morrowind/mods/48870) by RandomPal  
+- Keeps a few npc changes; mostly got rid of the hat-switching scripts. Extended NPC changes.  
 
 ## Recommended mods
 * [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
@@ -95,7 +115,6 @@ Places one copy of each adamantium armor piece (except the helm) in Vvardenfell.
 MWSE required. There are 3 vampire bloodlines in the vanilla game and they all look the same, this mod attempts to give each bloodline a visual distinction  
 * [**Imperium - Imperial Armour Expanded**](https://www.nexusmods.com/morrowind/mods/51408) by Endoran  
 * [**Full Glass Armour Plus Glass Helm Compilation**](https://www.nexusmods.com/morrowind/mods/51767) by kyim  
-* [**MWSE Satchels and Bags**](https://www.nexusmods.com/morrowind/mods/51063) by FrummYonda & Safebox  
 * [**Dwarf-style Mage Hat in Morrowind**](https://www.nexusmods.com/morrowind/mods/50523) by Leiawen Aoimevelho FrummYonda  
 * [**OAAB_Data and Community Equipment Integration - War Armor and Sathil Mercenary**](https://www.nexusmods.com/morrowind/mods/50307) by Lucas9  
 You'll need to get [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038) by Ashstaar, and will probably want to get RuffinVangarr's updated versions of the armor [**here (Sathil Mercenary)**](https://www.nexusmods.com/morrowind/mods/48340) and [**here (War Armor)**](https://www.nexusmods.com/morrowind/mods/48770).  
