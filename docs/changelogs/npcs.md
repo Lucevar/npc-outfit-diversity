@@ -1,4 +1,6 @@
 ## A
+**Abanji**  
+* NOD: Gave head from Dim's Khajiit pack and some torn clothes from DE  
 
 **Adanja**  
 * Khajiit Outfit Diversity: TR head, TR shirt  
@@ -14,6 +16,10 @@
 * Armored Robe Compilation - Spellsword Robe  
 * NOD: Gave Light Steel pauldrons and a hood from OAAB  
 * NOD: Increased light armor skill to make her wear the hood  
+
+**Adondasi Sadalvel**  
+* Properly Clothed NPCs - shroom cap
+* NOD: Gave travel lantern, TD common shirt
 
 **adraria vandacia**  
 * Armored Robe Compilation - Imperial Studded Leather Robe
@@ -88,6 +94,9 @@
 **Apelles Matius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
+**arangaer**  
+* Properly Clothed NPCs - bug shell hat
+
 **Arelvam Sadrano** 
 * Rogues Gallery - Head from TD  
 
@@ -121,6 +130,10 @@
 
 **Arvs Raram**  
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
+
+**assantushansar**  
+* Properly Clothed NPCs - hood and goggles
+* NOD: gave OAAB boiled netch leather pauldrons
 
 **assamanu shashipal**  
 * Armored Robe Compilation - Mabrigash robe 
@@ -162,6 +175,11 @@
 * Armored Robe Compilation - Hlaalu robe 
 * NOD: Khestis Periud helmet from RV Concept Art Dunmer Helmets  
 
+**baleni salavel**  
+* Removed in NOD: Properly Clothed NPCs - script
+* Properly clothed NPCS: crab shield
+* NOD: gave OAAB hood  
+
 **Balsa Girith** 
 * Rogues Gallery - Head from TD  
 
@@ -199,11 +217,18 @@
 **berela andrano**  
 * Removed in NOD: Armored Robe Compilation - Redoran robe - he's a savant, I went for a less-armored look for him  
 
+**Bertis Uvani**  
+* Removed in NOD: Properly Clothed NPCs - cloth helm
+* NOD: gave More Cloth Helms scarf instead
+
 **bethes sarothril**  
 * Armored Robe Compilation - Ordinator robe 
 
 **Bidsi Gilvayn** 
 * Rogues Gallery - Head from TD  
+
+**big head**  
+* Properly Clothed NPCs - big head's big head
 
 **Bilen Velothril** 
 * Rogues Gallery - Head from TD  
@@ -339,6 +364,11 @@
 **Daldur Sarys** 
 * Rogues Gallery - Head from TD  
 
+**dandera selaro**  
+* Properly Clothed NPCs - hat script
+* NOD: changed script to ashgoggles 
+* NOD: changed hair; gave blacksmith shirt + apron 
+
 **Dangor**  
 * Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
 
@@ -351,11 +381,24 @@
 **daral thireloth**  
 * Armored Robe Compilation - Ordinator robes 
 
+**daras aryon**  
+* Properly Clothed NPCs - script
+* NOD: changed script to ashgoggles instead of crabmask
+* NOD: edited script so it only adds/removes mask, not the robe as well
+* NOD: gave lantern
+
+**Daric Bielle**  
+* NOD: Gave TD netch leather cuirass  
+* Made him a catcatcher  
+
 **Daris Adram**  
 * NOD: Gave Arch Necromancer robes from RV's Necromancer Robes
 
 **Daroder Helni** 
 * Rogues Gallery - Head from TD  
+
+**darvame hleran**  
+* NOD: Gave crab hat, pouch and a lantern  
 
 **darvasa vedas**  
 * Dunmer Nobles Overhaul  
@@ -374,6 +417,10 @@
 
 **Davur Githendas** 
 * Rogues Gallery - Head from TD  
+
+**daynes redothril**  
+* Properly Clothed NPCs - dirty edit?
+* NOD: gave him some accessories (requires Vanity)
 
 **Daynila Andrano** 
 * Rogues Gallery - Head from TD  
@@ -396,6 +443,10 @@
 **Derelle Ysciele**  
 * NOD: Gave a necromancer robe from RV's Necromancers Robes  
 
+**dilami androm**  
+* Removed in NOD: Properly Clothed NPCs - script
+* NOD: gave hood + goggles + lantern + backpack
+
 **dilvene venim**  
 * Dunmer Nobles Overhaul  
 
@@ -413,6 +464,7 @@
 
 **Dothasi Mothryon** 
 * Rogues Gallery - Head from TD  
+* Properly Clothed NPCs - OAAB scarf
 
 **Dothiel** 
 * Rogues Gallery - Head from TD  
@@ -501,6 +553,9 @@
 
 **Drireri Berano**  
 * NOD: Gave a blue scarf from More Cloth Helms
+
+**Drolora Salen**  
+* NOD: Gave her a blue bug hat 
 
 **Drorayni Tharam** 
 * Rogues Gallery - Head from TD  
@@ -603,6 +658,10 @@
 **Eponis Vinipter** 
 * Rogues Gallery - Head from TD  
 
+**erene llenim**  
+* Properly Clothed NPCs - sailor clothes  
+* NOD: gave harpoon from TD  
+
 **ervas aradil**  
 * Armored Robe Compilation - Ordinator robe 
 
@@ -635,6 +694,9 @@
 
 **Fainertil**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**Fanasa Ienith**  
+* Properly Clothed NPCs - OAAB scarf
 
 **Fanuse Farano** 
 * Rogues Gallery - Head from TD  
@@ -672,6 +734,7 @@
 
 **Fendel Alam** 
 * Rogues Gallery - Head from TD  
+* Properly Clothed NPCs - OAAB scarf
 
 **fendel hlaren**  
 * Dunmer Nobles Overhaul  
@@ -737,6 +800,9 @@
 * Removed in NOD: Armored Robe Compilation - Telvanni Robe 
 * Dunmer Nobles Overhaul  
 
+**gals arethi**  
+* Properly Clothed NPCs - shroom hat
+
 **galsa gindu**  
 * Dunmer Nobles Overhaul  
 
@@ -786,6 +852,12 @@
 **ginadura andrethi**  
 * Dunmer Nobles Overhaul  
 
+**gindrala hleran**  
+* Properly Clothed NPCs - adds mask script
+
+**Ginur Marys**  
+* Properly Clothed NPCs - OAAB cloth scarf
+
 **giras indaram**  
 * Buoyant Armiger Armor Overhaul  
 
@@ -797,6 +869,9 @@
 
 **Glasha gra-Magar**  
 * NOD: Pieces of RV's Dwemer Scrap Armor  
+
+**golana giralvel**  
+* Properly Clothed NPCs - OAAB cloth scarf
 
 **Golar Omoran** 
 * Rogues Gallery - Head from TD  
@@ -812,6 +887,7 @@
 
 **grey_throat**  
 * Hair from More Argonian Hair   
+* NOD: backbasket from OAAB 
 
 **Gwen** 
 * Rogues Gallery - Head from TD  
@@ -831,6 +907,9 @@
 
 **heir-zish**  
 * Hair from More Argonian Hair   
+
+**High-Heart**  
+* NOD: Gave torn pants from DE  
  
 **Hingor**  
 * Removed in NOD: Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
@@ -851,6 +930,7 @@
 ## I
 **Idronea Sadri** 
 * Rogues Gallery - Head from TD  
+* Properly Clothed NPCs - cloth helm
 
 **Idula Moren** 
 * Rogues Gallery - Head from TD  
@@ -945,6 +1025,14 @@
 
 **keel_raniur**  
 * Hair from More Argonian Hair   
+
+**Khamuzi**  
+* NOD: Gave a head and hair from Dim's Khajiit heads, blacksmith shirt from fcot, and torn pants from DE  
+
+**kind erushara**  
+* Properly Clothed NPCs - hood script
+* NOD: changed script to ashgoggles
+* NOD: Gave blacksmith shirt
 
 **Kiseena**  
 * Khajiit outfit diversity: blacksmith shirt
@@ -1044,6 +1132,10 @@
 **mamusa shashmassamsi**  
 * Armored Robe Compilation - Mabrigash robe  
 
+**manat varnan-adda**  
+* Properly Clothed NPCs - straw hat
+* NOD: gave OAAB back basket
+
 **manirai mirshamammu**  
 * Armored Robe Compilation - Mabrigash robe  
 
@@ -1140,6 +1232,7 @@
 
 **morning_clouds**  
 * Hair from More Argonian Hair   
+* NOD: Backbasket from OAAB
 
 **morusu varen**  
 * Dunmer Nobles Overhaul  
@@ -1171,6 +1264,15 @@
 
 **Nalur Indrano** 
 * Rogues Gallery - Head from TD  
+
+**nande**  
+* Removed in NOD: Properly Clothed NPCs - mask script
+* NOD: Gave some bits of OAAB Sal-Amur armour
+* NOD: Made a TD Cat-catcher
+
+**navam veran**  
+* Removed in NOD: Properly Clothed NPCs - mask script
+* NOD: Gave ashlander dust mask  
 
 **nedeni tenim**  
 * Armored Robe Compilation - ordinator robe 
@@ -1276,6 +1378,7 @@
 
 **pilu shilansour**  
 * Armored Robe Compilation - Mabrigash robe 
+* Properly Clothed NPCs - mabrigash helm
 
 **Pritia Plalocius** 
 * Rogues Gallery - Head from TD  
@@ -1293,7 +1396,7 @@
 
 **Ralos Othrenim** 
 * Rogues Gallery - Head from TD  
-* Netch Adamantium  
+* Properly Clothed NPCs - cloth scarf
 
 **ralyn othravel**  
 * Armored Robe Compilation - Ordinator robe 
@@ -1325,15 +1428,23 @@
 **Relen Hlaalu**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
 * Removed in NOD: Armored Robe Compilation - Hlaalu Robe 
+* NOD: gave DNO hlaalu robe
 
 **Rilas Arethan** 
 * Rogues Gallery - Head from TD  
+
+**rindral dralor**  
+* Removed in NOD: Properly Clothed NPCs - mask script
+* NOD: gave gondolier mask and lantern
 
 **Rirns Uveran** 
 * Rogues Gallery - Head from TD  
 
 **Ri'Shajirr**  
 * Khajiit outfit diversity - robes of Elsweyr  
+
+**Ri'Zaadha**
+* NOD: Hair from Dim's Khajiit pack and a backbasket from OAAB  
 
 **Rovone Arvel**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -1344,6 +1455,10 @@
 
 **Rufinus Alleius**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
+**rumare**  
+* Removed in NOD: Properly Clothed NPCs - mask script
+* Gave TD netch rogue armors
 
 **Ruvene Ulven** 
 * Rogues Gallery - Head from TD  
@@ -1377,17 +1492,27 @@
 **seen-rei**  
 * Hair from More Argonian Hair   
 
+**seldus nerendus**  
+* Properly Clothed NPCs - robe
+* NOD: matching OAAB hood and a lantern
+
 **Seliulus Laenius** 
 * Rogues Gallery - Head from TD  
 
 **selmen relas**  
 * Armored Robe Compilation - Ordinator robe 
 
+**serer andrano**  
+* Properly Clothed NPCs - shroomcap
+* NOD: fine padded shirt from fcot
+
 **servant arg male**  
 * Hair from More Argonian Hair   
 
 **Sethesi Adas** 
 * Rogues Gallery - Head from TD  
+* Removed in NOD: Properly Clothed NPCs - OAAB scarf
+* NOD: gave black scarf from More Cloth Helms
 
 **Sevame Saryon** 
 * Rogues Gallery - Head from TD  
@@ -1404,8 +1529,16 @@
 **sharkub gro-khashnar**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
+**shilipuran zama-rasour**  
+* Removed in NOD: Properly Clothed NPCs - mask script
+* TODO: fashionwind mask
+
 **shishi yanumibaal**  
 * Armored Robe Compilation - Mabrigash Robe 
+
+**shulki ashunbabi**  
+* Properly Clothed NPCs - concept art shulki
+* NOD: removed hat script
 
 **Sifknir** 
 * Rogues Gallery - Head from TD  
@@ -1464,6 +1597,10 @@
 **Talis Veran**  
 * NOD: Gave OAAB hood, upped his light armor skill to make him wear it
 
+**talmeni drethan**  
+* Removed in NOD: Properly Clothed NPCs - script
+* NOD: Gave crab hat and a TD common shirt and a lantern
+
 **tamira vian**  
 * Armored Robe Compilation - ordinator robe 
 
@@ -1475,12 +1612,16 @@
 
 **Tanisie Verethi** 
 * Rogues Gallery - Head from TD  
+* Properly Clothed NPCs - oaab scarf
 
 **Tanur Llaram** 
 * Rogues Gallery - Head from TD  
 
 **taren andoren**  
 * Dunmer Nobles Overhaul  
+
+**tauryon**  
+* Properly Clothed NPCs - script
 
 **Taves Aralen** 
 * Rogues Gallery - Head from TD  
@@ -1493,6 +1634,7 @@
 
 **tern-feather**  
 * Hair from More Argonian Hair   
+* NOD: vest and torn pants from DE  
 
 **Tels Girano** 
 * Rogues Gallery - Head from TD  
@@ -1530,6 +1672,10 @@
 **Tininnus Scinia** 
 * Rogues Gallery - Head from TD  
 
+**tirnur thirano**  
+* Removed in NOD: Properly Clothed NPCs - oaab scarf
+* Gave him a hood instead 
+
 **tissamsi asharapli**  
 * Armored Robe Compilation - Mabrigash robe  
 
@@ -1557,8 +1703,16 @@
 **Tsajadhi**  
 * Khajiit outfit diversity: Dreamer Expansion torn robe  
 
+**Tsalani**  
+* NOD: torn vest from de, hair from Dim's khajiit pack
+
 **tunila omavel**  
 * Dunmer Nobles Overhaul  
+
+**tunipu shamirbasour**  
+* Removed in NOD: Properly Clothed NPCs - sm mask  
+* NOD: Changed name to reflect ID (tunipy -> tunipu)
+* NOD: Gave ashlander dust mask and travel pouch
 
 **Tuvene Arethan**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
@@ -1568,6 +1722,7 @@
 
 **twice_bitten**  
 * Hair from More Argonian Hair   
+* NOD: torn trousers from DE  
   
 ## U
 **ughash gro-batul**  
@@ -1604,6 +1759,9 @@
 
 **Valund** 
 * Rogues Gallery - Head from TD  
+
+**valveli arelas**  
+* Properly Clothed NPCs - straw hat, gondolier shirt
 
 **Valvesu Indaram** 
 * Rogues Gallery - Head from TD  
@@ -1709,11 +1867,24 @@
 * Rogues Gallery - Head from TD  
 
 ## Z
+**zabarbael**  
+* Removed in NOD: Properly Clothed NPCs - script
+* NOD: gave some gauntlets and a TD head
+* TODO: fashionwind eyepatch
+
 **zabi adidshina**  
 * Armored Robe Compilation - Mabrigash robe  
 
+**zallit assattadaishah**  
+* Removed in NOD: Properly Clothed NPCs - hat script
+* NOD: gave RV netchiman helm
+
 **zebba asharnalit**  
 * Armored Robe Compilation - Mabrigash robe  
+* Properly Clothed NPCs 
+
+**zebba benamamat**  
+* Properly Clothed NPCs - wicker hat
 
 **zennammu**  
 * Armored Robe Compilation - Mabrigash robe  

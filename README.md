@@ -11,6 +11,12 @@ In some cases, where the armor/gold values from the original mods are egregiousl
 
 I largely leave generic guards alone so you can use your guard mods of choice.  
 
+Differences with vanilla friendly wearables expansion: 
+* Doesn't include item replacers
+* Not dependent on BCOM
+* Fewer new NPCs (not none)
+* Fewer scripts
+
 ## Requirements:
 * OAAB Data
 - Distributes many of the armor sets and hoods to NPCs
@@ -72,6 +78,13 @@ I largely leave generic guards alone so you can use your guard mods of choice.
 - Gave Netchiman's Cap to some herders. 
 * [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651) by RuffinVangarr  
 - Minor dialogue tweaks. Added some ancestral mages to Ghostghate Temple. Tweaked some necromancer names.
+* [**Fine Clothiers of Tamriel**](http://download.fliggerty.com/download-55-751) by Westly  
+- Note: Download link above is unreliable and may not be available; try again later and it might be back up.  
+- Gives the Elsweyr robes to a number of Khajiit, and blacksmith shirts to various people (not just blacksmiths).
+* [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Aoimhevelho  
+- Uses only the clothes/objects, for better compatibility. Install the original and run it alongside NOD for the full experience.
+* [**Khajiit Outfit Diversity**](https://www.nexusmods.com/morrowind/mods/47224/) by Lucevar 
+- Unchanged from original  
 
 ## Recommended mods
 * [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
@@ -88,6 +101,8 @@ MWSE required. There are 3 vampire bloodlines in the vanilla game and they all l
 You'll need to get [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038) by Ashstaar, and will probably want to get RuffinVangarr's updated versions of the armor [**here (Sathil Mercenary)**](https://www.nexusmods.com/morrowind/mods/48340) and [**here (War Armor)**](https://www.nexusmods.com/morrowind/mods/48770).  
 * [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990)
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by Von Djangos, with the patch by PoodleSandwich: [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320)  
+**Vanity**
+**Robe'n'Hood**(https://www.nexusmods.com/morrowind/mods/51474)
 
 ## Incompatible With
 * The original mods

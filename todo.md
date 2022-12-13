@@ -1,13 +1,9 @@
 Core:
-* Add dreamer expansion clothes
 * Give Aundae an outfit
-* Add OAAB/R-zero hats
-* Add fcot
-* Give caravaners and shipmasters appropriate outfits and torches/lanterns
-* Add Khajiit outfit diversity
 * Give all master trainers a lookover
-* Distribute Dim khajiit faces
+* Distribute iron/steel helm variants
 
+Patch:
 OAAB hood armor value patch
 
 Sixth House pack:
@@ -52,6 +48,18 @@ Done v1.0
 * Added necromancer robes
 * Added daedric telvanni robe
 * Added concept art dunmer helms
+* Added dreamer expansion clothes
+* Added fcot
+* Added Khajiit outfit diversity
+* Added Properly Clothed NPCs
+* Updated Sacred Necromancers to 1.5
+* Updated Concept Art Dunmer Helmets to 1.01
+* Add OAAB/R-zero hats
+* Give caravaners and shipmasters appropriate outfits and torches/lanterns
+* Distribute Dim khajiit faces
+
+Streamer Addon:
+* Give clothes to dancers and naked nords
 
 NPCS to update:
 

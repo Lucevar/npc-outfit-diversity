@@ -26,6 +26,11 @@ Full (Include resources + esp):
     1. [**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282?tab=description) by Markond  
 * Danke (granted by mod permissions)
     1. [**Danke's Armours**](https://www.nexusmods.com/morrowind/mods/45114) by Danke  
+* Westly (mod permissions)
+    1. FCOT 
+        (Modders for The Elder Scrolls III: Morrowind may use these Items/Textures in this mod freely as long as you give credit to Westly, the original author and right holder of the textures herein and the original mesh authors listed above.)
+* Olaf (granted directly)
+    1. Best Cloaks
 
 Partial (Can use esp but need to link resources)
 * Ashtaar
