@@ -1,11 +1,23 @@
 Core:
 * Give all master trainers a lookover
 * Distribute iron/steel helm variants
-* Add Olafs cloaks & hoods, test if cloaks work on npcs
-* Issue of thrust/breton knights?
+* Westly noble robes - Aundae?
 * High elves
 * Khajiit runthrough
-* Find argonian armours
+* Miners and farmers and fishermen: give AB tool weapons
+* Westly: figure out who I want to give clothes to, rename, remove deprecations
+* figure out which of westly's have TD equivalents
+
+Asset changes:
+* Get Blender
+* Get MW blender plugin
+* Get latest version of gimp and/or PS dds plugin
+* Desaturate blacksmith shirts
+* Deprecate unneeded westly assets: coloured backpacks etc
+* Retex melisande's backpack slightly
+* missun akin cuirass fix
+
+Docs/Release
 * Take many screenshots - vanilla vs modded
 * Proper credits file
 * Include original readmes
@@ -14,16 +26,20 @@ Core:
 * Add full compatibility info
 * Add full recs list
 
+Mods to add:
+* Hold it 
+* Find argonian armours
+* Plangkye
+- add assets, remove any that don't fit aesthetic, remove shop, add to ll, distribute
+* Add Olafs cloaks & hoods, test if cloaks work on npcs
+
 Patch:
 * OAAB hood armor value patch
 * BCOM patch
 
-Sixth House pack:
-* Add Natinnet's
 
 Later:
 * Add tooltip integration for everything
-* Sacred necromancer - Dunmer ancestors quest addon?
 
 MWSE addons:
 Gear:
@@ -75,6 +91,9 @@ Done v1.0
 * Add OAAB/R-zero hats
 * Give caravaners and shipmasters appropriate outfits and torches/lanterns
 * Distribute Dim khajiit faces
+* Distributed rapiers and TD/OAAB breton hairs and heads  
+* Clean: fighters guild, telvanni tower, molag mar veloth hostel
+* get rid of clothier in Suran  
 
 NPCS to update:
 

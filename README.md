@@ -20,7 +20,8 @@ Differences with vanilla friendly wearables expansion:
 ## Requirements for the core mod:
 * [**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042)
 * [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537)
-* Better Bodies
+* [**Better Bodies**](https://www.nexusmods.com/morrowind/mods/48387)
+- Any of the various better bodies downloads will do, this just happens to be the one I use.  
 
 ## Requirements for some addons:
 * [**MGE XE-MWSE**](https://www.nexusmods.com/morrowind/mods/41102)
@@ -29,14 +30,16 @@ Differences with vanilla friendly wearables expansion:
 
 ## Features
 * Many NPCs have received outfit upgrades with unique or rare armours: look out for names like Vedam Dren, Bolvyn Venim, Gothren, Orvas Dren, and more
-* Many bandits and Hlaalu nobles now have heads more fitting to them, using resources from TD
+* Many bandits and Hlaalu nobles now have heads more fitting to them, using resources from TD - thanks to Rogues Gallery and Hlaalu Noble Facial Overhaul
 * Noble Dunmer have a much greater variety of exquisite robes to choose from, as well as hair worthy of their status in life - thanks to Dunmer Noble Overhaul
 * Khajiit and Argonians also have much more diverse heads and hairs thanks to More Argonian Heads and Dim's Khajiit Head & Hair pack
 * Slaves now look more beaten-down: many have dirty or torn clothes, or are carrying backbaskets and miners picks
 * Buoyant Armigers are now distinguished by their unique chitin-glass blended armours, while the Ordinators are clothed according to the Orders to which they belong
+* RV's Concept Art Dunmer Helms have been given out to House enforcers and bodyguards (for the three house-affiliated helms), and to netchimen and other outdoor workers
 * Necromancers now have robes more suited to their dark and dirty work
 * The Tribunal Temple's Order of Ancestral Mages can now be found at *their* work, in temples and tombs, tending to the dead. 
-* Many Breton knights now wield rapiers.
+* Many Bretons now wield rapiers, especially spellswords who previously had spells but no swords.
+* Some Breton males also get new hairs from 
 * NPCs in stormy or ash-ridden environments now often have hoods, hats, or other protective gear.
 * Ashlanders and mabrigashs also get gear upgrades
 * Many other armours and weapons created by modders have been distributed to NPCs
@@ -98,7 +101,9 @@ Differences with vanilla friendly wearables expansion:
 - Minor dialogue tweaks. Added some ancestral mages to Ghostghate Temple. Tweaked some necromancer names.
 * [**Fine Clothiers of Tamriel**](http://download.fliggerty.com/download-55-751) by Westly  
 - Note: Download link above is unreliable and may not be available; try again later and it might be back up.  
-- Gives the Elsweyr robes to a number of Khajiit, and blacksmith shirts to various people (not just blacksmiths).
+- Uses a subset of the clothes, retextures many, and renames/revalues many. For those I've changed, I've given them new IDs. 
+- Removes the clothier in Suran, and a large number of the clothes. If you want the full experience, you should run the original alongside NOD. 
+- Gives the Elsweyr robes to a number of Khajiit, and shirts/tunics/robes to various people.
 * [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Aoimhevelho  
 - Uses only the clothes/objects, for better compatibility. Install the original and run it alongside NOD for the full experience.
 * [**Khajiit Outfit Diversity**](https://www.nexusmods.com/morrowind/mods/47224/) by Lucevar 
@@ -119,12 +124,12 @@ MWSE required. There are 3 vampire bloodlines in the vanilla game and they all l
 * [**OAAB_Data and Community Equipment Integration - War Armor and Sathil Mercenary**](https://www.nexusmods.com/morrowind/mods/50307) by Lucas9  
 You'll need to get [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038) by Ashstaar, and will probably want to get RuffinVangarr's updated versions of the armor [**here (Sathil Mercenary)**](https://www.nexusmods.com/morrowind/mods/48340) and [**here (War Armor)**](https://www.nexusmods.com/morrowind/mods/48770).  
 * [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990)
+- NOD only gives the clothes to some npcs; for dreamer changes, get the original mod
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by Von Djangos, with the patch by PoodleSandwich: [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320)  
-**Vanity**
-**Robe'n'Hood**(https://www.nexusmods.com/morrowind/mods/51474)
+* [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
+* [**Robe'n'Hood**](https://www.nexusmods.com/morrowind/mods/51474)
 
 ## Incompatible With
-* The original mods
 * Vanilla Friendly Wearables Expansion
 * Wares NPCs modules (other modules of Wares are compatible and recommended)
 * Raym's Absolutely Aleatory Accoutrements

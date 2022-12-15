@@ -16,6 +16,7 @@
 * Armored Robe Compilation - Spellsword Robe  
 * NOD: Gave Light Steel pauldrons and a hood from OAAB  
 * NOD: Increased light armor skill to make her wear the hood  
+* NOD: Gave her a silver flamelunger
 
 **Adondasi Sadalvel**  
 * Properly Clothed NPCs - shroom cap
@@ -51,6 +52,9 @@
 **aldaril**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 * Armored Robe Compilation - Imperial Battlemage robe 
+
+**Ales Julalanie**  
+* NOD: gave oaab iron rapier
 
 **Almsi Oren**  
 * Rogues Gallery - Head from TD  
@@ -144,6 +148,7 @@
 **astien masoriane**  
 * Armored Robe Compilation - Spellsword robe  
 * NOD: Gave OAAB light steel gauntlets and regular steel pauldrons   
+* NOD: Gave OAAB steel rapier
 
 **asum**  
 * Hair from More Argonian Hair   
@@ -186,6 +191,12 @@
 **Banalz**  
 * Hair from More Argonian Hair   
 
+**bandit_scarred_de_hrggh (aka Glaum)**  
+* NOD: Gave him a scarred head from TD  
+
+**bandit_scruffy_de_hrggh (aka Gaban)**  
+* NOD: gave him a hair from OAAB 
+
 **Bazgulub gro-Ulfish** 
 * Rogues Gallery - Head from TD  
 
@@ -197,6 +208,9 @@
 
 **beldrose dralor**  
 * Dunmer Nobles Overhaul  
+
+**Belene Yvienne**  
+* NOD: gave an enchanted steel rapier
 
 **Bels Uvenim**  
 * NOD: Ceremonial adamantium armor (blue variant)
@@ -238,6 +252,7 @@
 
 **Birard Adrognese**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+* NOD: Gave him a steel rapier and some arrows for his vanilla bow 
 
 **birer indaram**  
 * Buoyant Armiger Armor Overhaul  
@@ -341,6 +356,9 @@
 **chulz**  
 * Hair from More Argonian Hair   
 
+**Ciel Nestal**  
+* NOD: Gave TD hair  
+
 **Cinda** 
 * Rogues Gallery - Head from TD  
 
@@ -430,6 +448,7 @@
 
 **Debentien Sylbenitte**  
 * NOD: Gave a necromancer robe from RV's Necromancers Robes  
+* NOD: replaced his levelled steel weapon with a steel rapier
 
 **deldrise andoren**  
 * Dunmer Nobles Overhaul  
@@ -487,6 +506,9 @@
 
 **Dranos Sandus** 
 * Rogues Gallery - Head from TD  
+
+**Draramu Hloran**  
+* NOD: Gave her a robe upgrade + armour + TD head/hair
 
 **Draryn Andrano** 
 * Rogues Gallery - Head from TD  
@@ -639,6 +661,7 @@
 
 **emusette bracques**  
 * Removed in NOD: Armored Robe Compilation - apparent dirty edit?  
+* NOD: Gave a hair from TD  
 
 **Ena** 
 * Rogues Gallery - Head from TD  
@@ -708,6 +731,9 @@
 **Farare Othril**  
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
 
+**fasile charascel**  
+* NOD: Gave iron shardlunger, a padded shirt from fcot, and a hair from TD  
+
 **fathasa llethri**  
 * Dunmer Nobles Overhaul  
 
@@ -770,6 +796,9 @@
 **fine_mouth**  
 * Hair from More Argonian Hair   
 
+**Flaenia Amiulusus**  
+* NOD: gave red blacksmith shirt, TD head/hair
+
 **Folyni Dran** 
 * Rogues Gallery - Head from TD  
 
@@ -788,6 +817,7 @@
 
 **Frostien Ephine**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+* NOD: Gave arrows for his bow, steel rapier  
   
 **Furius Acilius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -841,6 +871,9 @@
 **Geel_Lah**  
 * Hair from More Argonian Hair   
 
+**Geor Matreinace**  
+* NOD: gave oaab breton hair and steel rapier
+
 **general darius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
@@ -892,6 +925,9 @@
 **grey_throat**  
 * Hair from More Argonian Hair   
 * NOD: backbasket from OAAB 
+
+**Gudling the Rascal**  
+* NOD: oaab scarf  
 
 **Gwen** 
 * Rogues Gallery - Head from TD  
@@ -998,6 +1034,7 @@
 
 **Jeberilie Moniel**  
 * NOD: Gave a necromancer robe from RV's Necromancers Robes  
+* NOD: replaced leveled steel weapon with steel rapier
 
 **Jelin**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -1010,6 +1047,10 @@
 
 **Jobasha**  
 * Khajiit outfit diversity - OAAB shirt
+
+**Joslin**  
+* NOD: Replaced silver shardsword with silver shardlunger
+* NOD: Gave TD hair
 
 **J'Zirr**  
 * Khajiit outfit diversity - TR head, TR shirt  
@@ -1051,6 +1092,9 @@
 **Lanald** 
 * Rogues Gallery - Head from TD  
 
+**Lanie Endre**  
+* NOD: Gave silver rapier and a tunic
+
 **largakh gro-bulfim**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
@@ -1068,6 +1112,9 @@
 
 **Lidebras** 
 * Rogues Gallery - Head from TD  
+
+**Lielle Vette**  
+* NOD: Gave TD hair and a rapier
 
 **llaalam madalas**  
 * Removed in NOD: Armored Robe Compilation - Telvanni robe 
@@ -1130,6 +1177,9 @@
 **Ma'Jidarr**  
 * Khajiit outfit diversity - dirty vest from Dreamers Expansion
 
+**malielle broles**  
+* NOD: Gave hair from TD and a rapier  
+
 **mamaea ashun-idantus**  
 * Armored Robe Compilation - Mabrigash robe  
 
@@ -1147,7 +1197,10 @@
 * Armored Robe Compilation - Mabrigash robe  
 
 **maranique jolvanne**  
-* Buoyant Armiger Armor Overhaul  
+* Removed in NOD: Buoyant Armiger Armor Overhaul  
+* NOD: Gave netch adamantium and some steel armour variants from TD
+* NOD: Glass rapier 
+* NOD: Upped her level somewhat; overall a harder fight now, to compensate for the better loot
 
 **Marilia Saram** 
 * Rogues Gallery - Head from TD  
@@ -1196,6 +1249,9 @@
 
 **mendel eves**  
 * Buoyant Armiger Armor Overhaul  
+
+**merard geves**  
+* NOD: gave him an OAAB haircut and a rapier  
 
 **meril hlaano**  
 * Dunmer Nobles Overhaul  
@@ -1311,6 +1367,9 @@
 
 **Nivel Madryon** 
 * Rogues Gallery - Head from TD  
+
+**noleon sele**  
+* NOD: gave him an iron rapier  
 
 **norus marvel**  
 * Armored Robe Compilation - Redoran robe 
@@ -1434,6 +1493,9 @@
 * Removed in NOD: Armored Robe Compilation - Hlaalu Robe 
 * NOD: gave DNO hlaalu robe
 
+**rianciene aurilie**  
+* NOD: Gave her an enchanted iron rapier  
+
 **Rilas Arethan** 
 * Rogues Gallery - Head from TD  
 
@@ -1463,6 +1525,9 @@
 **rumare**  
 * Removed in NOD: Properly Clothed NPCs - mask script
 * Gave TD netch rogue armors
+
+**Ruran Stoine**  
+* NOD: Replaced his chitin weapons with an iron rapier
 
 **Ruvene Ulven** 
 * Rogues Gallery - Head from TD  
@@ -1772,6 +1837,7 @@
 
 **Vanjirra**  
 * Khajiit outfit diversity: robes of elsweyr, turban, backpack  
+* NOD: Head from TD
 
 **vantustius pundus**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -1829,6 +1895,9 @@
   
 **Vinnus Laecinnius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Vierene Mene**  
+* NOD: Replaced her silver claymore with a silver rapier, gave her a TD hair  
 
 **virvyn athren**  
 * Armored Robe Compilation - redoran robe 

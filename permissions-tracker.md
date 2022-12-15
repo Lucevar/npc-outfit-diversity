@@ -1,6 +1,5 @@
 Donation Points permission: Denied by several mods; will not enable.
 
-Full (Include resources + esp):
 * RuffinVangarr (granted directly)
     1. [**Ceremonial Adamantium Armor V2.11**](https://www.nexusmods.com/morrowind/mods/46629) by RuffinVangarr  
 * Lucas92 (granted directly)
@@ -27,32 +26,32 @@ Full (Include resources + esp):
 * Danke (granted by mod permissions)
     1. [**Danke's Armours**](https://www.nexusmods.com/morrowind/mods/45114) by Danke  
 * Westly (mod permissions)
-    1. FCOT 
+    1. [**FCOT**](http://download.fliggerty.com/download-55-751)
         (Modders for The Elder Scrolls III: Morrowind may use these Items/Textures in this mod freely as long as you give credit to Westly, the original author and right holder of the textures herein and the original mesh authors listed above.)
 * Olaf (granted directly)
-    1. Best Cloaks
+    1. [**Olaf's Best Cloaks in Town**](https://www.nexusmods.com/morrowind/mods/49612)
+* Kieve (granted by mod permissions)
+    1. [**Void Gear**](https://mw.modhistory.com/download-37-9394)
+    2. [**Aundae Sentinel Armour**](https://mw.modhistory.com/download-4-14664)
+    3. [**Jade Armour**](https://mw.modhistory.com/download-4-10524)
+* Danae (granted directly)
+    1. Hold It
+* Plangkye
+    1. Victorian Lace Dress](https://www.nexusmods.com/morrowind/mods/27069)
+    2. [**Hilgya the Seamstress**](https://mw.modhistory.com/download-64-12474)
+    2. Hilgya the Seamstress Exp1](https://www.nexusmods.com/morrowind/mods/21528?tab=images) / [MMH mirror](https://mw.modhistory.com/download-64-13102)
 
-Partial (Can use esp but need to link resources)
-* Ashtaar
-    1. War Armor and Sathil - armors are available as a resource   
 
-Recommend original instead:
-* Fancy Barenziah
-
-Denied completely:
-* 
 
 Dependency
 * OAAB
 * Tamriel Data
 
-* [**MWSE Satchels and Bags**](https://www.nexusmods.com/morrowind/mods/51063) by FrummYonda & Safebox  
+
 
 Unknown
 * Natinnet
 * Anroha
-* Westly
-* Aoimhevelho
 * Ashtaar
 * Kafeid
 * Endoran
@@ -63,9 +62,11 @@ Unknown
 Black GLass armor: https://mw.modhistory.com/download-21-14166
 Telvanni Warriors: https://www.nexusmods.com/morrowind/mods/43254?
 Iron Variants: https://www.nexusmods.com/morrowind/mods/43260
-Void Gear: http://mw.modhistory.com/download-37-9394
 Simple Cloth Scarf Mod: https://www.nexusmods.com/morrowind/mods/49100
-Danke Armours: 
 quorn resource integration - argonian sets
 anroha glass weapons set
 *Issue of thrust/OAAB
+Partial (Can use esp but need to link resources)
+* Ashtaar
+    1. War Armor and Sathil - armors are available as a resource   
+    * [**MWSE Satchels and Bags**](https://www.nexusmods.com/morrowind/mods/51063) by FrummYonda & Safebox  
