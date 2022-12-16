@@ -1,5 +1,5 @@
 Core:
-* Give all master trainers a lookover
+
 * Distribute iron/steel helm variants
 * Westly noble robes - Aundae?
 * High elves
@@ -8,7 +8,7 @@ Core:
 * Westly: figure out who I want to give clothes to, rename, remove deprecations
 * figure out which of westly's have TD equivalents
 * TD com trousers and de rogue trousers
-* Delete suran clothier npc
+* Edit blades
 
 Asset changes:
 * Get Blender
@@ -53,11 +53,25 @@ Gear:
 * Satchels & Bags
 * Circlets
 
+Senilias Cadiusus: goggles?
+dhaunayne: circlet
+Edwinna: goggles?
+Ulms Drathen: eyepatch?
+
 Bosmer:
 * Antlers
 
 Streamer Safety Addon:
 * Give clothes to dancers and naked nords
+
+Cinnia Urtius Addon
+* Clothe Cinnia and add her to Tel Fyr
+
+NPCS to update:
+
+Raxle Berne: some decent light armor
+Giden Nelvilo, witchhunter in Shallit with basic chitin: improve
+
 
 Done v1.0
 - Added Ceremonial Adamantium Armor
@@ -105,12 +119,6 @@ Done v1.0
 - removed fine ashlander skirts
 - removed elsweyr wrist wraps
 - removed Barenziah noble clothes
-
-NPCS to update:
-
-Senilias Cadiusus: goggles?
-dhaunayne: circlet
-Edwinna: goggles?
-Raxle Berne: some decent light armor
-Giden Nelvilo, witchhunter in Shallit with basic chitin: improve
-
+* Give all master trainers a lookover
+* Delete suran clothier npc
+* Make all master trainers non-hostile

@@ -1,12 +1,21 @@
 ## A
+**Ababael Timsar-Dadisun**  
+* NOD: Gave a few bits of heavy chitin armour  
+
 **Abanji**  
 * NOD: Gave head from Dim's Khajiit pack and some torn clothes from DE  
+
+**Abelle Chriditte**  
+* NOD: gave elsweyr/traveller robe 
 
 **Adanja**  
 * Khajiit Outfit Diversity: TR head, TR shirt  
 
 **Addhirranirr**  
 * NOD: Gave her one of Dim's Khajiit hairstyles and a shirt from TD  
+
+**Adibael Hainnabibi**  
+* NOD: Gave oaab scarf  
 
 **Adil Norvayn**  
 * Rogues Gallery - Head from TD  
@@ -25,6 +34,9 @@
 **adraria vandacia**  
 * Armored Robe Compilation - Imperial Studded Leather Robe
 * NOD: Gave RV Studded Imperial Leather pauldrons   
+
+**Aerin**  
+* NOD: gave her a robe from fcot  
 
 **ah-meesei**  
 * Hair from More Argonian Hair   
@@ -55,6 +67,9 @@
 
 **Ales Julalanie**  
 * NOD: gave oaab iron rapier
+
+**Alfhedil Elf-Hewer**  
+* NOD: Gave TD hair and some bear armour (BM/TD) 
 
 **Almsi Oren**  
 * Rogues Gallery - Head from TD  
@@ -100,6 +115,9 @@
 
 **arangaer**  
 * Properly Clothed NPCs - bug shell hat
+
+**Ardarume**  
+* NOD: robe from fcot
 
 **Arelvam Sadrano** 
 * Rogues Gallery - Head from TD  
@@ -361,6 +379,10 @@
 
 **Cinda** 
 * Rogues Gallery - Head from TD  
+
+**Cinnia Urtius**  
+* NOD: Gave a TD hair and some clothes from fcot  
+* NOD: Placed in-game at Tel Fyr
 
 **Clecentor Aerius** 
 * Rogues Gallery - Head from TD  
@@ -689,6 +711,12 @@
 * Properly Clothed NPCs - sailor clothes  
 * NOD: gave harpoon from TD  
 
+**Erer Darothil**  
+* NOD: Gave oaab hood
+
+**Ernse Llervu**  
+* NOD: Gave a different hair
+
 **ervas aradil**  
 * Armored Robe Compilation - Ordinator robe 
 
@@ -945,6 +973,9 @@
 **hathei**  
 * Hair from More Argonian Hair   
 
+**Hecerinde**  
+* NOD: gave a shirt from fcot 
+
 **heir-zish**  
 * Hair from More Argonian Hair   
 
@@ -1107,6 +1138,10 @@
 **Lassinia Mussillius**  
 * Removed in NOD: Armored Robe Compilation - dirty edit?
 
+**Leles Birian**  
+* NOD: Gave her a hair from TD  
+* NOD: Gave her a shirt from fcot  
+
 **Lesley** 
 * Rogues Gallery - Head from TD  
 
@@ -1258,6 +1293,9 @@
 
 **mertis falandas**  
 * Buoyant Armiger Armor Overhaul  
+
+**Methal Seran**  
+* NOD: TD hair  
 
 **miara viake**  
 * Armored Robe Compilation - Ordinator robe 
@@ -1449,6 +1487,7 @@
 ## Q
 **Qorwynn**  
 * NOD: Added his armor from Danke's Armours, plus some steel kit to round out his outfit. Also gave him a hair from TD.  
+* NOD: Made him not automatically hostile
 
 ## R
 **Rabinna**  
@@ -1466,6 +1505,9 @@
 
 **ranosa gilvayn**  
 * Removed in NOD: Armored Robe Compilation - dirty edit?
+
+**Ravani Llethan**  
+* NOD: Gave her a DNO white hair wig. She might be in mourning, but she's still a noble. 
 
 **Ra'virr**  
 * Khajiit outfit diversity: TD shirt
@@ -1571,12 +1613,19 @@
 **selmen relas**  
 * Armored Robe Compilation - Ordinator robe 
 
+**Senyndie**  
+* NOD: Gave TD hair, replaced robe with fcot robe, replaced shoes with fcot boots
+
 **serer andrano**  
 * Properly Clothed NPCs - shroomcap
 * NOD: fine padded shirt from TD  
 
 **servant arg male**  
 * Hair from More Argonian Hair   
+
+**Seryne Relas**  
+* NOD: Gave her a head from TD (a more weathered one to fit her description from Breathing Water)
+* NOD: Gave her a shirt from TD  
 
 **Sethesi Adas** 
 * Rogues Gallery - Head from TD  
@@ -1594,6 +1643,7 @@
 
 **Shardie**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+* NOD: Gave her a head and hair from TD; grey hair, as befits the fact that she was one of Athyn Sarethi's teachers before he came back to Morrowind and he now has a grown son
   
 **sharkub gro-khashnar**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -1614,9 +1664,14 @@
 
 **Sirollus Saccus**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+* NOD: Gave him a shirt upgrade 
 
 **skeetul**  
 * Hair from More Argonian Hair   
+
+**Skink-in-Trees-Shade**  
+* Compatibility note: Mage Robes  
+* NOD: Gives hair from More Argonian Hairs  
 
 **smart_snake**  
 * Hair from More Argonian Hair   
@@ -1687,7 +1742,8 @@
 * Rogues Gallery - Head from TD  
 
 **taren andoren**  
-* Dunmer Nobles Overhaul  
+* Removed in NOD: Dunmer Nobles Overhaul  
+* NOD: Gave him an extravagant shirt from TD  
 
 **tauryon**  
 * Properly Clothed NPCs - script
@@ -1755,7 +1811,8 @@
 * Hair from More Argonian Hair   
 
 **Torasa Aram**  
-* Dunmer Nobles Overhaul  
+* Removed in NOD: Dunmer Nobles Overhaul  
+* NOD: Gave her a noble dress from FCOT  
 
 **toris saren**  
 * Dunmer Nobles Overhaul  
@@ -1796,6 +1853,9 @@
 ## U
 **ughash gro-batul**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**Ulms Drathen**  
+* NOD: Gave green scarf from more cloth helms
   
 **ulumpha gra-sharob**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -1928,6 +1988,9 @@
 * Hair from More Argonian Hair   
 
 ## Y
+**Yakin Bael**  
+* NOD: Replaced robe with robe from TD  
+
 **yanabani ashushshirari**  
 * Armored Robe Compilation - Mabrigash robe  
 * NOD: Gave OAAB Chitin Scout helm and some extra chitin armor bits  

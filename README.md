@@ -29,9 +29,10 @@ Differences with vanilla friendly wearables expansion:
 * [**Onion - Layered Accessories**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox  
 
 ## Features
+* Edits approx 700 out of 2675 total NPCs in vanilla Morrowind (+ expansions).
 * Many NPCs have received outfit upgrades with unique or rare armours: look out for names like Vedam Dren, Bolvyn Venim, Gothren, Orvas Dren, and more
 * Many bandits and Hlaalu nobles now have heads more fitting to them, using resources from TD - thanks to Rogues Gallery and Hlaalu Noble Facial Overhaul
-* Noble Dunmer have a much greater variety of exquisite robes to choose from, as well as hair worthy of their status in life - thanks to Dunmer Noble Overhaul
+* Noble Dunmer have a much greater variety of exquisite robes to choose from, as well as hair worthy of their status in life - thanks to Dunmer Noble Overhaul. Additionally, upgrades the outfits of many nobles that DNO skipped.
 * Khajiit and Argonians also have much more diverse heads and hairs thanks to More Argonian Heads and Dim's Khajiit Head & Hair pack
 * Slaves now look more beaten-down: many have dirty or torn clothes, or are carrying backbaskets and miners picks
 * Buoyant Armigers are now distinguished by their unique chitin-glass blended armours, while the Ordinators are clothed according to the Orders to which they belong
@@ -40,6 +41,7 @@ Differences with vanilla friendly wearables expansion:
 * The Tribunal Temple's Order of Ancestral Mages can now be found at *their* work, in temples and tombs, tending to the dead. 
 * Many Bretons now wield rapiers, especially spellswords who previously had spells but no swords.
 * Some Breton males also get new hairs from 
+* Almost all the master trainers now have new outfits, some of them unique to them. All master trainers are now non-hostile by default. Adds Cinia Urtius to the game.
 * NPCs in stormy or ash-ridden environments now often have hoods, hats, or other protective gear.
 * Ashlanders and mabrigashs also get gear upgrades
 * Many other armours and weapons created by modders have been distributed to NPCs
