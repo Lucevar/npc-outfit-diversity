@@ -6,7 +6,7 @@
 * Khajiit Outfit Diversity: TR head, TR shirt  
 
 **Addhirranirr**  
-* NOD: Gave her one of Dim's Khajiit hairstyles and one of westly's vest shirts
+* NOD: Gave her one of Dim's Khajiit hairstyles and a shirt from TD  
 
 **Adil Norvayn**  
 * Rogues Gallery - Head from TD  
@@ -732,7 +732,7 @@
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
 
 **fasile charascel**  
-* NOD: Gave iron shardlunger, a padded shirt from fcot, and a hair from TD  
+* NOD: Gave iron shardlunger, a padded shirt from TD, and a hair from TD  
 
 **fathasa llethri**  
 * Dunmer Nobles Overhaul  
@@ -1573,7 +1573,7 @@
 
 **serer andrano**  
 * Properly Clothed NPCs - shroomcap
-* NOD: fine padded shirt from fcot
+* NOD: fine padded shirt from TD  
 
 **servant arg male**  
 * Hair from More Argonian Hair   

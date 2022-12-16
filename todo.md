@@ -7,6 +7,8 @@ Core:
 * Miners and farmers and fishermen: give AB tool weapons
 * Westly: figure out who I want to give clothes to, rename, remove deprecations
 * figure out which of westly's have TD equivalents
+* TD com trousers and de rogue trousers
+* Delete suran clothier npc
 
 Asset changes:
 * Get Blender
@@ -16,6 +18,9 @@ Asset changes:
 * Deprecate unneeded westly assets: coloured backpacks etc
 * Retex melisande's backpack slightly
 * missun akin cuirass fix
+* WAR_MLSND_ROBE_01: retexture, especially scarf
+* Rebalance westly prices
+* Upscale/change westly skirt textures (WAR_MISC_SKIRT - 12h, 12g(t), 12f(t), 12e(r), 12d, 12c(de), 12b(de), 12a(de))
 
 Docs/Release
 * Take many screenshots - vanilla vs modded
@@ -93,7 +98,13 @@ Done v1.0
 * Distribute Dim khajiit faces
 * Distributed rapiers and TD/OAAB breton hairs and heads  
 * Clean: fighters guild, telvanni tower, molag mar veloth hostel
-* get rid of clothier in Suran  
+* FCOT edits:
+- got rid of clothier in Suran  
+- removed fine thong sandal and fine slipper sandals
+- removed ashlander shirts
+- removed fine ashlander skirts
+- removed elsweyr wrist wraps
+- removed Barenziah noble clothes
 
 NPCS to update:
 

@@ -111,6 +111,14 @@ Differences with vanilla friendly wearables expansion:
 * [**Properly Clothed NPCs**](https://www.nexusmods.com/morrowind/mods/48870) by RandomPal  
 - Keeps a few npc changes; mostly got rid of the hat-switching scripts. Extended NPC changes.  
 
+## Should I run the originals together with NOD?
+Mostly, no. The exceptions are the mods below, which CAN be run with NOD, and may offer additional features:
+* [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Aoimhevelho  
+For the full dreamers overhaul; NOD only includes some clothes, not the full feature set of DE.
+* [**Fine Clothiers of Tamriel**](http://download.fliggerty.com/download-55-751) by Westly  
+For the full set of clothes and the clothier in Suran
+* [**The Ebony Warrior**](https://www.nexusmods.com/morrowind/mods/48564) by RuffinVangarr  
+
 ## Recommended mods
 * [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
 Places one copy of each adamantium armor piece (except the helm) in Vvardenfell. They're not for sale.  
