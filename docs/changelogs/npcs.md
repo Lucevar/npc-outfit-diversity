@@ -8,6 +8,9 @@
 **Abelle Chriditte**  
 * NOD: gave elsweyr/traveller robe 
 
+**Abishpulu Shand**  
+* NOD: gave a muckpod hat 
+
 **Adanja**  
 * Khajiit Outfit Diversity: TR head, TR shirt  
 
@@ -76,6 +79,9 @@
 
 **Alnas Sendu** 
 * Rogues Gallery - Head from TD  
+
+**Alof the Easterner**  
+* NOD: Gives some pants from TD  
 
 **Alurue Saryon** 
 * Rogues Gallery - Head from TD  
@@ -206,6 +212,9 @@
 **Balsa Girith** 
 * Rogues Gallery - Head from TD  
 
+**Balur Salvu**  
+* NOD: Gave him a farmers hand scythe  
+
 **Banalz**  
 * Hair from More Argonian Hair   
 
@@ -261,6 +270,9 @@
 
 **big head**  
 * Properly Clothed NPCs - big head's big head
+
+**Big Helende**  
+* NOD: Gave her a travelling robe
 
 **Bilen Velothril** 
 * Rogues Gallery - Head from TD  
@@ -458,6 +470,9 @@
 **Davur Githendas** 
 * Rogues Gallery - Head from TD  
 
+**Daynasa Telendas**  
+* NOD: gives backbasket, scarf, farming scythe, td pants
+
 **daynes redothril**  
 * Properly Clothed NPCs - dirty edit?
 * NOD: gave him some accessories (requires Vanity)
@@ -494,6 +509,9 @@
 
 **dilvene venim**  
 * Dunmer Nobles Overhaul  
+
+**Dirara Drom**  
+* NOD: Gave her some clothes from fcot and a mushroom cap  
 
 **Direr Andrano**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -589,6 +607,9 @@
 
 **Dreynis Nothro**  
 * Community Equipment Integration - RuffinVangarr's Dreugh Armor  
+
+**Dreynos Elvul**  
+* NOD: Gave mushroom hat  
 
 **dreyns nelas**  
 * Buoyant Armiger Armor Overhaul  
@@ -753,6 +774,9 @@
 **Fanasa Ienith**  
 * Properly Clothed NPCs - OAAB scarf
 
+**Fanisea Irano**  
+* NOD: Clothing from fcot and TD
+
 **Fanuse Farano** 
 * Rogues Gallery - Head from TD  
 
@@ -853,6 +877,9 @@
 ## G
 **Gadasu Serothan** 
 * Rogues Gallery - Head from TD  
+
+**Gaden Folvyn**  
+* NOD: Hair from TD  
 
 **Galar Baren** 
 * Rogues Gallery - Head from TD  
@@ -961,6 +988,9 @@
 * Rogues Gallery - Head from TD  
 
 ## H
+**Hainab Lasamsi**  
+* NOD: Gave a mushroom hat
+
 **Haki the Halt**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
 
@@ -1190,6 +1220,9 @@
 **Llondryn Hlaalo** 
 * Rogues Gallery - Head from TD  
 
+**Llovyn Andus**  
+* NOD: Gave amulet from oaab 
+
 **Lunia Menanius** 
 * Rogues Gallery - Head from TD  
 
@@ -1208,6 +1241,9 @@
 
 **Madsu Dreth** 
 * Rogues Gallery - Head from TD  
+
+**Maeonius Man-Ilu**  
+* NOD: Gave an oaab scarf  
 
 **Ma'Jidarr**  
 * Khajiit outfit diversity - dirty vest from Dreamers Expansion
@@ -1294,6 +1330,9 @@
 **mertis falandas**  
 * Buoyant Armiger Armor Overhaul  
 
+**Merthierry Laelippe**  
+* NOD: Gives a fcot shirt and oaab hair 
+
 **Methal Seran**  
 * NOD: TD hair  
 
@@ -1308,6 +1347,9 @@
 
 **milah**  
 * Hair from More Argonian Hair   
+
+**Miles Gloriosus**  
+* NOD: Gave an adamantium rapier and a shirt from TD   
 
 **mim-jeen**  
 * Hair from More Argonian Hair   
@@ -1363,6 +1405,9 @@
 **Nalur Indrano** 
 * Rogues Gallery - Head from TD  
 
+**Nammu Man-Ilu**  
+* NOD: Gave some pants from TD and an oaab bread knife
+
 **nande**  
 * Removed in NOD: Properly Clothed NPCs - mask script
 * NOD: Gave some bits of OAAB Sal-Amur armour
@@ -1390,6 +1435,9 @@
   
 **Nileno Dorvayn**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
+
+**Nilera Ieneth**  
+* NOD: Gave her some fcot clothes and an OAAB hand scythe
 
 **nine_toes**  
 * Hair from More Argonian Hair
@@ -1474,6 +1522,9 @@
 **Penald** 
 * Rogues Gallery - Head from TD  
 
+**Piernette Beluelle**  
+* NOD: fcot top, TD hair 
+
 **Pilper Muspidius** 
 * Rogues Gallery - Head from TD  
 
@@ -1551,6 +1602,9 @@
 **Ri'Shajirr**  
 * Khajiit outfit diversity - robes of Elsweyr  
 
+**Risi Ice-Mane**  
+* NOD: Gives her some shoes
+
 **Ri'Zaadha**
 * NOD: Hair from Dim's Khajiit pack and a backbasket from OAAB  
 
@@ -1563,6 +1617,9 @@
 
 **Rufinus Alleius**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+
+**Runethyne Andas**  
+* NOD: Gives skirt/top from fcot  
 
 **rumare**  
 * Removed in NOD: Properly Clothed NPCs - mask script
@@ -1694,6 +1751,9 @@
 **Stenet**  
 * Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
 
+**Sterdecan**  
+* NOD: Gives a straw hat, an oaab farmers scythe, td pants, fcot top
+
 **stream-murk**  
 * Hair from More Argonian Hair   
 
@@ -1782,6 +1842,9 @@
 **Thervam Drelas** 
 * Rogues Gallery - Head from TD  
 
+**Thilse Aralas**  
+* NOD: Gave a skirt/top from TD  
+
 **Thraccenia Urgusiso** 
 * Rogues Gallery - Head from TD  
 
@@ -1822,6 +1885,7 @@
 
 **travellingnewwoman**  
 * Hair from More Argonian Hair   
+* NOD: Gives her some clothes from fcot, and a backbasket and hand scythe from oaab
 
 **trevyn fedos**  
 * Armored Robe Compilation - Ordinator robe  

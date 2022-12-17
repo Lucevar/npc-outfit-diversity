@@ -1,14 +1,13 @@
 Core:
 
 * Distribute iron/steel helm variants
-* Westly noble robes - Aundae?
 * High elves
 * Khajiit runthrough
-* Miners and farmers and fishermen: give AB tool weapons
-* Westly: figure out who I want to give clothes to, rename, remove deprecations
-* figure out which of westly's have TD equivalents
+* Miners and fishermen: give AB tool weapons
+* Clean hood changes in core
 * TD com trousers and de rogue trousers
 * Edit blades
+* Blacksmiths
 
 Asset changes:
 * Get Blender
@@ -122,3 +121,7 @@ Done v1.0
 * Give all master trainers a lookover
 * Delete suran clothier npc
 * Make all master trainers non-hostile
+* Westly: figure out who I want to give clothes to, rename, remove deprecations
+* figure out which of westly's have TD equivalents
+* Gave farmers a makeover
+* Gave mournhold nobles a makeover 

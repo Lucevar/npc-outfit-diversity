@@ -35,6 +35,7 @@ Differences with vanilla friendly wearables expansion:
 * Noble Dunmer have a much greater variety of exquisite robes to choose from, as well as hair worthy of their status in life - thanks to Dunmer Noble Overhaul. Additionally, upgrades the outfits of many nobles that DNO skipped.
 * Khajiit and Argonians also have much more diverse heads and hairs thanks to More Argonian Heads and Dim's Khajiit Head & Hair pack
 * Slaves now look more beaten-down: many have dirty or torn clothes, or are carrying backbaskets and miners picks
+* Fishermen, miners, and farmers now often carry signs of their trade - baskets, nets, scythes, egg miner masks, and so on
 * Buoyant Armigers are now distinguished by their unique chitin-glass blended armours, while the Ordinators are clothed according to the Orders to which they belong
 * RV's Concept Art Dunmer Helms have been given out to House enforcers and bodyguards (for the three house-affiliated helms), and to netchimen and other outdoor workers
 * Necromancers now have robes more suited to their dark and dirty work
