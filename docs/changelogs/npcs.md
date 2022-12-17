@@ -548,6 +548,9 @@
 **Dram Bero**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
+**Dramis Maryon**  
+* NOD: Gave TD Redoran armor  
+
 **Drandryn Omoran** 
 * Rogues Gallery - Head from TD  
 * NOD: Gave OAAB native iron armor  
@@ -1039,12 +1042,18 @@
 
 **hlendrisa seleth**  
 * Dunmer Nobles Overhaul  
+
+**Hloggar the Bloody**  
+* NOD: Gave Nord Steel armor from TD  
  
 **Hodlismod**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
 
 **hul**  
 * Hair from More Argonian Hair   
+
+**Hurnfing**  
+* NOD: Gave Nord Steel Armour from TD  
 
 ## I
 **Idronea Sadri** 
@@ -1096,6 +1105,9 @@
 **Iulus Truptor**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
 
+**Ivela Uvenim**  
+* NOD: Gave her some pieces of TD redoran armor  
+
 **ivramie sarandas**  
 * Armored Robe Compilation - nightblade robe
 * NOD: gave cephalopod pauldrons and a purple robe from Dunmer Nobles Overhaul
@@ -1126,6 +1138,9 @@
 
 **Jobasha**  
 * Khajiit outfit diversity - OAAB shirt
+
+**Jolding**  
+* NOD: Gave Nord Steel Armor and a head and hair from TD  
 
 **Joslin**  
 * NOD: Replaced silver shardsword with silver shardlunger
@@ -1453,6 +1468,9 @@
 **Nelix Fly-Breath**  
 * Hair from More Argonian Hair   
 
+**Nethyn Valno**  
+* NOD: Gave TD Redoran armor  
+
 **nervana verelas**  
 * Armored Robe Compilation - ordinator robe 
 
@@ -1465,6 +1483,9 @@
 
 **Nilera Ieneth**  
 * NOD: Gave her some fcot clothes and an OAAB hand scythe
+
+**Nilos Talds**  
+* NOD: Gave him TD Redoran armor  
 
 **nine_toes**  
 * Hair from More Argonian Hair
@@ -1583,6 +1604,10 @@
 
 **ranosa gilvayn**  
 * Removed in NOD: Armored Robe Compilation - dirty edit?
+
+**Raryn Daren**  
+* Compatibility note: LDM C&C changes his faction to Redoran  
+* NOD: Gave TD redoran armor  
 
 **Ravani Llethan**  
 * NOD: Gave her a DNO white hair wig. She might be in mourning, but she's still a noble. 
@@ -1763,6 +1788,9 @@
 **Sitialius Catanius**  
 * NOD: Gave iron variant pieces from TD  
 
+**Sjoring Hard-Heart**  
+* NOD: Gave Nord Steel armor from TD, a grumpier face, and improved his heavy armor skill
+
 **skeetul**  
 * Hair from More Argonian Hair   
 
@@ -1857,6 +1885,9 @@
 **tee_lan**  
 * Hair from More Argonian Hair   
 
+**Tens Nolar**  
+* NOD: Gave TD Redoran armor  
+
 **tern-feather**  
 * Hair from More Argonian Hair   
 * NOD: vest and torn pants from DE  
@@ -1930,6 +1961,9 @@
 * Hair from More Argonian Hair   
 * NOD: Gives her some clothes from fcot, and a backbasket and hand scythe from oaab
 
+**Treram Milar**  
+* NOD: Gave him TD redoran armor  
+
 **trevyn fedos**  
 * Armored Robe Compilation - Ordinator robe  
 
@@ -1985,6 +2019,9 @@
 
 **uresa omoril**  
 * Armored Robe Compilation - Ordinator robe  
+
+**Ureval Dralayn**  
+* NOD: Gave Redoran armor from TD
 
 **Uvisea Benethran** 
 * Rogues Gallery - Head from TD  
