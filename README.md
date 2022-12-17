@@ -33,6 +33,7 @@ Differences with vanilla friendly wearables expansion:
 * Many NPCs have received outfit upgrades with unique or rare armours: look out for names like Vedam Dren, Bolvyn Venim, Gothren, Orvas Dren, and more
 * Many bandits and Hlaalu nobles now have heads more fitting to them, using resources from TD - thanks to Rogues Gallery and Hlaalu Noble Facial Overhaul
 * Noble Dunmer have a much greater variety of exquisite robes to choose from, as well as hair worthy of their status in life - thanks to Dunmer Noble Overhaul. Additionally, upgrades the outfits of many nobles that DNO skipped.
+* TD and OAAB variants of iron and steel armor have been widely distributed. 
 * Khajiit and Argonians also have much more diverse heads and hairs thanks to More Argonian Heads and Dim's Khajiit Head & Hair pack
 * Slaves now look more beaten-down: many have dirty or torn clothes, or are carrying backbaskets and miners picks
 * Fishermen, miners, and farmers now often carry signs of their trade - baskets, nets, scythes, egg miner masks, and so on
@@ -134,11 +135,18 @@ MWSE required. There are 3 vampire bloodlines in the vanilla game and they all l
 * [**Dwarf-style Mage Hat in Morrowind**](https://www.nexusmods.com/morrowind/mods/50523) by Leiawen Aoimevelho FrummYonda  
 * [**OAAB_Data and Community Equipment Integration - War Armor and Sathil Mercenary**](https://www.nexusmods.com/morrowind/mods/50307) by Lucas9  
 You'll need to get [**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038) by Ashstaar, and will probably want to get RuffinVangarr's updated versions of the armor [**here (Sathil Mercenary)**](https://www.nexusmods.com/morrowind/mods/48340) and [**here (War Armor)**](https://www.nexusmods.com/morrowind/mods/48770).  
-* [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990)
-- NOD only gives the clothes to some npcs; for dreamer changes, get the original mod
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by Von Djangos, with the patch by PoodleSandwich: [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320)  
 * [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
 * [**Robe'n'Hood**](https://www.nexusmods.com/morrowind/mods/51474)
+
+## Recommended mods - 6th House/MQ
+* [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990)
+- NOD only gives the clothes to some npcs; for dreamer changes, get the original mod
+* Ashlander Rebels
+* Westly Unique Corprus Stalkers
+* Dagoth Creatures replacer
+* Dagoth Ur replacer
+* Azura replacer
 
 ## Incompatible With
 * Vanilla Friendly Wearables Expansion

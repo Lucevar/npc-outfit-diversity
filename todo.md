@@ -1,8 +1,5 @@
 Core:
 
-* Distribute iron/steel helm variants
-- OAAB native iron to dunmer
-- TD pieces to non-dunmer
 * High elves
 * Khajiit runthrough
 * Miners and fishermen: give AB tool weapons
@@ -11,6 +8,7 @@ Core:
 * Edit blades
 * Blacksmiths
 * Telvanni scroll hats
+* clean out Garisa Llethri
 
 Asset changes:
 * Get Blender
@@ -128,3 +126,10 @@ Done v1.0
 * figure out which of westly's have TD equivalents
 * Gave farmers a makeover
 * Gave mournhold nobles a makeover 
+* Distribute iron/steel helm variants
+- OAAB native iron to dunmer
+- TD iron pieces to non-dunmer
+- Redoran: steel replaced with TD redoran
+- Nords: steel replaced with TD nordic steel
+- Orcs: assorted td variants + head changes
+- Bandits and cultists: about half the steel wearers got some combination of variants + new head/hair combos. Others already had more visual variety, or were left as-is so that there are still plenty of the original set in the game

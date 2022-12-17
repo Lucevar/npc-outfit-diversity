@@ -41,6 +41,9 @@
 **Aerin**  
 * NOD: gave her a robe from fcot  
 
+**Agarond**  
+* NOD: Steel variants
+
 **ah-meesei**  
 * Hair from More Argonian Hair   
 
@@ -120,6 +123,9 @@
 **Apelles Matius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
+**Aralosea Romori**  
+* NOD: wig from DNO, TD steel variants 
+
 **arangaer**  
 * Properly Clothed NPCs - bug shell hat
 
@@ -156,6 +162,10 @@
 **Arvela Falas**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 * Removed in NOD: Armored Robe Compilation - Hlaalu robe 
+
+**Arver Rethul**  
+* Compatibility note: Faction changed to Camonna Tong in LDM C&C
+* NOD: Gave OAAB light steel + native iron, changed armor stats to get him to wear it
 
 **Arvs Raram**  
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
@@ -365,12 +375,18 @@
 **Brothes Oran** 
 * Rogues Gallery - Head from TD  
 
+**Bulfim gra-Shugarz**  
+* NOD: gave TD head + hair, pauldron variants, and a shield
+
 **buoyant armiger_wander**  
 * Buoyant Armiger Armor Overhaul  
 
 ## C
 **Caccian Hers** 
 * Rogues Gallery - Head from TD  
+
+**Carecalmo**  
+* NOD: Robe upgrade and a hood  
 
 **cattle_arg_f01**  
 * Hair from More Argonian Hair   
@@ -379,7 +395,10 @@
 * Hair from More Argonian Hair   
 
 **Cavortius Albuttian**  
-* Compatibility Note: Imperial Armour Expanded - Armour changes  
+* Compatibility Note: Imperial Armour Expanded - Armour changes 
+
+**Chanil-Lee**  
+* NOD: Hair from More Argonian Heads, head from TD, TD steel variant 
   
 **chargen captain**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -564,6 +583,9 @@
 **Draryn Andrano** 
 * Rogues Gallery - Head from TD  
 
+**Drathyn Andavel**  
+NOD: OAAB steel variants 
+
 **Dravil Omavel** 
 * Rogues Gallery - Head from TD  
 * NOD: Gave OAAB native iron armor  
@@ -634,6 +656,7 @@
 
 **Drireri Berano**  
 * NOD: Gave a blue scarf from More Cloth Helms
+* NOD: TD steel variants
 
 **Drolora Salen**  
 * NOD: Gave her a blue bug hat 
@@ -685,6 +708,9 @@
 
 **Durgat gra-Glurkub**  
 * NOD: Pieces of RV's Dwemer Scrap Armor  
+
+**Durz gro-Olor**  
+* NOD: Gave him an OAAB open orcish helm and spiked steel pauldrons from TD  
 
 **duvianus platorius**  
 * Removed in NOD: Armored Robe Compilation - Imperial Studded Leather Robe. Reason: tbh I just think his original 'fit is kinda iconic  
@@ -742,6 +768,9 @@
 
 **Eponis Vinipter** 
 * Rogues Gallery - Head from TD  
+
+**Eradan**  
+* NOD: TD steel variants, OAAB pauldrons
 
 **erene llenim**  
 * Properly Clothed NPCs - sailor clothes  
@@ -950,6 +979,9 @@
 **Ghamonk gro-Agadbu**  
 * NOD: Gave iron variant pieces from TD  
 
+**Gholorz gro-Mogakh**  
+* NOD: Steel variants, helm
+
 **Giden Nelvilo**  
 * NOD: Gave OAAB Sal-Amur armour set  
 
@@ -958,6 +990,9 @@
 
 **Gilas Llervu**  
 * NOD: Gave OAAB native iron armor and a hood 
+
+**Gils Oril**  
+* NOD: TD hair, TD steel variants
 
 **Gilyn Drobar** 
 * Rogues Gallery - Head from TD  
@@ -998,12 +1033,18 @@
 **grand inquisitor**  
 * Armored Robe Compilation - Ordinator robe 
 
+**Grazob gra-Kharz**  
+* NOD: TD head and hair
+
 **grey_throat**  
 * Hair from More Argonian Hair   
 * NOD: backbasket from OAAB 
 
 **Gudling the Rascal**  
 * NOD: oaab scarf  
+
+**Gulvilie Arinith**  
+* NOD: TD steel variants  
 
 **Gwen** 
 * Rogues Gallery - Head from TD  
@@ -1048,6 +1089,9 @@
  
 **Hodlismod**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**Horulia Jannus**  
+* NOD: TD head/hair + steel variants
 
 **hul**  
 * Hair from More Argonian Hair   
@@ -1096,6 +1140,9 @@
 **Imperial Guard_ebonhear**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
+**Iner Raledran**  
+* NOD: TD Steel variants
+
 **irer nervion**  
 * Buoyant Armiger Armor Overhaul  
 
@@ -1116,6 +1163,9 @@
 **Jaline** 
 * Rogues Gallery - Head from TD  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**Jathlanie**  
+* NOD: TD steel variants  
 
 **jeed-ei**  
 * Hair from More Argonian Hair   
@@ -1221,6 +1271,9 @@
 **Llaalsa Dralor** 
 * Rogues Gallery - Head from TD  
 
+**Llavelea Nelvani**  
+* NOD: TD steel variants, TD hair  
+
 **Llanas Drilvi** 
 * Rogues Gallery - Head from TD  
 
@@ -1297,6 +1350,9 @@
 * Properly Clothed NPCs - straw hat
 * NOD: gave OAAB back basket
 
+**Maner Uvaren**  
+* NOD: TD Steel variants 
+
 **manirai mirshamammu**  
 * Armored Robe Compilation - Mabrigash robe  
 
@@ -1372,6 +1428,9 @@
 **Merthierry Laelippe**  
 * NOD: Gives a fcot shirt and oaab hair 
 
+**Meryaran**  
+* NOD: TD Steel variants
+
 **Methal Seran**  
 * NOD: TD hair  
 
@@ -1395,6 +1454,9 @@
 
 **mimanu zeba-adad**  
 * Armored Robe Compilation - Mabrigash robe  
+
+**Mindeli Saren**  
+* NOD: Scarf from More Cloth Helms, hair from TD  
 
 **missamsi timmiriran**  
 * Armored Robe Compilation - Mabrigash robe  
@@ -1424,6 +1486,9 @@
 
 **munbebi addarari**  
 * Armored Robe Compilation - Mabrigash robe  
+
+**Murzush gra-Bulfim**  
+* NOD: Gave her light steel cuirass and some pauldrons, oaab head, td hair  
 
 **muz-ra**  
 * Hair from More Argonian Hair   
@@ -1520,6 +1585,9 @@
 
 **odron omoran**  
 * Buoyant Armiger Armor Overhaul  
+
+**Ogrumbu gro-Bugarn**  
+* NOD: Steel variants, TD head + hair  
   
 **Oisig**  
 * Netch Adamantium  
@@ -1556,6 +1624,9 @@
 
 **ordinator_bal_ur**  
 * Armored Robe Compilation - Ordinator Robe 
+
+**Ormax Geles**  
+* NOD: TD steel variants  
 
 **Orval Llaren**  
 * Armored Robe Compilation - Nightblade robe 
@@ -1660,6 +1731,9 @@
 **Ri'Shajirr**  
 * Khajiit outfit diversity - robes of Elsweyr  
 
+**Rithrannir**  
+* NOD: 
+
 **Risi Ice-Mane**  
 * NOD: Gives her some shoes
 
@@ -1705,6 +1779,12 @@
 
 **salyn sarethi**  
 * Buoyant Armiger Armor Overhaul  
+
+**Sanyon**  
+* NOD: TD Steel variants
+
+**Sarayn Sadus**  
+* NOD: TD steel variants  
 
 **Sarvur Sadri** 
 * Rogues Gallery - Head from TD  
@@ -1873,6 +1953,9 @@
 * Removed in NOD: Dunmer Nobles Overhaul  
 * NOD: Gave him an extravagant shirt from TD  
 
+**Tasellis Burtilius**  
+* NOD: TD head/hair, steel variants
+
 **tauryon**  
 * Properly Clothed NPCs - script
 
@@ -2023,6 +2106,9 @@
 **Ureval Dralayn**  
 * NOD: Gave Redoran armor from TD
 
+**Urzog gro-Shadbuk**  
+* NOD: Gave him spiked steel pauldrons
+
 **Uvisea Benethran** 
 * Rogues Gallery - Head from TD  
 
@@ -2075,6 +2161,9 @@
 **Vaves Virith** 
 * Rogues Gallery - Head from TD  
 
+**Vavran Reni**  
+* NOD: TD steel variants
+
 **Vedam Dren**  
 * NOD: Gave him Seanwen's armor from Danke's Armors  
 
@@ -2111,6 +2200,7 @@
 
 **vistha_kai**  
 * Hair from More Argonian Hair   
+* NOD: gave him some trousers  
 
 **Vonden Mano**  
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
@@ -2138,6 +2228,9 @@
 * Hair from More Argonian Hair   
 
 ## Y
+**Yadba gro-Khash**  
+* NOD: Gave TD hair + face, steel variants 
+
 **Yakin Bael**  
 * NOD: Replaced robe with robe from TD  
 
