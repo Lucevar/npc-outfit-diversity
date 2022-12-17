@@ -76,6 +76,7 @@
 
 **Almsi Oren**  
 * Rogues Gallery - Head from TD  
+* NOD: Gave OAAB native iron armor and a hood+goggle  
 
 **Alnas Sendu** 
 * Rogues Gallery - Head from TD  
@@ -305,6 +306,9 @@
 **Boryn Varen** 
 * Rogues Gallery - Head from TD  
 
+**Boss Crito**  
+* NOD: Gave iron variant pieces from TD  
+
 **Bralsea Seloth** 
 * Rogues Gallery - Head from TD  
 
@@ -519,6 +523,9 @@
 **dissu ashalkimallit**  
 * Armored Robe Compilation - Mabrigash Robe 
 
+**Dolmesa Sarano**  
+* NOD: Gave OAAB native iron armor  
+
 **domesea sarethi**  
 * Dunmer Nobles Overhaul  
 
@@ -543,6 +550,7 @@
 
 **Drandryn Omoran** 
 * Rogues Gallery - Head from TD  
+* NOD: Gave OAAB native iron armor  
 
 **Dranos Sandus** 
 * Rogues Gallery - Head from TD  
@@ -555,6 +563,7 @@
 
 **Dravil Omavel** 
 * Rogues Gallery - Head from TD  
+* NOD: Gave OAAB native iron armor  
 
 **dreaded_water**  
 * Hair from More Argonian Hair   
@@ -701,6 +710,9 @@
 
 **elumabi malibiran**  
 * Armored Robe Compilation - Mabrigash Robe 
+
+**Elynea Norvayn**  
+* NOD: Gave a scarf from more cloth helms. Kept the western-style iron armour because she's working for the Caldera Mining Company and was presumably supplied by them.  
 
 **emusette bracques**  
 * Removed in NOD: Armored Robe Compilation - apparent dirty edit?  
@@ -932,11 +944,17 @@
 **general darius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
+**Ghamonk gro-Agadbu**  
+* NOD: Gave iron variant pieces from TD  
+
 **Giden Nelvilo**  
 * NOD: Gave OAAB Sal-Amur armour set  
 
 **gih-ja**  
 * Hair from More Argonian Hair   
+
+**Gilas Llervu**  
+* NOD: Gave OAAB native iron armor and a hood 
 
 **Gilyn Drobar** 
 * Rogues Gallery - Head from TD  
@@ -1204,6 +1222,9 @@
 * Rogues Gallery - Head from TD  
 * NOD: Ceremonial adamantium armor (blue variant)  
 
+**Llero Lloran**  
+* NOD: Gave oaab native iron armour  
+
 **llerusa hlaalu**  
 * Dunmer Nobles Overhaul  
 
@@ -1281,6 +1302,9 @@
 
 **Maros Gimayn** 
 * Rogues Gallery - Head from TD  
+
+**Matuk gro-Magrish**  
+* NOD: Gave iron variant pieces from TD  
 
 **Matus Mido**  
 * Removed in NOD: Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
@@ -1412,6 +1436,9 @@
 * Removed in NOD: Properly Clothed NPCs - mask script
 * NOD: Gave some bits of OAAB Sal-Amur armour
 * NOD: Made a TD Cat-catcher
+
+**Nargol gra-Uftharz**  
+* NOD: Gave iron variant pieces from TD  
 
 **navam veran**  
 * Removed in NOD: Properly Clothed NPCs - mask script
@@ -1569,6 +1596,9 @@
 **Ravoso Aryon**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
 
+**Raynilie Andromo**  
+* NOD: Gave OAAB native iron armor  
+
 **Ra'Zhid**  
 * Khajiit outfit diversity: OAAB scarf
 
@@ -1580,6 +1610,9 @@
 
 **reemukeeus**  
 * Hair from More Argonian Hair   
+
+**Relam Arinith**  
+* NOD: Gave oaab native iron armor
 
 **Relen Hlaalu**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
@@ -1628,6 +1661,9 @@
 **Ruran Stoine**  
 * NOD: Replaced his chitin weapons with an iron rapier
 
+**Ruthrisu Andoril**  
+* NOD: Gave oaab native iron armor  
+
 **Ruvene Ulven** 
 * Rogues Gallery - Head from TD  
 
@@ -1647,6 +1683,7 @@
 
 **Sarvur Sadri** 
 * Rogues Gallery - Head from TD  
+* NOD: Gave OAAB native iron armor and a hood  
 
 **Savure Uvalor** 
 * Rogues Gallery - Head from TD  
@@ -1722,6 +1759,9 @@
 **Sirollus Saccus**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 * NOD: Gave him a shirt upgrade 
+
+**Sitialius Catanius**  
+* NOD: Gave iron variant pieces from TD  
 
 **skeetul**  
 * Hair from More Argonian Hair   
@@ -1832,6 +1872,9 @@
 
 **Thalurea Thirvayn** 
 * Rogues Gallery - Head from TD  
+
+**Thelama Indalas**  
+* NOD: Gave OAAB native iron armor  
 
 **Theldyn Virith**  
 * NOD: Gave him his armour from Danke's Armours
@@ -2008,6 +2051,9 @@
 **vertilvius cines**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
+**Vevos Nerethi**  
+* NOD: Gave OAAB native iron armor  
+
 **Vianis Tiragrius** 
 * Rogues Gallery - Head from TD  
 
@@ -2031,6 +2077,9 @@
 
 **Vonden Mano**  
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
+
+**Vuldronu Girith**  
+* NOD: Gives oaab native iron armor  
 
 **Voruse Bethrimo**  
 * Buoyant Armiger Armor Overhaul  

@@ -1,6 +1,8 @@
 Core:
 
 * Distribute iron/steel helm variants
+- OAAB native iron to dunmer
+- TD pieces to non-dunmer
 * High elves
 * Khajiit runthrough
 * Miners and fishermen: give AB tool weapons
@@ -8,6 +10,7 @@ Core:
 * TD com trousers and de rogue trousers
 * Edit blades
 * Blacksmiths
+* Telvanni scroll hats
 
 Asset changes:
 * Get Blender
