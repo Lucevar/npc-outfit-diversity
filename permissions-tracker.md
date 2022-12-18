@@ -35,11 +35,14 @@ Donation Points permission: Denied by several mods; will not enable.
     2. [**Aundae Sentinel Armour**](https://mw.modhistory.com/download-4-14664)
     3. [**Jade Armour**](https://mw.modhistory.com/download-4-10524)
 * Danae (granted directly)
-    1. Hold It
+    1. Hold It (from Wares)
 * Plangkye
-    1. Victorian Lace Dress](https://www.nexusmods.com/morrowind/mods/27069)
+    1. [**Victorian Lace Dress**](https://www.nexusmods.com/morrowind/mods/27069)
     2. [**Hilgya the Seamstress**](https://mw.modhistory.com/download-64-12474)
-    2. Hilgya the Seamstress Exp1](https://www.nexusmods.com/morrowind/mods/21528?tab=images) / [MMH mirror](https://mw.modhistory.com/download-64-13102)
+    2. [**Hilgya the Seamstress Exp1**](https://www.nexusmods.com/morrowind/mods/21528) / [MMH mirror](https://mw.modhistory.com/download-64-13102)
+    3. https://www.nexusmods.com/morrowind/mods/48328 rain671 texture fixes
+* Shehriazad (granted directly)
+    1. [**Humble Headgear**]()
 
 
 

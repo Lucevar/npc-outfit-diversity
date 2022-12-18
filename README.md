@@ -75,20 +75,27 @@ Differences with vanilla friendly wearables expansion:
 * [**Heavy Chitin Armor v1.5**](https://www.nexusmods.com/morrowind/mods/47684) by Ruffinvangarr and Leyawynn  
 - NOD: Gave armour to some warrior-class NPCs.
 * [**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282?tab=description) by Markond  
+**Compatibility Note**: Fully included in NOD, you can use them together but that will just result in more copies of the scarves appearing in leveled lists.   
 - Added to leveled lists  
 - Removed the barrels of scarves from cells  
+- Renamed to 'Expensive Scarf'
 - Distributed to NPCs  
 *  [**More Argonian Hair**](https://www.nexusmods.com/morrowind/mods/43133) by ashiraniir  
+**Compatibility Note**: Fully included in NOD, don't use them together.  
 - Unchanged from original, except to distribute to more NPCs
 * [**Dim's Khajiit Head and Hair Pack**](https://www.nexusmods.com/morrowind/mods/51977) by DimNussens 
+**Compatibility Note**: Fully included in NOD, don't use them together.  
 - Distributed to a number of NPCs
 * [**Armored Robes Compilation and NPC changes**](https://www.nexusmods.com/morrowind/mods/44096) by Aoimevelho  
+**Compatibility Note**: Fully included in NOD, don't use them together.
 - Kept mabrigash and ordinator changes
 - Kept 90% of the armored robe distributions
 - Removed a lot of Telvanni & Hlaalu armored robes, replaced legion battlemage robes with OAAB battlemage set
 * [**Buoyant Armigers Armor**](https://www.nexusmods.com/morrowind/mods/43143) by Aoimevelho  
-- Kept all changes.  
+**Compatibility Note**: Fully included in NOD, don't use them together.
+- Kept all changes, except that I removed the armor from Maranique Jolvanne (a Breton who is not a BA) and gave the armour to Ulyne Henim (who is a BA according to dialogue but not in the BA faction) 
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835) by Aoimevelho  
+**Compatibility Note**: Don't run the base esp with NOD, NOD replaces it. You can run the Nobles Addon or TR Addon alongside NOD, just be aware that the TR addon may be out of date.  
 - Kept all NPC changes. Removed from traders. Kept leveled lists. 
 *  [**Danke's Armours**](https://www.nexusmods.com/morrowind/mods/45114) by Danke  
 - Deleted cell changes

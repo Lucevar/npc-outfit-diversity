@@ -1,14 +1,12 @@
 Core:
-
-* High elves
-* Khajiit runthrough
-* Miners and fishermen: give AB tool weapons
-* Clean hood changes in core
-* TD com trousers and de rogue trousers
-* Edit blades
-* Blacksmiths
-* Telvanni scroll hats
-* clean out Garisa Llethri
+* High elf clothes
+* Blades
+* Rebalance westly prices
+* Deprecate westly shoes and anything else that's not going to be used
+* Deprecate 6th house hood
+* get rid of corresponding body parts
+* Update Dwemer Scrap
+* Camonna Tong
 
 Asset changes:
 * Get Blender
@@ -19,8 +17,8 @@ Asset changes:
 * Retex melisande's backpack slightly
 * missun akin cuirass fix
 * WAR_MLSND_ROBE_01: retexture, especially scarf
-* Rebalance westly prices
 * Upscale/change westly skirt textures (WAR_MISC_SKIRT - 12h, 12g(t), 12f(t), 12e(r), 12d, 12c(de), 12b(de), 12a(de))
+* coat mesh with glass armor for BA
 
 Docs/Release
 * Take many screenshots - vanilla vs modded
@@ -37,14 +35,21 @@ Mods to add:
 * Plangkye
 - add assets, remove any that don't fit aesthetic, remove shop, add to ll, distribute
 * Add Olafs cloaks & hoods, test if cloaks work on npcs
+* necromancer robes alternate versions
 
 Patch:
 * OAAB hood armor value patch
 * BCOM patch
+* Mackom DNO patch (ie put the original meshes back)
 
 
 Later:
 * Add tooltip integration for everything
+* High elves
+* Khajiit runthrough
+* Edit blades
+* Blacksmiths
+* Telvanni scroll hats
 
 MWSE addons:
 Gear:
@@ -57,6 +62,9 @@ Senilias Cadiusus: goggles?
 dhaunayne: circlet
 Edwinna: goggles?
 Ulms Drathen: eyepatch?
+Anarenen: alchemist goggles
+Andil: alchemist goggles
+aurane frernis  
 
 Bosmer:
 * Antlers
@@ -133,3 +141,6 @@ Done v1.0
 - Nords: steel replaced with TD nordic steel
 - Orcs: assorted td variants + head changes
 - Bandits and cultists: about half the steel wearers got some combination of variants + new head/hair combos. Others already had more visual variety, or were left as-is so that there are still plenty of the original set in the game
+* Added patch for Mackom's heads 
+* FCOT: removed redguard robes, many high elf robes and boots, most barenziah robes, many of the shirts/skirts/trousers, most shoes, liria + the cell changes + her head/hair, knight of akatosh robe
+* FCOT: Renamed everything to remove most of the racial attributions and to align name scheme with vanilla tiers. Changed values on a lot of clothes.
