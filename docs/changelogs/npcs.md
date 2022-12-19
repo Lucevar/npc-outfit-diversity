@@ -179,6 +179,7 @@
 
 **Asciene Rane**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+* NOD: Dress by Plangkye  
 
 **astien masoriane**  
 * Armored Robe Compilation - Spellsword robe  
@@ -300,6 +301,9 @@
 
 **Bjadmund**  
 * Community Equipment Integration - RuffinVangarr's Nordic Iron Armor  
+
+**Boderi Farano**  
+* NOD: Gave plangkye ashland tunic + skirt, plus fcot short boots  
   
 **bogdub gra-gurakh**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -385,6 +389,9 @@
 **Caccian Hers** 
 * Rogues Gallery - Head from TD  
 
+**Canctunian Ponius**  
+* NOD: Oblivion outfit from plangkye, extravagant colovian fur helm + colovian face from TD, boots + trousers
+
 **Carecalmo**  
 * NOD: Robe upgrade and a hood  
 
@@ -462,6 +469,9 @@
 * NOD: edited script so it only adds/removes mask, not the robe as well
 * NOD: gave lantern
 
+**Darene Biene**  
+* NOD: Ashlands robe  
+
 **Daric Bielle**  
 * NOD: Gave TD netch leather cuirass  
 * Made him a catcatcher  
@@ -523,7 +533,7 @@
 * NOD: Gave a necromancer robe from RV's Necromancers Robes  
 
 **Dhaunayne Aundae**  
-* NOD: gave a robe from DNO
+* NOD: gave a robe from hilgya the seamstress
 * TODO: mwse circlet
 
 **dilami androm**  
@@ -737,6 +747,9 @@ NOD: OAAB steel variants
 **elitlaya assonirishpal**  
 * Armored Robe Compilation - Mabrigash Robe 
 
+**Elone**  
+* NOD: Gave traveller robe  
+
 **elumabi malibiran**  
 * Armored Robe Compilation - Mabrigash Robe 
 
@@ -827,6 +840,9 @@ NOD: OAAB steel variants
 **Farare Othril**  
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
 
+**Fasele Viralaine**  
+* NOD: gave blue oblivion outfit by plangkye, plus TD hair 
+
 **fasile charascel**  
 * NOD: Gave iron shardlunger, a padded shirt from TD, and a hair from TD  
 
@@ -914,6 +930,9 @@ NOD: OAAB steel variants
 **Frostien Ephine**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 * NOD: Gave arrows for his bow, steel rapier  
+
+**Fruscia Abitius**  
+* NOD: Gave dress from plangkye  
   
 **Furius Acilius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -991,6 +1010,9 @@ NOD: OAAB steel variants
 **Gilas Llervu**  
 * NOD: Gave OAAB native iron armor and a hood 
 
+**Gildan**  
+* NOD: fcot common shirt, skirt, shoes 
+
 **Gils Oril**  
 * NOD: TD hair, TD steel variants
 
@@ -1042,6 +1064,9 @@ NOD: OAAB steel variants
 
 **Gudling the Rascal**  
 * NOD: oaab scarf  
+
+**Gulitte Cienne**  
+* NOD: Gave a dress by plangkye  
 
 **Gulvilie Arinith**  
 * NOD: TD steel variants  
@@ -1098,6 +1123,9 @@ NOD: OAAB steel variants
 
 **Hurnfing**  
 * NOD: Gave Nord Steel Armour from TD  
+
+**Hyarnarenquar**  
+* NOD: Gave a set of Direnni armor from TD. Probably the only time it'll appear in this mod. 
 
 ## I
 **Idronea Sadri** 
@@ -1167,6 +1195,9 @@ NOD: OAAB steel variants
 **Jathlanie**  
 * NOD: TD steel variants  
 
+**Jeanne Andre**  
+* NOD: gave TD hair and dress by Plangkye  
+
 **jeed-ei**  
 * Hair from More Argonian Hair   
 
@@ -1230,8 +1261,12 @@ NOD: OAAB steel variants
 * NOD: Pieces of RV's Dwemer Scrap Armor  
 
 ## L
+**Ladia Flarugius**  
+* NOD: fcot/td skirt and top
+
 **Lalatia Varian**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+* NOD: Gave exquisite robe and TD hair  
 
 **Lanald** 
 * Rogues Gallery - Head from TD  
@@ -1312,6 +1347,9 @@ NOD: OAAB steel variants
 **Llovyn Andus**  
 * NOD: Gave amulet from oaab 
 
+**Louis Beauchamp**  
+* NOD: Gave him a foppish western-style outfit, with clothes from plangkye/fcot
+
 **Lunia Menanius** 
 * Rogues Gallery - Head from TD  
 
@@ -1374,6 +1412,9 @@ NOD: OAAB steel variants
 **Maros Gimayn** 
 * Rogues Gallery - Head from TD  
 
+**Marthe Arthe**  
+* NOD: cosmopolitan robes  
+
 **Matuk gro-Magrish**  
 * NOD: Gave iron variant pieces from TD  
 
@@ -1385,6 +1426,9 @@ NOD: OAAB steel variants
 **mavon drenim**  
 * Removed in NOD: Armored Robe Compilation - Telvanni Robe 
 * Dunmer Nobles Overhaul  
+
+**Meanen**  
+* NOD: Tunic and shoes from fcot  
 
 **Mecilvus Gabenagus** 
 * Rogues Gallery - Head from TD  
@@ -1449,6 +1493,9 @@ NOD: OAAB steel variants
 **Miles Gloriosus**  
 * NOD: Gave an adamantium rapier and a shirt from TD   
 
+**Milie Hastien**  
+* NOD: gave outfit by Plangkye, removed a bunch of clothes from her inventory so they didn't clip, moved them into a chest in (the void next to) her shop instead  
+
 **mim-jeen**  
 * Hair from More Argonian Hair   
 
@@ -1497,6 +1544,9 @@ NOD: OAAB steel variants
 **nakuma**  
 * Hair from More Argonian Hair   
 
+**Nalcarya of White Haven**  
+* NOD: Green dress by plangkye  
+
 **nalmila thelas**  
 * Armored Robe Compilation - Ordinator robe 
 
@@ -1529,6 +1579,9 @@ NOD: OAAB steel variants
 
 **neesha**  
 * Hair from More Argonian Hair   
+
+**Nelacar**  
+* NOD: Gave blue tunic + HE boots
 
 **Nelix Fly-Breath**  
 * Hair from More Argonian Hair   
@@ -1635,6 +1688,9 @@ NOD: OAAB steel variants
 * NOD: Ceremonial adamantium armor (red variant)
 
 ## P
+**Pania Cadiusus**  
+* NOD: Gave dress by plangkye and a TD hair 
+
 **peeradeeh**  
 * Hair from More Argonian Hair   
 
@@ -1731,8 +1787,11 @@ NOD: OAAB steel variants
 **Ri'Shajirr**  
 * Khajiit outfit diversity - robes of Elsweyr  
 
+**Rithleen**  
+* NOD: gave oaab scarf + TD hair  
+
 **Rithrannir**  
-* NOD: 
+* NOD: TD steel variants  
 
 **Risi Ice-Mane**  
 * NOD: Gives her some shoes
@@ -1746,6 +1805,7 @@ NOD: OAAB steel variants
 
 **Ruccia Conician**  
 * Removed in NOD: Armored Robe Compilation - imperial battlemage robe 
+* NOD: Gave TD head and hair 
 
 **Rufinus Alleius**  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
@@ -1895,6 +1955,9 @@ NOD: OAAB steel variants
  
 **Sondaale of Shimmerene**  
 * Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
+
+**Sorkvild the Raven**  
+* NOD: Gave brocade robe from plangkye  
  
 **Stenet**  
 * Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
@@ -1915,10 +1978,19 @@ NOD: OAAB steel variants
 **Sulesa** 
 * Rogues Gallery - Head from TD  
 
+**Surane Leoriane**  
+* NOD: Gave dress by plangkye  
+
 **suryn athones**  
 * Armored Robe Compilation - Ordinator robe 
 
+**Synette Jeline**  
+* NOD: Gave TD head/hair, dress by plangkye, short boots from fcot  
+
 ## T
+**Taarie**  
+* NOD: brocade robe by plangkye  
+
 **Tadera Andules**  
 * Dunmer Nobles Overhaul  
 

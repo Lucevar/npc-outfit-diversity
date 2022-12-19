@@ -1,12 +1,10 @@
 Core:
-* High elf clothes
-* Blades
-* Rebalance westly prices
-* Deprecate westly shoes and anything else that's not going to be used
+
 * Deprecate 6th house hood
 * get rid of corresponding body parts
 * Update Dwemer Scrap
 * Camonna Tong
+* Add slof goth shop
 
 Asset changes:
 * Get Blender
@@ -41,7 +39,8 @@ Patch:
 * OAAB hood armor value patch
 * BCOM patch
 * Mackom DNO patch (ie put the original meshes back)
-
+* DRIP integration
+* Wares integration
 
 Later:
 * Add tooltip integration for everything
@@ -65,6 +64,7 @@ Ulms Drathen: eyepatch?
 Anarenen: alchemist goggles
 Andil: alchemist goggles
 aurane frernis  
+louis beauchamp
 
 Bosmer:
 * Antlers
@@ -144,3 +144,8 @@ Done v1.0
 * Added patch for Mackom's heads 
 * FCOT: removed redguard robes, many high elf robes and boots, most barenziah robes, many of the shirts/skirts/trousers, most shoes, liria + the cell changes + her head/hair, knight of akatosh robe
 * FCOT: Renamed everything to remove most of the racial attributions and to align name scheme with vanilla tiers. Changed values on a lot of clothes.
+* Added a subset of Plangkye's Hilgya clothes  
+* High elf clothes
+* Blades
+* Rebalance westly prices
+* Deprecate westly shoes and anything else that's not going to be used
