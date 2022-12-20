@@ -1,17 +1,15 @@
 Core:
-
-* Deprecate 6th house hood
 * Update Dwemer Scrap
 
+* Test
+* Docs
+* vanilla version of toddtests for comparison shots
 
 Asset changes:
-* Get Blender
-* Get MW blender plugin
 * Get latest version of gimp and/or PS dds plugin
 * Desaturate blacksmith shirts
 * Deprecate unneeded westly assets: coloured backpacks etc
 * Retex melisande's backpack slightly
-* missun akin cuirass fix
 * WAR_MLSND_ROBE_01: retexture, especially scarf
 * Upscale/change westly skirt textures (WAR_MISC_SKIRT - 12h, 12g(t), 12f(t), 12e(r), 12d, 12c(de), 12b(de), 12a(de))
 * coat mesh with glass armor for BA
@@ -19,6 +17,14 @@ Asset changes:
 * Hlaalu version of the HE tunic 
 * More HE variety in general
 * Desaturate slof stuff slightly, esp HE robes
+* torn common robes
+* torn tops clip with slave bracer
+* sapphire khajiit head for habasi
+* tatty khajiit robe 
+* retext top of ashpriest robe for slaves/paupers?
+* wildflower dresses: commonify
+* Icons for aoimhevelho items
+* Westly short boots in black
 
 Docs/Release
 * Take many screenshots - vanilla vs modded
@@ -29,29 +35,22 @@ Docs/Release
 * Add full compatibility info
 * Add full recs list
 
-Mods to add:
-* Hold it 
-* Find argonian armours
-* Plangkye
-- add assets, remove any that don't fit aesthetic, remove shop, add to ll, distribute
-* Add Olafs cloaks & hoods, test if cloaks work on npcs
-* necromancer robes alternate versions
 
 Patch:
 * OAAB hood armor value patch
 * BCOM patch
-* Mackom DNO patch (ie put the original meshes back)
 * DRIP integration
 * Wares integration
+* Ashfall integration (warmth/coverage)
+* Tooltips integration
 
 Later:
-* Add tooltip integration for everything
-* High elves
-* Khajiit runthrough
-* Edit blades
-* Blacksmiths
-* Telvanni scroll hats
 * Slof fashionwind addon 
+* Korana?
+* Hold it 
+* Find argonian armours
+- add assets, remove any that don't fit aesthetic, remove shop, add to ll, distribute
+* Add Olafs cloaks & hoods, test if cloaks work on npcs
 
 MWSE addons:
 Gear:
@@ -163,3 +162,12 @@ Done v1.0
 * High elf makeover
 * Breton makeover
 * Imperial makeover 
+* Khajiit makeover
+* renamed and rebalanced DE, plangkye, DNO; got rid of anything that isn't being used or won't be in future
+* removed as much as possible to try to maximise playability alongside originals  
+* Removed noble wigs from trader lists; made other noble ll much rarer 
+* Added NOD to all ids, 
+* Updated varus vatinian dialogue & VD scripts with new ids
+* Standardised hat names and removed duplicates  
+* Added necromancer robes alternate versions
+* Removed quiver from Missun Akin cuirass - no longer necessary now that we have weapon sheathing

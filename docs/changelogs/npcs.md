@@ -41,8 +41,20 @@
 **Aerin**  
 * NOD: gave her a robe from fcot  
 
+**Affri**  
+* NOD: top (de)
+
 **Agarond**  
 * NOD: Steel variants
+
+**Ahdni**  
+* NOD: shirt, hair (dim)
+
+**Ahdri**  
+* NOD: top, hair (dim), head (dim)
+
+**Ahnisa**  
+* NOD: top/pants (de), head (dim), hair (dim)
 
 **ah-meesei**  
 * Hair from More Argonian Hair   
@@ -50,11 +62,20 @@
 **Ahnassi**  
 * Khajiit Outfit Diversity: Cosmopolitan robe by Westly
 
+**Ahnarra**  
+* NOD: shirt, head (td), hair (dim)
+
+**Ahndahra**  
+* NOD: top, head/hair (dim)
+
 **ahaht**  
 * Hair from More Argonian Hair   
 
 **Ahetotis Furotis**  
 * Rogues Gallery - Head from TD  
+
+**Aina**  
+* NOD: head (dim)
 
 **akish**  
 * Hair from More Argonian Hair   
@@ -79,6 +100,7 @@
 
 **Allimir**  
 * NOD: Shirt (TD)
+* NOD - Fashionwind Antlers Addon: 
 
 **Almse Arenim**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -122,6 +144,9 @@
 
 **anise romoran**  
 * Armored Robe Compilation - Redoran robe  
+
+**Anjari**  
+* NOD: head (dim), top (de)
 
 **Ano Andaram**  
 * NOD: TD Caravaners Helm, lantern  
@@ -182,19 +207,22 @@
 **Arvs Raram**  
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
 
+**Asciene Rane**  
+* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
+* NOD: Dress by Plangkye  
+
+**Ashidasha**  
+* NOD: top (de)
+
+**Ashuma-Nud Matluberib**  
+* NOD: Cloth scarf from OAAB, increased light armor skill
+
 **assantushansar**  
 * Properly Clothed NPCs - hood and goggles
 * NOD: gave OAAB boiled netch leather pauldrons
 
 **assamanu shashipal**  
 * Armored Robe Compilation - Mabrigash robe 
-
-**Asciene Rane**  
-* Compatibility Note: Imperium - Castle Ebonheart: outfit change  
-* NOD: Dress by Plangkye  
-
-**Ashuma-Nud Matluberib**  
-* NOD: Cloth scarf from OAAB, increased light armor skill
 
 **astien masoriane**  
 * Armored Robe Compilation - Spellsword robe  
@@ -223,6 +251,7 @@
 ## B
 **Baadargo**  
 * Khajiit outfit diversity: TR head + hair, ruined trousers from Dreamer Expansion
+* NOD: vest (de)
 
 **Bacola Closcius**  
 * NOD: Hair (TD), outfit (slof)
@@ -306,6 +335,9 @@
 
 **bethes sarothril**  
 * Armored Robe Compilation - Ordinator robe 
+
+**Bhusari**  
+* NOD: top/pants (de), hair (dim)
 
 **Bidsi Gilvayn** 
 * Rogues Gallery - Head from TD  
@@ -498,6 +530,9 @@
 **Dahleena**  
 * Khajiit Outfit Diversity: TR head, ruined top/trousers from Dreamers Expansion  
 
+**Dahnara**  
+* NOD: top (de), hair (dim)
+
 **Dalam Gavyn**  
 * NOD: blacksmith apron + boots
 
@@ -505,8 +540,7 @@
 * Rogues Gallery - Head from TD  
 
 **dandera selaro**  
-* Properly Clothed NPCs - hat script
-* NOD: changed script to ashgoggles 
+* Removed in NOD: Properly Clothed NPCs - hat script
 * NOD: changed hair; gave blacksmith shirt + apron 
 
 **Dangor**  
@@ -522,9 +556,7 @@
 * Armored Robe Compilation - Ordinator robes 
 
 **daras aryon**  
-* Properly Clothed NPCs - script
-* NOD: changed script to ashgoggles instead of crabmask
-* NOD: edited script so it only adds/removes mask, not the robe as well
+* Removed in NOD: Properly Clothed NPCs - script
 * NOD: gave lantern
 
 **Daren Adryn**  
@@ -719,6 +751,9 @@ NOD: OAAB steel variants
 **Drendrisa Fareloth** 
 * Rogues Gallery - Head from TD  
 
+**Dreveni Hlaren**  
+* NOD: robe (slof), hair (vanilla) to match her face better
+
 **Dreynis Nothro**  
 * Community Equipment Integration - RuffinVangarr's Dreugh Armor  
 
@@ -747,14 +782,26 @@ NOD: OAAB steel variants
 **drores arvel**  
 * Armored Robe Compilation - Ordinator robe 
 
+**Dro'Barri**  
+* NOD: hair (Dim)
+
+**Dro'Qanar**  
+* NOD: outfit (DE), hair (dim)
+
 **Dro'Sakhar**  
 * Khajiit outfit diversity - dirty vest from Dreamers Expansion
 
 **Dro'Tasarr**  
 * NOD: Outfit, head/hair (Dim)
 
+**Dro'Zah**  
+* NOD: head/hair (Dim)
+
 **Dro'Zaymar**  
 * Khajiit outfit diversity - Westly's robes of elsweyr  
+
+**Dro'Zharim**  
+* NOD: loincloth, head/hair (Dim)
 
 **Dro'Zhirr**  
 * Khajiit outfit diversity - OAAB cloth scarf, OAAB boiled netch pauldrons  
@@ -1122,7 +1169,7 @@ NOD: OAAB steel variants
 * Dunmer Nobles Overhaul  
 
 **gindrala hleran**  
-* Properly Clothed NPCs - adds mask script
+* Removed in NOD: Properly Clothed NPCs - adds mask script
 
 **Ginur Marys**  
 * Properly Clothed NPCs - OAAB cloth scarf
@@ -1188,6 +1235,9 @@ NOD: OAAB steel variants
 
 **haran**  
 * Hair from More Argonian Hair   
+
+**Harassa**  
+* NOD: head/hair (dim), top (de)
 
 **hathei**  
 * Hair from More Argonian Hair   
@@ -1325,6 +1375,9 @@ NOD: OAAB steel variants
 **Jine** 
 * Rogues Gallery - Head from TD  
 
+**J'Kara**  
+* NOD: hair (dim), vest (de)
+
 **joncis dalomax**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
@@ -1334,14 +1387,26 @@ NOD: OAAB steel variants
 **Jolding**  
 * NOD: Gave Nord Steel Armor and a head and hair from TD  
 
+**Joshur**  
+* NOD: head/hair (Dim)
+
 **Joslin**  
 * NOD: Replaced silver shardsword with silver shardlunger
 * NOD: Gave TD hair
+
+**Jo'Thri-Dar** 
+* NOD: head (dim)
+
+**J'Zamha**  
+* NOD: vest (de)
 
 **J'Zirr**  
 * Khajiit outfit diversity - TR head, TR shirt  
  
 ## K
+**Kaasha**  
+* NOD: head/hair (dim), top (de)
+
 **kal_ma**  
 * Hair from More Argonian Hair   
 
@@ -1361,8 +1426,7 @@ NOD: OAAB steel variants
 * NOD: Gave a head and hair from Dim's Khajiit heads, blacksmith shirt from fcot, and torn pants from DE  
 
 **kind erushara**  
-* Properly Clothed NPCs - hood script
-* NOD: changed script to ashgoggles
+* Removed in NOD: Properly Clothed NPCs - hood script
 * NOD: Gave blacksmith shirt
 
 **Kiseena**  
@@ -1492,6 +1556,9 @@ NOD: OAAB steel variants
 * NOD: Gave him the atronach armor from Danke's Armors, because he and Goris are kinda edgelordy. Ditched the pauldrons though, they were just a bit tooo silly.  
 
 ## M
+**Ma'Dara**  
+* NOD: vest(de)
+
 **Madaynu Aravel** 
 * Rogues Gallery - Head from TD  
 
@@ -1907,6 +1974,9 @@ NOD: OAAB steel variants
 **Ra'virr**  
 * Khajiit outfit diversity: TD shirt
 
+**Ra'Zahr**  
+* NOD: loincloth (de)
+
 **Ravos Relarys** 
 * Rogues Gallery - Head from TD  
 
@@ -1938,6 +2008,12 @@ NOD: OAAB steel variants
 
 **rianciene aurilie**  
 * NOD: Gave her an enchanted iron rapier  
+
+**Ri'Darsha**  
+* NOD: hair (dim), head (td), clothes (de)
+
+**Ri'Dumiwa**  
+* NOD: hair (dim), head (td)
 
 **Rilas Arethan** 
 * Rogues Gallery - Head from TD  
@@ -2076,6 +2152,7 @@ NOD: OAAB steel variants
 
 **shali assannabalit**  
 * Armored Robe Compilation - Mabrigash robe  
+* NOD: Redvayn Headgear buglord mask 
 
 **Shamob gro-Shatub**  
 * Community Equipment Integration - RuffinVangarr's Imperial Studded Leather  
@@ -2150,6 +2227,9 @@ NOD: OAAB steel variants
 
 **Sovor Trandel**  
 * NOD: Outfit upgrade (TD/slof), TD hair
+
+**S'Rava**  
+* NOD: vest (de)
  
 **Stenet**  
 * Community Equipment Integration - RuffinVangarr's Duke's Guard Armor  
@@ -2166,6 +2246,7 @@ NOD: OAAB steel variants
 
 **Sugar-Lips Habasi**  
 * Khajiit Outfit Diversity: OAAB pauldron  
+* NOD: different hair (vanilla TODO: retex), traveller robes  
 
 **Sulesa** 
 * Rogues Gallery - Head from TD  
@@ -2175,6 +2256,9 @@ NOD: OAAB steel variants
 
 **suryn athones**  
 * Armored Robe Compilation - Ordinator robe 
+
+**S'Vandra**  
+* NOD: vest (de)
 
 **Synette Jeline**  
 * NOD: Gave TD head/hair, dress by plangkye, short boots from fcot  
@@ -2221,7 +2305,7 @@ NOD: OAAB steel variants
 * NOD: TD head/hair, steel variants
 
 **tauryon**  
-* Properly Clothed NPCs - script
+* Removed in NOD: Properly Clothed NPCs - script
 
 **Taves Aralen** 
 * Rogues Gallery - Head from TD  
@@ -2267,7 +2351,8 @@ NOD: OAAB steel variants
 * NOD: Gave him his armour from Danke's Armours
 
 **Thengil**  
-* Khajiit outfit diversity: striped elsweyr robe  
+* Khajiit outfit diversity: traveller robe  
+* NOD: hair (dim)
 
 **Thervam Drelas** 
 * Rogues Gallery - Head from TD  
@@ -2289,6 +2374,9 @@ NOD: OAAB steel variants
 
 **Tininnus Scinia** 
 * Rogues Gallery - Head from TD  
+
+**Tirer Belvayn**  
+* NOD:  robe (slof)
 
 **tirnur thirano**  
 * Removed in NOD: Properly Clothed NPCs - oaab scarf
@@ -2332,6 +2420,9 @@ NOD: OAAB steel variants
 **Tsalani**  
 * NOD: torn vest from de, hair from Dim's khajiit pack
 
+**Tsani**  
+* NOD: head (dim), hair (dim), robe (de)
+
 **tunila omavel**  
 * Dunmer Nobles Overhaul  
 
@@ -2354,6 +2445,12 @@ NOD: OAAB steel variants
 * NOD: Cosmopolitan robes
   
 ## U
+**Ubaasi**  
+* NOD: top (de), head (td), hair (vanilla)
+
+**Udarra**  
+* NOD: top (de), hair (dim)
+
 **ughash gro-batul**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
@@ -2389,6 +2486,9 @@ NOD: OAAB steel variants
 **Ureval Dralayn**  
 * NOD: Gave Redoran armor from TD
 
+**Urjorad**  
+* NOD: OAAB hood  
+
 **Urzog gro-Shadbuk**  
 * NOD: Gave him spiked steel pauldrons
 
@@ -2410,6 +2510,7 @@ NOD: OAAB steel variants
 
 **valveli arelas**  
 * Properly Clothed NPCs - straw hat, gondolier shirt
+* NOD: different straw hat, lantern  
 
 **Valvesu Indaram** 
 * Rogues Gallery - Head from TD  
@@ -2560,6 +2661,9 @@ NOD: OAAB steel variants
 
 **zabi adidshina**  
 * Armored Robe Compilation - Mabrigash robe  
+
+**Zahraji**  
+* NOD: hair (dim), top (de)
 
 **zallit assattadaishah**  
 * Removed in NOD: Properly Clothed NPCs - hat script
