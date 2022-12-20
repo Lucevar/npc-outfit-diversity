@@ -1,10 +1,8 @@
 Core:
 
 * Deprecate 6th house hood
-* get rid of corresponding body parts
 * Update Dwemer Scrap
-* Camonna Tong
-* Add slof goth shop
+
 
 Asset changes:
 * Get Blender
@@ -17,6 +15,10 @@ Asset changes:
 * WAR_MLSND_ROBE_01: retexture, especially scarf
 * Upscale/change westly skirt textures (WAR_MISC_SKIRT - 12h, 12g(t), 12f(t), 12e(r), 12d, 12c(de), 12b(de), 12a(de))
 * coat mesh with glass armor for BA
+* Cold weather gear with slof werewolf (but fewer faces)
+* Hlaalu version of the HE tunic 
+* More HE variety in general
+* Desaturate slof stuff slightly, esp HE robes
 
 Docs/Release
 * Take many screenshots - vanilla vs modded
@@ -49,6 +51,7 @@ Later:
 * Edit blades
 * Blacksmiths
 * Telvanni scroll hats
+* Slof fashionwind addon 
 
 MWSE addons:
 Gear:
@@ -64,10 +67,13 @@ Ulms Drathen: eyepatch?
 Anarenen: alchemist goggles
 Andil: alchemist goggles
 aurane frernis  
-louis beauchamp
+louis beauchamp: glasses or dwemer
+detritus caria: glasses
+velsa salaron: alchemist
 
 Bosmer:
 * Antlers
+-- Allimir  
 
 Streamer Safety Addon:
 * Give clothes to dancers and naked nords
@@ -149,3 +155,11 @@ Done v1.0
 * Blades
 * Rebalance westly prices
 * Deprecate westly shoes and anything else that's not going to be used
+* Added subset of Slofs goth shop, with rebalances and renames
+* get rid of corresponding body parts
+* Camonna Tong
+* Add slof goth shop
+* blacksmith makeover
+* High elf makeover
+* Breton makeover
+* Imperial makeover 

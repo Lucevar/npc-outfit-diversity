@@ -41,8 +41,9 @@ Differences with vanilla friendly wearables expansion:
 * RV's Concept Art Dunmer Helms have been given out to House enforcers and bodyguards (for the three house-affiliated helms), and to netchimen and other outdoor workers
 * Necromancers now have robes more suited to their dark and dirty work
 * The Tribunal Temple's Order of Ancestral Mages can now be found at *their* work, in temples and tombs, tending to the dead. 
+* Camonna Tong look more threatening - and have their base dispositions reduced, too. They really don't like outlanders, y'know?
 * Many Bretons now wield rapiers, especially spellswords who previously had spells but no swords.
-* Some Breton males also get new hairs from 
+* Some Breton males also get new hairs from OAAB
 * Almost all the master trainers now have new outfits, some of them unique to them. All master trainers are now non-hostile by default. Adds Cinia Urtius to the game.
 * NPCs in stormy or ash-ridden environments now often have hoods, hats, or other protective gear.
 * Ashlanders and mabrigashs also get gear upgrades
