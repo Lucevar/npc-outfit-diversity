@@ -1,5 +1,6 @@
 Core:
 * Update Dwemer Scrap
+* Update NPC list with Fashionwind addon npcs
 
 * Test
 * Docs
@@ -65,10 +66,11 @@ Edwinna: goggles?
 Ulms Drathen: eyepatch?
 Anarenen: alchemist goggles
 Andil: alchemist goggles
-aurane frernis  
+aurane frernis: breton clothes?  
 louis beauchamp: glasses or dwemer
 detritus caria: glasses
 velsa salaron: alchemist
+Socucius Ergalla 
 
 Bosmer:
 * Antlers
@@ -171,3 +173,5 @@ Done v1.0
 * Standardised hat names and removed duplicates  
 * Added necromancer robes alternate versions
 * Removed quiver from Missun Akin cuirass - no longer necessary now that we have weapon sheathing
+* Merged fashionwind items into Core; distribution of them will be via addons
+* Turned Core into an esm

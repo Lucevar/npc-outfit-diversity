@@ -38,6 +38,9 @@
 * Armored Robe Compilation - Imperial Studded Leather Robe
 * NOD: Gave RV Studded Imperial Leather pauldrons   
 
+**Aengoth the Jeweler**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
+
 **Aerin**  
 * NOD: gave her a robe from fcot  
 
@@ -100,7 +103,7 @@
 
 **Allimir**  
 * NOD: Shirt (TD)
-* NOD - Fashionwind Antlers Addon: 
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
 
 **Almse Arenim**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -154,6 +157,9 @@
 **Ano Vando**  
 * NOD: Gave OAAB Native Iron Armor  
 
+**Anruin**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
+
 **ansu senatbael**  
 * Armored Robe Compilation - Mabrigash robe 
 
@@ -165,6 +171,9 @@
 
 **arangaer**  
 * Properly Clothed NPCs - bug shell hat
+
+**Arathor**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
 
 **Ardarume**  
 * NOD: robe from fcot
@@ -852,6 +861,9 @@ NOD: OAAB steel variants
 **edryno arethi**  
 * Removed in NOD: Armored Robe Compilation - Hlaalu Robe 
 
+**Edwinna Elbert**  
+* NOD Fashionwind Addon: Dwemer Scouter  
+
 **Eiruki Hearth-Healer**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
@@ -863,6 +875,9 @@ NOD: OAAB steel variants
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 * Removed in NOD: Armored Robe Compilation - Legion battlemage robe (boob armor is too much) 
 * NOD: Gave OAAB Imperial Battlemage armor  
+
+**Elegnan**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
 
 **Elenwen** 
 * Rogues Gallery - Head from TD  
@@ -908,6 +923,7 @@ NOD: OAAB steel variants
 
 **Eradan**  
 * NOD: TD steel variants, OAAB pauldrons
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
 
 **erene llenim**  
 * Properly Clothed NPCs - sailor clothes  
@@ -972,6 +988,9 @@ NOD: OAAB steel variants
 
 **Farare Othril**  
 * Compatibility Note: CEI War Armor & Sathil Mercenary Integrated gives Redoran War Armor  
+
+**Fargoth**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
 
 **Fasele Viralaine**  
 * NOD: gave blue oblivion outfit by plangkye, plus TD hair 
@@ -1088,6 +1107,9 @@ NOD: OAAB steel variants
 **Galas Drenim**  
 * Removed in NOD: Armored Robe Compilation - Telvanni Robe 
 * Dunmer Nobles Overhaul  
+
+**Galbedir**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
 
 **Galen Berer**  
 * NOD: blacksmith shirt  
@@ -1787,12 +1809,18 @@ NOD: OAAB steel variants
 **Nargol gra-Uftharz**  
 * NOD: Gave iron variant pieces from TD  
 
+**Natesse**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
+
 **navam veran**  
 * Removed in NOD: Properly Clothed NPCs - mask script
 * NOD: Gave ashlander dust mask  
 
 **nedeni tenim**  
 * Armored Robe Compilation - ordinator robe 
+
+**Nedhelas**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
 
 **neesha**  
 * Hair from More Argonian Hair   
@@ -1818,6 +1846,9 @@ NOD: OAAB steel variants
 
 **Nevrila Areloth**  
 * NOD: fcot clothes  
+
+**New-Shoes Bragor**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
   
 **Nileno Dorvayn**  
 * Hlaalu Noble Facial Overhaul - Hlaalu head from TD  
@@ -2337,6 +2368,9 @@ NOD: OAAB steel variants
 
 **Thaden Ralas** 
 * Rogues Gallery - Head from TD  
+
+**Thaeril**  
+* NOD - Fashionwind Bosmer Horns & Antlers Addon
 
 **Thalurea Thirvayn** 
 * Rogues Gallery - Head from TD  
