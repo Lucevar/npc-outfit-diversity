@@ -1,0 +1,30 @@
+Say you were a caravaner, spending your entire day on a striderport in Ald'ruhn. Would you just stand there, high up, tanking ashstorms with your face?
+
+I wouldn't. I'd wear an ashmask and put a robe on!
+
+Or, say you were a slaver in the Ascadian Isles, doing the hard work of whipping khajiits all day while the sun shines on your head. Wouldn't you wear some sort of hat?
+
+To make it short, this uses vanilla clothing and some resources made by the community to put more appropriate clothing to some NPCs.
+I didn't want to go too far so there's only a handful of NPCs edited.
+
+For those worried that the addtions might be vanilla/lore breaking, worry not! Most of the models used here were inspired by concept art. Take a look at the official concept art booklet and you'll find stuff that'very close to the models I used.
+
+UPDATE 2.0
+The mod is now bigger in both size and scope. What's changed compared to the previous version?
+
+- Funcionality and items from Wear a mask have been ported over
+- More NPCs edited by the mod
+- Cool new closed helm model by Shadow Mimicry
+- Items have been scattered around and added to leveled lists
+- Funcionality of of Simple Cloth Scarf mod (version 1.0) has been ported over (by adding OAAB_data dependency that has the same model)
+- The mod is now depended on OAAB_data
+
+
+
+Credits
+R0: some resources
+Shehriazad: resources
+REDMAN: resources
+Shadow Mimicry: resources
+Von Django: resources
+Abot: scripting

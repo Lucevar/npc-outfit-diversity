@@ -1,0 +1,148 @@
+                          *****Playable Dawn, Companion,and Equipment******
+					      by Korana
+
+1.  What is this?
+2.  Installation
+3.  Changing your prexisting character into Dawn.
+4.  Credits and Usage
+5.  Contact
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  What is this?
+ 
+
+Dawn is a specially textured character inspired by the comics of Joseph Michael Linsner.
+For more information and to see what inspired Dawn, please visit http://www.linsner.com  
+If you do visit this link please note I am not accountable for any information/visual
+images on that site.  Adult content is included.
+
+There are two esps included:
+
+ 	"Playable Dawn and Equipment" adds a new race with one head and hair style,
+with a custom body (permanent underwear).  Playable Dawn is set up as her own race.
+	
+	**Please note that when you first select  the race it will be set to 
+male and nothing will show in the character selection screen.  Simply changing the sex will 
+show you the face and hair selection.
+
+The race is set up almost exactly like the Imperial race...Only Dawn has her own powers.
+on touch).  And yes, she has a head should the need to become a vampire happen.
+
+The body mesh has been updated to Better Bodies 2.1.  However, Better Bodies 2.1 is not 
+required to use this mod.  All files used from BB 2.1 have been modified and renamed.
+
+There are 4 sets of armors that fit Better Bodies 2.1.  Each set of armor is set up only
+as cuirass and boots, however you will notice in game some cuirasses have wings, necklaces,
+or pauldrens.  These have been set up this way to make changing the companion's outfits 
+easier.   The companion is NOT included in this esp.
+
+The armors,rose and thorn sheild that wraps up the right wrist, and new sword can be found
+in Caldera, Hodlismod's shop.  They are expensive.  The armors can ONLY be found here in the
+"Playable Dawn and Equipment" esp. Warning- they are expensive.
+
+	"Dawn Companion" adds a companion to Suran, Desele's House of Earthly Delights....she
+can be found upstairs.  The playable race is NOT added to this plugin.  The armor can be 
+found in the chest next to Dawn.  Her sheild and sword are on her person.
+
+DAWN COMPANION USES GRUMPY'S COMPANION PROJECT V 1.3 SCRIPTS PLEASE READ IT!!If you want to
+know what the companion can do you will HAVE TO READ GRUMPY'S READ ME!!!!
+
+All item IDs and script names have been renamed to avoid conflicting with other 
+companion mods that use the same scripts. Dawn the companion also is a different custom race
+(this one not playable) to avoid conflict with "Playable Dawn and Equipment".
+
+Dawn should be fine as a companion vampire as well.
+
+Both esps,"Playable Dawn and Equipment" and "Playable Dawn" should be 100% compatable
+with one another.
+
+
+Requires Morrowind and Tribunal.  
+
+***Copyright info***
+
+NO stoy lines or concepts from the Dawn comics and/or background was incorporated 
+into this mod.
+
+Dawn and her concept and image are property of Joseph Michael Linsner.  The face is only
+an inspiration, and is not an exact copy of the face.  The body art and outfits are not a
+direct replica of any of Dawn's existing outfits....however, they have been inspired by a few.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+2.  Installation
+
+ Extracting the files directly into your Morrowind directory should do the trick.
+   But if not:
+    
+     - The meshes folder "KO_Dawn" should be placed in your 
+          "Program Files/Bethesda Softworks/Morrowind/DataFiles/Meshes" directory
+
+     - The textures should be placed directly into your 
+           "Program Files/Bethesda Softworks/Morrowind/DataFiles/Textures" directory
+
+     -  The esps should be placed loosely in your
+	   "Program Files/Bethesda Softworks/Morrowind/DataFiles" directory
+
+     -  The icons folder "Ko_Dawn" should be placed in your
+           "Program Files/Bethesda Softworks/Morrowind/DataFiles/Icons" directory
+
+     -  This read me you can do what you please with.  
+
+Make sure you enable the mod(s) in the Morrowind Launcher before playing.
+
+IF YOU HAVE THE ESPS: "Dawn Prefabricated Char v 2.esp" or "Dawn Prefabricated Char.esp" 
+PLEASE DELETE THEM OR DO NOT USE THEM.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3. Changing your prexisting character into Dawn.
+
+Yes it is possible.  Please note this may cause problems with your game...make sure you
+backup your saves and SAVE YOUR GAME BEFORE YOU TRY THIS.
+
+Open up the console by hitting the ~ key and type in "enableracemenu"
+This will open up a menu to change your race, hair, face, etc. 
+Changing your race can cause some temporary issues, however reloading most of the
+time will solve them.
+
+  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+4. Credits, Usage, and Thanks
+
+~Robearberbil for creating the sword and the sheild meshes and textures.  
+ I owe you a kidney by now I am sure!
+
+~Durgoth for his thigh high boots (3 retextures) and Amazon War Boots (1 retexture)
+
+~Lingarn for his tight fitting leotard mesh.
+
+~Grumpy for the companion scripts.
+
+~Better Bodies team for the meshes I used and base texture for the body and hands.
+
+~Rhedd for his head mesh
+
+~Gorg for the hair mesh
+
+~Faudau for the vampire head mesh.
+
+~RavenAngel for the ideas on two seperate occasions...one for a Dawn face and another
+ for the body.  Both have been modified to be different for this project.
+
+~ and of course....Joseph Michael Linsner for the concept and creation of Dawn.
+
+~  wolvie615, Schwaa, Ben Holiday, purzel01, and CVAN75 for beta testing and giving 
+   feedback! 
+
+
+Feel free to use Dawn as you like.  However, if you do please include the information
+about Lisner and the copyright information listed above.  And please give credit where
+credit is due!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5. Contact
+
+feel free to email me at:  Roxykittyd@adelphia.net or miss_bad_kitty_21@yahoo.com

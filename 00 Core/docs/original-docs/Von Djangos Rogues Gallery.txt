@@ -1,0 +1,7 @@
+Tamriel Rebuilt has a whole selection of mean, scarred, pissed-off faces and wild hairs that are perfect for bandits and rogues.
+
+This mod adds them to over 150 hostile bandit NPCs in Morrowind found in caves.
+
+Require Tamriel_Data esm for the faces and hair.
+
+Credits - All faces and hairs are from the excellent TR Data mod. I *believe* most of them were made by the brilliant Rats.

@@ -1,0 +1,13 @@
+Makes Ra'Gruzgob the pretty kitty he was always meant to be.
+
+A very silly mod, but fun, so here you are. I choose to headcanon it as illusion magic.
+
+Requirements:
+MWSE
+Onion - Layered Accessories by Safebox
+https://www.nexusmods.com/morrowind/mods/50352
+NOD - Core.esm
+
+Credits:
+RuffinVangarr and Safebox for creating Onion and Fashionwind
+NullCascade and Melchior Dahrk for the Mage Robes code which I adapted to make the distribution scripts

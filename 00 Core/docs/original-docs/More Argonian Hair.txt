@@ -1,0 +1,19 @@
+.More Argonian Hair.
+
+=== Install ===
+Extract the folders to your Morrowind/Data folder.
+
+
+=== Description ===
+Adds several argonian hairstyles. They are variations of vanilla assets.
+Use _Plus NPCs version if you want to see the hairstyles on (over 60) NPCs and character creation.
+Hairstyles considered a bit over-the-top and were not included on NPC heads. :)
+
+8 Feathered
+7 Fins
+10 Horns
+3 Mixed
+
+=== Usage/Permissions ===
+It's all variations of vanilla assets. 
+They may be freely distributed/edited (for Morrowind purposes).

@@ -1,0 +1,13 @@
+Showing nude characters is against the terms of service for some streaming sites. 
+
+This addon gives the naked nords and dancers loincloths and a skimpy dancing outfit respectively.
+
+Requirements:
+Better Bodies
+NOD - Core.esm
+
+Credits:
+Aoimevelho's Dreamer Expansion for the loincloths
+Korana's gypsy outfits for the dancers
+Plangkye for Helviane's dress
+TD for Helviane's hair 

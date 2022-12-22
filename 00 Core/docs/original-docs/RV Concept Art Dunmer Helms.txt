@@ -1,0 +1,22 @@
+Adds several new Dunmer Helmets into the game based on designs by michael kirkbride, you can find them as generic loot throughout the world. 
+
+IDs are:
+
+_RV_Chitin Helm D (Redoran face of vengeance)
+_RV_Chitin Helm E (Telvanni Hidden enemy)
+_RV_Chitin Helm F (Hlaalu golden smile)
+_RV_Netchimans Cap
+
+
+Credits:
+The Enhanced textures team
+MerchLis for HD vanilla wearables
+
+
+All of my mods free for anyone to use as a resource for what ever you want
+and free for anyone to translate and host on other sites, as long
+as you give credit.
+
+If I've made a mistake of some kind, please let me know and I'll do my best to solve it.
+
+you can keep up to date with me and my workings by following me on this terrible website

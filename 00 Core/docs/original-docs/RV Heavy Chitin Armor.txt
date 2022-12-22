@@ -1,0 +1,20 @@
+Heavy Chitin Armor
+
+Whilst usually used to make light armor, chitin plates are occasionally layered to create heavy armor.
+
+You can find this armor in leveled loot lists, it's stronger than dwemer but weaker than ebony.
+
+If I've made a mistake or you have any suggestions please let me know.
+
+This mod was made with resources from the community and as such please feel free to use this armor in your own mods or edit it as you want.
+
+update 1.01 : added missing first person hands mesh
+update 1.05: improved uvs and rigging, also added new boots ground model
+update 1.2: slightly improved models for the boots and also removed dirty GMSTs (sorry that was sloppy of me)
+update 1.5: new models for boots and greaves (the old ones were basically retextures), also slightly improved helm and chest mesh.
+
+Thanks to:
+Danke for parts of the chest
+Niero for the scarf
+Tyermala for pointing out the missing mesh
+and special thanks to Leyawynn for helping me with a variety of things and taking the screenshots

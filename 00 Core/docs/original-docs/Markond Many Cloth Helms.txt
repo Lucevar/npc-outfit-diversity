@@ -1,0 +1,23 @@
+Adds eleven recolours of the scarfs from Axeljk's Cloth Helms mod for sale at:
+
+Seyda Neen, Arille's Tradehouse
+Ald-Ruhn, Tiras Sadus: General Merchandise
+Balmora, Ravirr: Trader.
+
+Comes in red, orange, yellow, green, light blue, deep blue, purple, rose, black, grey, and the original brown.
+
+Stats and prices are identical to the original mod.
+Cosmetic Overrides might be a good choice for those who don't want to sacrifice style for function and/or not getting stabbed in the face by bandits.
+
+Compatibility
+
+Should work with almost any body, head or hair mod. Might be some minor clipping with some longer hair styles. Uses the neck body slot but functions as a helmet, which I believe some beast race mods also make use of.
+
+There is now a Wares aware version by Danae and QwertyQuit. Npcs of all races have a chance of having a scarf, it should show up fairly evenly in merchant inventories, and members of the Great Houses, the Temple and the Ashlanders have a chance of wearing an appropriate faction colour.
+
+And now there's a Wares and DRIP version, thank you again Danae.
+
+Assets Used
+
+Cloth Helms By AxelJK for the Scarf Mesh and Icons.
+HiRez Armors - Native Styles V2 Fixed and Optimized By SaintJiub/Modified by Pherim for the cloth Textures.

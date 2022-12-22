@@ -1,0 +1,22 @@
+This mod adds a Daedric Telvanni robe the game.
+
+you can find it in Tel Fyr in Divayth's drawers.
+
+v2 UPDATE!!!!!
+I have completely remade the robe model with vastly improved textures and Uvs, as this one has no armoring I have taken out the cuirass version (I have something coming in the future for medium armor daedric things)
+
+
+Credits:
+Merlod - for creating the midjourny textures I used for this robe
+Antares - for his drakes pride robe which I partially used to make this.
+
+
+
+All of my mods free for anyone to use as a resource for what ever you want and free for anyone to translate and host on other sites,
+as long as you give credit.
+
+If I've made a mistake of some kind, please let me know and I'll do my best to solve it.
+
+you can keep up to date with me and my workings by following me on this terrible website
+
+and if you like you can also join my discord server

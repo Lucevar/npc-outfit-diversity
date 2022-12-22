@@ -1,0 +1,21 @@
+NOD - NPC Outfit Diversity
+MWSE Fashionwind - Bosmer Horns and Antlers Addon
+By Lucevar
+
+Distributes the masks, glasses, and goggles from RuffinVangarr's Fashionwind mods to some of the NPCs. See the NPC changelog file for more details about which NPCs have been changed. 
+
+Requirements:
+* MWSE
+* Onion - Layered Accessories by Safebox
+https://www.nexusmods.com/morrowind/mods/50352
+* NOD - Core.esm
+
+Compatibility: 
+Should be compatible with pretty much anything, including the original Fashionwind esp. 
+
+Credits:
+RuffinVangarr and Safebox for creating Onion and Fashionwind
+NullCascade and Melchior Dahrk for the Mage Robes code which I adapted to make the distribution scripts
+
+Permissions:
+Anything that I've done (in this case, just distributed the items to NPCs), feel free to use as you please, as long as you abide by the permissions and requirements of the modders whose assets I've used.

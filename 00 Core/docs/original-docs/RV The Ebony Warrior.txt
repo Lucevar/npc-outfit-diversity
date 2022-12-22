@@ -1,0 +1,15 @@
+This mod is obviously inspired by the ebony warrior from skyrim, a end/post game final challenge kind of opponent who puts everything you learned throughout the game to the test. Or at least that's how it should be, morrowind's combat system doesn't exactly allow for much intricacy in epic duels so he's essentially just a normal NPC with a lot of health and damage. but hey, at least he's wearing some pretty cool looking armor right?
+
+This was mostly made to implement my custom made Dunmer Ebony Armor in a satisfying way.
+
+Please let me know if there are any bugs or whatever and I'll do my best to fix them up.
+
+Join my discord (if you want to):https://discord.gg/NAv5xA
+
+Now available in french, get it here.
+
+Extra special Thanks to:
+Caeris for doing the tricky technical parts for me.
+Ateiggaer for the original concept art and design, see it here.
+SanMan227: for pointing out bugs and allowing me to fix them.
+Kahvozein71: For the french translation.

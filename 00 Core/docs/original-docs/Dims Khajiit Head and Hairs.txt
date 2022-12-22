@@ -1,0 +1,77 @@
+Dim's Khajiit Head and Hair Pack
+	By DimNussens
+	Nov 2022
+
+Version: 1.1
+Requires: Morrowind
+
+---------
+Changelog
+---------
+
+V.1.1 - Added six (three plain, three "fancy") female hair options, three new male and two new female heads.
+
+------------
+Description
+------------
+I consider this mod to be a playable modder's resource, provided "as-is."
+
+Included are thirteen heads for males, and twelve for females to a total of 25 heads. Further, there are about 10 new male hairs (7, if you exclude the vanilla mane, ponytail and "sideburns") which I have made available in up to four colors; black, brown, grey, and vanilla orange, except in the case of the vanilla hairs which are already orange. Females now have three options in the four various colors, also based on the ponytails but edited to be somewhat reminiscent of vanilla Skyrim options. The hairs are admittedly just kitbashed and modified vanilla hairs, but I'm pleased with the results.
+
+Like the hairs, the head textures are somewhat kitbashed as well. Most pull from existing heads, and I combined elements from different textures to try and create new features while retaining the vanilla aesthetic for the most part. The SCR and SCRA variant scarred heads used for each gender share the same texture between them based on the Vampire texture, but the SCRA variant has a slightly modified model in each case. The male SCRA has damaged teeth and is missing half of his right-hand barbel/"mustache." The female SCRA also has damaged teeth, with a slightly crooked chin and a few indents. I didn't go crazy because this was my first foray into using Blender but also because I wanted them to be subtle.
+
+For hair, I included black/brown/grey variants of the vanilla mane and sideburn hairs for males. I heavily modified the ponytail hair into a few variants, including a narrow tail, man bun, narrow tail + sideburns, man bun + sideburns, and my personal favorite, the "ponybangs" which come in a standard and fancy variant. The fancy variant has a few earrings and extra bangs for that Brad Pitt suaveness.
+
+Females now have a small selection of hair, all in the form of tailed hairs. These were added after consideration that Oblivion and Skyrim both added some token "hair" for female Khajiit, and also because I feel hair helps to hide the seams and flaws inherent to Morrowind's handling of heads. Plus, they look alright.
+
+Everything is provided as-is. This started off as wish self-fulfillment and grew far beyond the scope I initially intended. I started this project with no idea what I was doing with Nifskope and Blender. At this point I'm still baffled that everything seems to work, including the animations for the scarred heads. I tested them in OpenMW (my preferred platform) and the vanilla engine, with no apparent problems. The ESP was made with the Vanilla Construction Set and cleaned with TESAME.
+
+
+
+I would also like to take this opportunity to confess I hate the vanilla "sideburns" with an unexplainable passion, and the recolored variants are included for the sake of completion. They look fine when combined with other models, though.
+
+--------
+Install
+--------
+Unzip in your Data Folder, or use your preferred mod instller such as Mod Organizer 2. OpenMW users might elect to install this mod the "OpenMW Way," as explained on Modding-Openmw.com.
+
+Manual uninstallation (barring abnormal installation procedures) should be as simple as deleting the "dim" folders in your Meshes and Textures folders, as well as the included .ESP.
+
+-------------
+Compatibility
+-------------
+In theory the included .ESP should have *no* direct conflicts. All assets included are using my prefix, DIM_, and nothing in the base game was touched save to add the heads and hairs as playable records. No NPCs, cells, or vanilla records have been touched.
+
+I have no interest in supporting Mackom's Khajiit. Sorry.
+
+The mod was cleaned with TESAME to remove the evil GMSTs.
+
+-----------------
+Recommended Mods:
+-----------------
+Morrowind Enhanced Textures -- https://www.nexusmods.com/morrowind/mods/46221
+Pluginless Khajiit Head Pack -- https://www.nexusmods.com/morrowind/mods/43110
+
+This mod will work fine without either, but will look best in tandem with both.
+
+Use with the bodies replacer of your choice, though personally I prefer good ol' Better Bodies.
+
+-------
+Credits
+-------
+Danae, because I stole one of her readmes to use as a template.
+
+Morrowind Enhanced Textures by Project Enhance -- For MET's upscaled Khajiit textures upon which all of mine are based.
+
+Pluginless Khajiit Head Pack --  For the superior head models.
+
+Shoutout to the Morrowind Modding Community on Discord, where I abused the search function for anything I didn't know. There are a lot of really, really smart people there, and none of them got mad at me for posting too many images in #modmaking.
+
+Special thanks to JosephMcKean on MMC Discord for taking a look at the mod before release and catching a couple misassigned textures.
+
+-----------
+Permissions
+-----------
+MET and Pluginless Khajiit Head Pack allow reuse of their assets in noncommercial, unpaid use. As my mod is derivative of these, the contents of this mod are subject to the same restriction.
+
+I require no special permissions otherwise. Credit is appreciated but not expected.

@@ -1,0 +1,30 @@
+A smuggler by the name of Ulain has 'acquired' a set of rare ceremonial Adamantium armor, A rare and valuable work of expert dunmer craftsmanship. After being blown off by his original buyer he's now looking for discerning customers in fat-legs drop off, Hla Oad. The set in question is medium armor and of a higher quality than regular adamantium though a bit more expensive as well.
+
+The armor comes in two flavors: Cool Ranch and Raspberry.
+
+This mod uses vanilla textures and custom vanilla edited textures. you can choose between using regular vanilla edited textures (vanilla) or just use the edited enhanced vanilla textures instead (higher quality). 
+
+This is the first mod I've uploaded so if made a mistake of any sort please let me know and I'll fix it as soon as I'm able.
+
+This mod was made with resources from the community and as such please feel free to use this armor in your own mods or edit it as you want.
+
+Update 1.5: fixed a bunch of UVs, resized some of the models and made some rigging adjustments, also added new sleeve pauldrons.
+
+Update 2.0: Big overhaul: reworked and improved all of the meshes, added proper greaves, a robed cuirass, improved all original textures including a completely new texture for the fringe.
+
+update 2.1: added missing helmet textures.
+
+update 2.11: fixed seam in the firstperson gauntlets
+
+Special thanks to:
+Melchior Dahrk: for the helmet and cuirass.
+Danke: for the pauldrons.
+Dongle: for the adamantium shield textures.
+DassiD, Poodlesandwich and Gigan: for the higher res vanilla textures.
+Greatness7, Rubberman and the wonderful folks at the morrowind modding discord for helping me with this mod.
+Leyawynn: for providing the high quality screenshots
+Moranar: for the better armor meshes.
+Atteigaer: for the new fringe texture
+Ivolga: for the cuirass robe
+Remiros: for the intelligent textures.
+RedFurryDemon, Owecke, hurrdurrmurrgurr, ToothpickSword and prime882: for pointing out bugs in the mod so I could fix them.

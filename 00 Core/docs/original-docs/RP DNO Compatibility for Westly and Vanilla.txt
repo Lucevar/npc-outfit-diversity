@@ -1,0 +1,3 @@
+Makes the hair in the original mod Dunmer Nobles Overhaul compatible with vanilla or Westly's heads. The author of the original mods says that earrings and circlets should be removed from the original mod to make it compatible with other head mods but honestly 90% of them are fine and they're mostly never used in-game but are just there for the player to buy so I don't think there's any need for an esp edit.
+
+Just replace the original meshes with the ones contained in this mod and you're good to go.

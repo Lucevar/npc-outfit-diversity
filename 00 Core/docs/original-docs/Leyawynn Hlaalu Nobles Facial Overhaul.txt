@@ -1,0 +1,7 @@
+"Early concept art shows House Hlaalu with gems in their foreheads. These gems were purportedly part of the glass in the construction of the Seyda Neen." - Michael Kirkbride
+
+Tamriel_Data is required
+
+I generally chose heads that looked similar to the ones they already had so theres some sort of consistency
+
+Creating a multipatch in wrye mash is reccomended in case of any conflicts

@@ -1,0 +1,36 @@
+Hey there, outlanders. This is my very first mod for Morrowind and I hope that you will like it!
+
+
+What it adds:
+
+-A new store that can easily be found when exiting Ebonheart through the "south exit" called Humble Headgear
+
+-More than a dozen new hats and helmets. All meshes are hooked up to vanilla texture paths and will thus be compatible to most texture replacers. 
+
+-A new mini-quest given out by Redvayn. I've tried to account for the "honest" way and a dishonest way to finish this quest. So even if you are a thief that would never do honest work you might still come into contact with it!
+
+
+Requirements:
+
+-Morrowind, Tribunal, Bloodmon...nothing more!
+
+Compability:
+
+-Works with OpenMW and Vanilla Morrowind. I'm not using MGE so please tell me if there is some unexpected trouble.
+-Should work with 99% of vanilla texture replacers! If you use anything super exotic it might start looking weird.
+-Works with PeterBitt's  Mushroom replacer. I tried to place the Emperor Mushrooms that I added in such a way that they line up nicely with vanilla AND the mesh replacer!
+
+
+Installation:
+
+-Throw in the Data Files folder into your Morrowind directory. It shouldn't ask for any overwrites, if it does feel free to get back to me and I'll try to alleviate that!
+
+
+Credits:
+
+- Thanks to Bethesda for this amazing gem and the CS.
+- R-Zero (Reizeron) for the hat and helmet meshes from his "Random Resource" pack which are in part used in this mod. 
+
+Feedback:
+
+-As this is my very first mod I would LOVE to receive feedback since I plan to keep learning on how to mod Morrowind to keep making content for the forseeable future!

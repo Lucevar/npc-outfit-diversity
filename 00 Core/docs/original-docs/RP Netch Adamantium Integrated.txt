@@ -1,0 +1,10 @@
+So, the netch adamantium armour is an old classic. Changes in this version
+
+- Added the armor to leveled lists and to some NPCs
+- Removed unique head for Cythus
+- Removed fake quiver: we have weapon sheathing now
+- Removed helmet: looks too much like the standard adamantium helmet: way too fancy
+- Moved Cythus to Molag Mar Waistworks as I thought it was a better spot for a seasoned warrior (the Halfway tavern in Pelagiad is already crowded enough with AM and F&F).
+- Added a few lines of unique dialogue to Cythus, he'll tell you about his background and the netch adamantium armor
+
+Submitted as part of the May Modathlon Month

@@ -1,0 +1,19 @@
+Adds Sacred Necromancer armor to the game, used by the ordained ancestral mages of the Tribunal Temple, you can find it in various leveled lists. also adds several sacred necromancers to some Dunmer temples, you can speak to them to learn a little bit more about their role in the world. (they're just for flavor they don't really do anything else.)
+
+Lore: Sacred Necromancer is an outlander term for what the Dunmer refer to as an Ancestral Mage, ordained practitioners in the arts of sacred ancestral spirit magic. They are tutored in the city of Necrom and spread out to the rest of Morrowind to perform their holy duties such as Spirit channeling and the construction of tomb guardians such as Bonewalkers, Bonelords etc. 
+
+
+Credits:
+Greyborn2 - for the original concept
+Tamriel rebuilt - for the modified textures used.
+Lucevar - for grammar fixed esp
+qwertyquit - for the correctly mipmapped textures 
+
+
+All of my mods free for anyone to use as a resource for what ever you want
+and free for anyone to translate and host on other sites, as long
+as you give credit.
+
+If I've made a mistake of some kind, please let me know and I'll do my best to solve it.
+
+you can keep up to date with me and my workings by following me on this terrible website
