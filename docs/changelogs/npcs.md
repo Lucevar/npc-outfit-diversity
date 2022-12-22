@@ -40,6 +40,8 @@
 
 **Aengoth the Jeweler**  
 * NOD - Fashionwind Bosmer Horns & Antlers Addon
+* NOD: outfit (plangkye)
+* NOD - Fashionwind Addon: enchanters lens
 
 **Aerin**  
 * NOD: gave her a robe from fcot  
@@ -133,6 +135,9 @@
 **Alvos Sadri** 
 * Rogues Gallery - Head from TD  
 
+**Anarenen**  
+* NOD - Fashionwind Addon: alchemist lens
+
 **am-ra**  
 * Hair from More Argonian Hair
 
@@ -141,6 +146,9 @@
 
 **Anas Ulver**  
 * NOD: Netch variants, oaab hood 
+
+**Andil**  
+* NOD - Fashionwind Addon: alchemist lens
 
 **Anes Vendu**  
 * NOD: Cuirass and bracer from RV's Dwemer Scrap Armor  
@@ -189,6 +197,9 @@
 
 **argonian slave male**  
 * Hair from More Argonian Hair   
+
+**Arrille**  
+* NOD: new shirt (TD)
 
 **Ariulcabor Leontiulonus** 
 * Rogues Gallery - Head from TD  
@@ -253,6 +264,10 @@
 
 **Aumsi**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes   
+
+**Aurane Frernis**  
+* NOD - Fashionwind Addon: alchemist lens
+* NOD: Suede dress (plangkye)
 
 **avoni dren**  
 * Dunmer Nobles Overhaul  
@@ -491,8 +506,11 @@
 **Chanil-Lee**  
 * NOD: Hair from More Argonian Heads, head from TD, TD steel variant 
   
-**chargen captain**  
+**chargen captain - Sellus Gravius**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
+
+**chargen class - Socucius Ergalla**  
+* NOD - Fashionwind Addon: spectacles
 
 **cheesh-meeus**  
 * Hair from More Argonian Hair   
@@ -639,6 +657,7 @@
 
 **Detritus Caria**  
 * NOD: outfit from plangkye/slof  
+* NOD - Fashionwind Addon: monocle
 
 **Dhaunayne Aundae**  
 * NOD: gave a robe from hilgya the seamstress
@@ -1564,6 +1583,7 @@ NOD: OAAB steel variants
 
 **Louis Beauchamp**  
 * NOD: Gave him a foppish western-style outfit, with clothes from plangkye/fcot
+* NOD - Fashionwind Addon: Spectacles
 
 **Lunia Menanius** 
 * Rogues Gallery - Head from TD  
@@ -1641,6 +1661,9 @@ NOD: OAAB steel variants
 
 **Marthe Arthe**  
 * NOD: cosmopolitan robes  
+
+**Masque**  
+* NOD: TD steel variants  
 
 **Matuk gro-Magrish**  
 * NOD: Gave iron variant pieces from TD  
@@ -2153,8 +2176,14 @@ NOD: OAAB steel variants
 **selmen relas**  
 * Armored Robe Compilation - Ordinator robe 
 
+**Selvil Sareloth**  
+* NOD: caravaner hat (TD), lantern  
+
 **Selvura Andrano**  
 * NOD: fcot outfit  
+
+**Senilias Cadiusus**  
+* NOD - Fashionwind Addon: spectacles  
 
 **Senyndie**  
 * NOD: Gave TD hair, replaced robe with fcot robe, replaced shoes with fcot boots
@@ -2352,6 +2381,7 @@ NOD: OAAB steel variants
 
 **Telinturco**  
 * NOD: TD chitin variant  
+* NOD - Fashionwind Addon: Chitin facemask  
 
 **Tens Nolar**  
 * NOD: Gave TD Redoran armor  
@@ -2424,6 +2454,7 @@ NOD: OAAB steel variants
 
 **tongue_toad**  
 * Hair from More Argonian Hair   
+* NOD: outfit (slof)
 
 **Torasa Aram**  
 * Removed in NOD: Dunmer Nobles Overhaul  
@@ -2490,6 +2521,7 @@ NOD: OAAB steel variants
 
 **Ulms Drathen**  
 * NOD: Gave green scarf from more cloth helms
+* NOD - Fashionwind Addon: eyepatch  
   
 **ulumpha gra-sharob**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
@@ -2505,7 +2537,7 @@ NOD: OAAB steel variants
 
 **Undil**  
 * NOD: TD chitin variants  
-* TODO: fashionwind mask
+* NOD - Fashionwind Addon: Chitin facemask  
 
 **Unjara**  
 * Khajiit outfit diversity: ruined trousers from Dreamer Expansion  
@@ -2579,6 +2611,9 @@ NOD: OAAB steel variants
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 * Compatibility Note: Imperium - Castle Ebonheart: outfit change  
 
+**Vasesius Viciulus**  
+* NOD: extravagant shirt replacement (slof), pants replacement (vanilla)
+
 **vatollia apo**  
 * Compatibility Note: Imperial Armour Expanded - Armour changes  
 
@@ -2603,6 +2638,7 @@ NOD: OAAB steel variants
 
 **Velsa Salaron**  
 * NOD: Traveller robes, boots
+* NOD - Fashionwind Addon: alchemists lenses  
 
 **Verick Gemain**  
 * NOD: expensive shirt    
